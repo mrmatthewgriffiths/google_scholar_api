@@ -1,0 +1,1421 @@
+{
+    "search_metadata": {
+        "id": "6abd685f5abea520de17c408",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5melzgWv04FoJZDUHzPiYzpv70EcH8n2VgTnkBjSwkY/6abd685f5abea520de17c408.json",
+        "markdown_endpoint": "https://serpapi.com/searches/5melzgWv04FoJZDUHzPiYzpv70EcH8n2VgTnkBjSwkY/6abd685f5abea520de17c408.md",
+        "created_at": "2026-09-30 19:51:59 UTC",
+        "processed_at": "2026-09-30 19:51:59 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=T48JalQAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/5melzgWv04FoJZDUHzPiYzpv70EcH8n2VgTnkBjSwkY/6abd685f5abea520de17c408.html",
+        "total_time_taken": 1.92
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "T48JalQAAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Daniel S. Maynard",
+        "affiliations": "Associate Professor, University College London",
+        "email": "Verified email at ucl.ac.uk",
+        "website": "https://www.maynardlab.co.uk/",
+        "interests": [
+            {
+                "title": "Community ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:community_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acommunity_ecology"
+            },
+            {
+                "title": "Statistical ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:statistical_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astatistical_ecology"
+            },
+            {
+                "title": "Forest ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:forest_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aforest_ecology"
+            },
+            {
+                "title": "Macroecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:macroecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amacroecology"
+            },
+            {
+                "title": "Functional ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:functional_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afunctional_ecology"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=T48JalQAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Species diversity reduces risk in tropical forest restoration: a portfolio effect across heterogeneous sites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "T48JalQAAAAJ:4OULZ7Gr8RgC",
+            "authors": "R Quaglino, RJ Cole, GQ Cede\u00f1o, DA Rodr\u00edguez, J Tingle, D Maynard, ...",
+            "publication": "EcoEvoRxiv, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Functional group classification using consensus clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:u_35RYKgDlwC",
+            "citation_id": "T48JalQAAAAJ:u_35RYKgDlwC",
+            "authors": "P Ubilla Pavez, A Paz, DS Maynard",
+            "publication": "PLOS Computational Biology 22 (5), e1014278, 2026",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=559455841613397716",
+                "serpapi_link": "https://serpapi.com/search.json?cites=559455841613397716&engine=google_scholar&hl=en",
+                "cites_id": "559455841613397716"
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "Perspective: Intransitive Eco-Evolutionary Feedback Loops Maintain Coexistence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:fPk4N6BV_jEC",
+            "citation_id": "T48JalQAAAAJ:fPk4N6BV_jEC",
+            "authors": "GL Delgado, DS Maynard, J Jokela, TW Crowther",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Climate change has expanded the area where deforestation causes local warming by 0.5\u20131.2 million km2",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:rO6llkc54NcC",
+            "citation_id": "T48JalQAAAAJ:rO6llkc54NcC",
+            "authors": "WWM Verbiest, L Mirzagholi, GR Smith, T Lauber, CM Zohner, ...",
+            "publication": "One Earth 9 (2), 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Trait misalignment risk in North American forests under climate change",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:zA6iFVUQeVQC",
+            "citation_id": "T48JalQAAAAJ:zA6iFVUQeVQC",
+            "authors": "A Pickering, T Newbold, AL Pigot, C Tovar, DS Maynard",
+            "publication": "bioRxiv, 2026.03. 13.711509, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "The SORTEE guidelines for data and code quality control in ecology and evolutionary biology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:ZHo1McVdvXMC",
+            "citation_id": "T48JalQAAAAJ:ZHo1McVdvXMC",
+            "authors": "JL Pick, BJ Allen, B Bachelot, KR Bairos-Novak, JA Brand, B Class, ...",
+            "publication": "Peer Community Journal 6, 2026",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=578669736499703452",
+                "serpapi_link": "https://serpapi.com/search.json?cites=578669736499703452&engine=google_scholar&hl=en",
+                "cites_id": "578669736499703452"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Climate vulnerability of Earth\u2019s terrestrial biomes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:3s1wT3WcHBgC",
+            "citation_id": "T48JalQAAAAJ:3s1wT3WcHBgC",
+            "authors": "K Runge, C Averill, T Lauber, TN Koch, DS Maynard, D Routh, ...",
+            "publication": "Scientific Reports 15 (1), 33071, 2025",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10580892529471505213",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10580892529471505213&engine=google_scholar&hl=en",
+                "cites_id": "10580892529471505213"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "A Global Regionalisation of Tree Functional Capacity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:SeFeTyx0c_EC",
+            "citation_id": "T48JalQAAAAJ:SeFeTyx0c_EC",
+            "authors": "YG Jimenez, A Paz, L Bialic\u2010Murphy, T Crowther, DS Maynard",
+            "publication": "Global Ecology and Biogeography 34 (7), e70083, 2025",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11268052606386255924",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11268052606386255924&engine=google_scholar&hl=en",
+                "cites_id": "11268052606386255924"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Global patterns in plant environmental breadths",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:g5m5HwL7SMYC",
+            "citation_id": "T48JalQAAAAJ:g5m5HwL7SMYC",
+            "authors": "M Barandun, A Paz, N van Tiel, J van den Hoogen, L Pellissier, ...",
+            "publication": "Ecography 2025 (6), e07637, 2025",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16757763241730089039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16757763241730089039&engine=google_scholar&hl=en",
+                "cites_id": "16757763241730089039"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Effect of climate on traits of dominant and rare tree species in the world\u2019s forests",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:HoB7MX3m0LUC",
+            "citation_id": "T48JalQAAAAJ:HoB7MX3m0LUC",
+            "authors": "I Hordijk, L Poorter, J Liang, PB Reich, S De-Miguel, GJ Nabuurs, ...",
+            "publication": "Nature Communications 16 (1), 4773, 2025",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16136338824904511314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16136338824904511314&engine=google_scholar&hl=en",
+                "cites_id": "16136338824904511314"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Macroecological rules predict how biomass scales with species richness in nature",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:pqnbT2bcN3wC",
+            "citation_id": "T48JalQAAAAJ:pqnbT2bcN3wC",
+            "authors": "AL Pigot, LE Dee, AJ Richardson, DLM Cooper, N Eisenhauer, ...",
+            "publication": "Science 387 (6740), 1272-1276, 2025",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1625922510443705906",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1625922510443705906&engine=google_scholar&hl=en",
+                "cites_id": "1625922510443705906"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "The global distribution and drivers of wood density and their impact on forest carbon stocks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:ldfaerwXgEUC",
+            "citation_id": "T48JalQAAAAJ:ldfaerwXgEUC",
+            "authors": "L Mo, TW Crowther, DS Maynard, J Van den Hoogen, H Ma, ...",
+            "publication": "Nature Ecology & Evolution 8 (12), 2195-2212, 2024",
+            "cited_by": {
+                "value": 108,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13583350703040632262",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13583350703040632262&engine=google_scholar&hl=en",
+                "cites_id": "13583350703040632262"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Dominance and rarity in tree communities across the globe: Patterns, predictors and threats",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:2P1L_qKh6hAC",
+            "citation_id": "T48JalQAAAAJ:2P1L_qKh6hAC",
+            "authors": "I Hordijk, L Bialic\u2010Murphy, T Lauber, D Routh, L Poorter, MC Rivers, ...",
+            "publication": "Global Ecology and Biogeography 33 (10), e13889, 2024",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=657210848877098416",
+                "serpapi_link": "https://serpapi.com/search.json?cites=657210848877098416&engine=google_scholar&hl=en",
+                "cites_id": "657210848877098416"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Functional and phylogenetic dimensions of tree biodiversity reveal unique geographic patterns",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:35N4QoGY0k4C",
+            "citation_id": "T48JalQAAAAJ:35N4QoGY0k4C",
+            "authors": "A Paz, TW Crowther, DS Maynard",
+            "publication": "Global Ecology and Biogeography 33 (9), e13877, 2024",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14906309083691851868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14906309083691851868&engine=google_scholar&hl=en",
+                "cites_id": "14906309083691851868"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Treemendous: an R package for integrating taxonomic information across backbones",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:lSLTfruPkqcC",
+            "citation_id": "T48JalQAAAAJ:lSLTfruPkqcC",
+            "authors": "F Specker, A Paz, TW Crowther, DS Maynard",
+            "publication": "PeerJ 12, e16896, 2024",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3839660178813674958",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3839660178813674958&engine=google_scholar&hl=en",
+                "cites_id": "3839660178813674958"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Ten simple rules for using large language models in science, version 1.0",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "T48JalQAAAAJ:J_g5lzvAfSwC",
+            "authors": "GR Smith, C Bello, L Bialic-Murphy, E Clark, CS Delavaux, ...",
+            "publication": "PLOS Computational Biology 20 (1), e1011767, 2024",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14543899504966210118",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14543899504966210118&engine=google_scholar&hl=en",
+                "cites_id": "14543899504966210118"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "The global biogeography of tree leaf form and habit",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:ns9cj8rnVeAC",
+            "citation_id": "T48JalQAAAAJ:ns9cj8rnVeAC",
+            "authors": "H Ma, TW Crowther, L Mo, DS Maynard, SS Renner, J Van den Hoogen, ...",
+            "publication": "Nature plants 9 (11), 1795-1809, 2023",
+            "cited_by": {
+                "value": 81,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18170208396528231683",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18170208396528231683&engine=google_scholar&hl=en",
+                "cites_id": "18170208396528231683"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mycorrhizal feedbacks influence global forest structure and diversity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:GnPB-g6toBAC",
+            "citation_id": "T48JalQAAAAJ:GnPB-g6toBAC",
+            "authors": "CS Delavaux, JA LaManna, JA Myers, RP Phillips, S Aguilar, D Allen, ...",
+            "publication": "Communications Biology 6 (1), 1066, 2023",
+            "cited_by": {
+                "value": 81,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13207576788081171136",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13207576788081171136&engine=google_scholar&hl=en",
+                "cites_id": "13207576788081171136"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Native diversity buffers against severity of non-native tree invasions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:BqipwSGYUEgC",
+            "citation_id": "T48JalQAAAAJ:BqipwSGYUEgC",
+            "authors": "CS Delavaux, TW Crowther, CM Zohner, NM Robmann, T Lauber, ...",
+            "publication": "Nature 621 (7980), 773-781, 2023",
+            "cited_by": {
+                "value": 143,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8325820769527320930",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8325820769527320930&engine=google_scholar&hl=en",
+                "cites_id": "8325820769527320930"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Assessing the multidimensional complexity of biodiversity using a globally standardized approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:dfsIfKJdRG4C",
+            "citation_id": "T48JalQAAAAJ:dfsIfKJdRG4C",
+            "authors": "C Fournier de Lauriere, R McElderry, I Brettell, J Van Den Hoogen, ...",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5547780862916355375",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5547780862916355375&engine=google_scholar&hl=en",
+                "cites_id": "5547780862916355375"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Coarse woody debris accelerates the decomposition of deadwood inputs across temperate forest",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "T48JalQAAAAJ:YFjsv_pBGBYC",
+            "authors": "MA Bradford, GFC Veen, EM Bradford, KR Covey, TW Crowther, N Fields, ...",
+            "publication": "Biogeochemistry 164 (3), 489-507, 2023",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6018066117582550039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6018066117582550039&engine=google_scholar&hl=en",
+                "cites_id": "6018066117582550039"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Evenness mediates the global relationship between forest productivity and richness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:NMxIlDl6LWMC",
+            "citation_id": "T48JalQAAAAJ:NMxIlDl6LWMC",
+            "authors": "I Hordijk, DS Maynard, SP Hart, M Lidong, H Ter Steege, J Liang, ...",
+            "publication": "Journal of Ecology 111 (6), 1308-1326, 2023",
+            "cited_by": {
+                "value": 82,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15335954648837527408",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15335954648837527408&engine=google_scholar&hl=en",
+                "cites_id": "15335954648837527408"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Enhanced local cooling effects of forests across the globe",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:NaGl4SEjCO4C",
+            "citation_id": "T48JalQAAAAJ:NaGl4SEjCO4C",
+            "authors": "WWM Verbiest, GR Smith, L Mirzagholi, T Lauber, CM Zohner, ...",
+            "publication": "bioRxiv, 2023.10. 17.562656, 2023",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9895508734281414774",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9895508734281414774&engine=google_scholar&hl=en",
+                "cites_id": "9895508734281414774"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "The Ecological Niche at Different Spatial Scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:O3NaXMp0MMsC",
+            "citation_id": "T48JalQAAAAJ:O3NaXMp0MMsC",
+            "authors": "A Zarzo-Arias, B Uhl, D Maynard, MB Morales",
+            "publication": "Frontiers in Ecology and Evolution 11, 1296340, 2023",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17121735653408526782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17121735653408526782&engine=google_scholar&hl=en",
+                "cites_id": "17121735653408526782"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Inferring plant\u2013plant interactions using remote sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:hMod-77fHWUC",
+            "citation_id": "T48JalQAAAAJ:hMod-77fHWUC",
+            "authors": "BJW Chen, SN Teng, G Zheng, L Cui, S Li, A Staal, JUH Eitel, ...",
+            "publication": "Journal of Ecology 110 (10), 2268-2287, 2022",
+            "cited_by": {
+                "value": 32,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8320542275591369890",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8320542275591369890&engine=google_scholar&hl=en",
+                "cites_id": "8320542275591369890"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Global relationships in tree functional traits",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "T48JalQAAAAJ:JV2RwH3_ST0C",
+            "authors": "DS Maynard, L Bialic-Murphy, CM Zohner, C Averill, J van den Hoogen, ...",
+            "publication": "Nature Communications 13 (1), 1-12, 2022",
+            "cited_by": {
+                "value": 179,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16383273048787378020",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16383273048787378020&engine=google_scholar&hl=en",
+                "cites_id": "16383273048787378020"
+            },
+            "year": "2022",
+            "author_position": "first"
+        },
+        {
+            "title": "Alternative stable states of the forest mycobiome are maintained through positive feedbacks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:maZDTaKrznsC",
+            "citation_id": "T48JalQAAAAJ:maZDTaKrznsC",
+            "authors": "C Averill, C Fortunel, DS Maynard, J Van den Hoogen, MC Dietze, ...",
+            "publication": "Nature ecology & evolution 6 (4), 375-382, 2022",
+            "cited_by": {
+                "value": 84,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2245325673184566759",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2245325673184566759&engine=google_scholar&hl=en",
+                "cites_id": "2245325673184566759"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Belowground community turnover accelerates the decomposition of standing dead wood",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:k_IJM867U9cC",
+            "citation_id": "T48JalQAAAAJ:k_IJM867U9cC",
+            "authors": "MA Bradford, DS Maynard, TW Crowther, PT Frankson, JE Mohan, ...",
+            "publication": "Ecology 102 (11), e03484, 2021",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16902692750363843995",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16902692750363843995&engine=google_scholar&hl=en",
+                "cites_id": "16902692750363843995"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Quantifying microbial control of soil organic matter dynamics at macrosystem scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "T48JalQAAAAJ:bEWYMUwI8FkC",
+            "authors": "MA Bradford, SA Wood, ET Addicott, EP Fenichel, N Fields, ...",
+            "publication": "Biogeochemistry 156 (1), 19-40, 2021",
+            "cited_by": {
+                "value": 82,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18058256014475088225",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18058256014475088225&engine=google_scholar&hl=en",
+                "cites_id": "18058256014475088225"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "The global distribution and environmental drivers of aboveground versus belowground plant biomass",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:TFP_iSt0sucC",
+            "citation_id": "T48JalQAAAAJ:TFP_iSt0sucC",
+            "authors": "H Ma, L Mo, TW Crowther, DS Maynard, J van den Hoogen, BD Stocker, ...",
+            "publication": "Nature Ecology & Evolution 5 (8), 1110-1122, 2021",
+            "cited_by": {
+                "value": 336,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10158687880246045715",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10158687880246045715&engine=google_scholar&hl=en",
+                "cites_id": "10158687880246045715"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "A trait-based understanding of wood decomposition by fungi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "T48JalQAAAAJ:4JMBOYKVnBMC",
+            "authors": "N Lustenhouwer, DS Maynard, MA Bradford, DL Lindner, B Oberle, ...",
+            "publication": "Proceedings of the National Academy of Sciences 117 (21), 11551-11558, 2020",
+            "cited_by": {
+                "value": 236,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12624595042940858465",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12624595042940858465&engine=google_scholar&hl=en",
+                "cites_id": "12624595042940858465"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Distinct Assembly Processes and Microbial Communities Constrain Soil Organic Carbon Formation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "T48JalQAAAAJ:_Qo2XoVZTnwC",
+            "authors": "MA Anthony, TW Crowther, DS Maynard, J van den Hoogen, C Averill",
+            "publication": "One Earth 2 (4), 349-360, 2020",
+            "cited_by": {
+                "value": 200,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10867979402174253386",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10867979402174253386&engine=google_scholar&hl=en",
+                "cites_id": "10867979402174253386"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Fungal functional ecology: bringing a trait\u2010based approach to plant\u2010associated fungi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "T48JalQAAAAJ:R3hNpaxXUhUC",
+            "authors": "AE Zanne, K Abarenkov, ME Afkhami, CA Aguilar\u2010Trigueros, S Bates, ...",
+            "publication": "Biological Reviews 95 (2), 409-433, 2020",
+            "cited_by": {
+                "value": 369,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13626662682967544141",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13626662682967544141&engine=google_scholar&hl=en",
+                "cites_id": "13626662682967544141"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Predicting coexistence in experimental ecological communities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "T48JalQAAAAJ:e5wmG9Sq2KIC",
+            "authors": "DS Maynard, ZR Miller, S Allesina",
+            "publication": "Nature ecology & evolution 4 (1), 91-100, 2020",
+            "cited_by": {
+                "value": 79,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3253779409029029651,419562025715620726",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3253779409029029651%2C419562025715620726&engine=google_scholar&hl=en",
+                "cites_id": "3253779409029029651,419562025715620726"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "Phenotypic variability promotes diversity and stability in competitive communities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:HDshCWvjkbEC",
+            "citation_id": "T48JalQAAAAJ:HDshCWvjkbEC",
+            "authors": "DS Maynard, CA Serv\u00e1n, JA Capit\u00e1n, S Allesina",
+            "publication": "Ecology letters 22 (11), 1776-1786, 2019",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14547432528439181523",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14547432528439181523&engine=google_scholar&hl=en",
+                "cites_id": "14547432528439181523"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "The global soil community and its influence on biogeochemistry",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:TQgYirikUcIC",
+            "citation_id": "T48JalQAAAAJ:TQgYirikUcIC",
+            "authors": "TW Crowther, J Van den Hoogen, J Wan, MA Mayes, AD Keiser, L Mo, ...",
+            "publication": "Science 365 (6455), 2019",
+            "cited_by": {
+                "value": 1397,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=937117243735593691",
+                "serpapi_link": "https://serpapi.com/search.json?cites=937117243735593691&engine=google_scholar&hl=en",
+                "cites_id": "937117243735593691"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reconciling empirical interactions and species coexistence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:mB3voiENLucC",
+            "citation_id": "T48JalQAAAAJ:mB3voiENLucC",
+            "authors": "DS Maynard, JT Wootton, CA Serv\u00e1n, S Allesina",
+            "publication": "Ecology letters 22 (6), 1028-1037, 2019",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2126187483354586452",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2126187483354586452&engine=google_scholar&hl=en",
+                "cites_id": "2126187483354586452"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Consistent trade-offs in fungal trait expression across broad spatial scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "T48JalQAAAAJ:hFOr9nPyWt4C",
+            "authors": "DS Maynard, MA Bradford, KR Covey, D Lindner, J Glaeser, DA Talbert, ...",
+            "publication": "Nature microbiology 4 (5), 846-853, 2019",
+            "cited_by": {
+                "value": 157,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13202148063274979203",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13202148063274979203&engine=google_scholar&hl=en",
+                "cites_id": "13202148063274979203"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Intransitive competition is common across five major taxonomic groups and is driven by productivity, competitive rank and functional traits",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:hC7cP41nSMkC",
+            "citation_id": "T48JalQAAAAJ:hC7cP41nSMkC",
+            "authors": "S Soliveres, A Lehmann, S Boch, F Altermatt, F Carrara, TW Crowther, ...",
+            "publication": "Journal of Ecology 106 (3), 852-864, 2018",
+            "cited_by": {
+                "value": 68,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9315138869155307994",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9315138869155307994&engine=google_scholar&hl=en",
+                "cites_id": "9315138869155307994"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Species associations overwhelm abiotic conditions to dictate the structure and function of wood\u2010decay fungal communities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:qUcmZB5y_30C",
+            "citation_id": "T48JalQAAAAJ:qUcmZB5y_30C",
+            "authors": "DS Maynard, KR Covey, TW Crowther, NW Sokol, EW Morrison, SD Frey, ...",
+            "publication": "Ecology 99 (4), 801-811, 2018",
+            "cited_by": {
+                "value": 59,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2971662745451192119",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2971662745451192119&engine=google_scholar&hl=en",
+                "cites_id": "2971662745451192119"
+            },
+            "year": "2018",
+            "author_position": "first"
+        },
+        {
+            "title": "The use of artificial media in fungal ecology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "T48JalQAAAAJ:L8Ckcad2t8MC",
+            "authors": "TW Crowther, L Boddy, DS Maynard",
+            "publication": "Fungal Ecology 32, 87-91, 2018",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8257702795329591589",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8257702795329591589&engine=google_scholar&hl=en",
+                "cites_id": "8257702795329591589"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Network spandrels reflect ecological assembly",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:IWHjjKOFINEC",
+            "citation_id": "T48JalQAAAAJ:IWHjjKOFINEC",
+            "authors": "DS Maynard, CA Serv\u00e1n, S Allesina",
+            "publication": "Ecology letters 21 (3), 324-334, 2018",
+            "cited_by": {
+                "value": 68,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8669851403549760460",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8669851403549760460&engine=google_scholar&hl=en",
+                "cites_id": "8669851403549760460"
+            },
+            "year": "2018",
+            "author_position": "first"
+        },
+        {
+            "title": "Linking functional diversity and ecosystem processes: a framework for using functional diversity metrics to predict the ecosystem impact of functionally unique species",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "T48JalQAAAAJ:mVmsd5A6BfQC",
+            "authors": "SE Kuebbing, DS Maynard, MA Bradford",
+            "publication": "Journal of Ecology 106 (2), 687-698, 2018",
+            "cited_by": {
+                "value": 90,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=737397474968101650",
+                "serpapi_link": "https://serpapi.com/search.json?cites=737397474968101650&engine=google_scholar&hl=en",
+                "cites_id": "737397474968101650"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Ants: ecology and impacts in dead wood",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:-f6ydRqryjwC",
+            "citation_id": "T48JalQAAAAJ:-f6ydRqryjwC",
+            "authors": "JR King, RJ Warren, DS Maynard, MA Bradford",
+            "publication": "Saproxylic insects: diversity, ecology and conservation, 237-262, 2018",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6259236421067369265",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6259236421067369265&engine=google_scholar&hl=en",
+                "cites_id": "6259236421067369265"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "A test of the hierarchical model of litter decomposition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:dhFuZR0502QC",
+            "citation_id": "T48JalQAAAAJ:dhFuZR0502QC",
+            "authors": "MA Bradford, GF Veen, A Bonis, EM Bradford, AT Classen, ...",
+            "publication": "Nature ecology & evolution 1 (12), 1836-1845, 2017",
+            "cited_by": {
+                "value": 322,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7410970606077058979",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7410970606077058979&engine=google_scholar&hl=en",
+                "cites_id": "7410970606077058979"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Competitive network determines the direction of the diversity\u2013function relationship",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "T48JalQAAAAJ:9ZlFYXVOiuMC",
+            "authors": "DS Maynard, TW Crowther, MA Bradford",
+            "publication": "Proceedings of the National Academy of Sciences 114 (43), 11464-11469, 2017",
+            "cited_by": {
+                "value": 190,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11628751737314019695",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11628751737314019695&engine=google_scholar&hl=en",
+                "cites_id": "11628751737314019695"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Decoupling direct and indirect effects of temperature on decomposition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "T48JalQAAAAJ:M3ejUd6NZC8C",
+            "authors": "MA Rubenstein, TW Crowther, DS Maynard, JS Schilling, MA Bradford",
+            "publication": "Soil Biology and Biochemistry 112, 110-116, 2017",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7686521386941153171",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7686521386941153171&engine=google_scholar&hl=en",
+                "cites_id": "7686521386941153171"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Fungal interactions reduce carbon use efficiency",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "T48JalQAAAAJ:Wp0gIr-vW9MC",
+            "authors": "DS Maynard, TW Crowther, MA Bradford",
+            "publication": "Ecology Letters 20 (8), 1034-1042, 2017",
+            "cited_by": {
+                "value": 138,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11163361317502614594",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11163361317502614594&engine=google_scholar&hl=en",
+                "cites_id": "11163361317502614594"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Data from: A test of the hierarchical model of litter decomposition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:RGFaLdJalmkC",
+            "citation_id": "T48JalQAAAAJ:RGFaLdJalmkC",
+            "authors": "MA Bradford, CGF Veen, A Bonis, EM Bradford, AT Classen, ...",
+            "publication": "Yale University, 2017",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Predicting Global Forest Reforestation Potential",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "T48JalQAAAAJ:QIV2ME_5wuYC",
+            "authors": "TW Crowther, HB Glick, DS Maynard, W Ashley-Cantello, T Evans, ...",
+            "publication": "bioRxiv, 210062, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16519524677866717342",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16519524677866717342&engine=google_scholar&hl=en",
+                "cites_id": "16519524677866717342"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Diversity begets diversity in competition for space",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "T48JalQAAAAJ:qxL8FJ1GzNcC",
+            "authors": "DS Maynard, MA Bradford, DL Lindner, LTA van Diepen, SD Frey, ...",
+            "publication": "Nature Ecology & Evolution 1 (0156), 1-8, 2017",
+            "cited_by": {
+                "value": 138,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16045727553514278289",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16045727553514278289&engine=google_scholar&hl=en",
+                "cites_id": "16045727553514278289"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Greenhouse trace gases in deadwood",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:4TOpqqG69KYC",
+            "citation_id": "T48JalQAAAAJ:4TOpqqG69KYC",
+            "authors": "KR Covey, CPB de Mesquita, B Oberle, DS Maynard, C Bettigole, ...",
+            "publication": "Biogeochemistry 130 (3), 215-226, 2016",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12140990958451854230",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12140990958451854230&engine=google_scholar&hl=en",
+                "cites_id": "12140990958451854230"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Efficacy of remote telemetry data loggers for landscape\u2010scale monitoring: A case study of American martens",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:_kc_bZDykSQC",
+            "citation_id": "T48JalQAAAAJ:_kc_bZDykSQC",
+            "authors": "APK Sir\u00e9n, DS Maynard, JR Kilborn, PJ Pekins",
+            "publication": "Wildlife Society Bulletin 40 (3), 570-582, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11245247413747131032",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11245247413747131032&engine=google_scholar&hl=en",
+                "cites_id": "11245247413747131032"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Spatially-explicit models of global tree density",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "T48JalQAAAAJ:YOwf2qJgpHMC",
+            "authors": "HB Glick, C Bettigole, DS Maynard, KR Covey, JR Smith, TW Crowther",
+            "publication": "Scientific Data 3 (1), 160069, 2016",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17096927574677703675",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17096927574677703675&engine=google_scholar&hl=en",
+                "cites_id": "17096927574677703675"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Correction: Corrigendum: Mapping tree density at a global scale",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:aqlVkmm33-oC",
+            "citation_id": "T48JalQAAAAJ:aqlVkmm33-oC",
+            "authors": "TW Crowther, HB Glick, KR Covey, C Bettigole, DS Maynard, SM Thomas, ...",
+            "publication": "Nature 532 (7598), 268-268, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7579958667559168384",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7579958667559168384&engine=google_scholar&hl=en",
+                "cites_id": "7579958667559168384"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Understanding the dominant controls on litter decomposition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:0EnyYjriUFMC",
+            "citation_id": "T48JalQAAAAJ:0EnyYjriUFMC",
+            "authors": "MA Bradford, B Berg, DS Maynard, WR Wieder, SA Wood",
+            "publication": "Journal of Ecology 104 (1), 229-238, 2016",
+            "cited_by": {
+                "value": 794,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6921830065881209098",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6921830065881209098&engine=google_scholar&hl=en",
+                "cites_id": "6921830065881209098"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Consistent effects of eastern subterranean termites (Reticulitermes flavipes) on properties of a temperate forest soil",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:UebtZRa9Y70C",
+            "citation_id": "T48JalQAAAAJ:UebtZRa9Y70C",
+            "authors": "A Neupane, DS Maynard, MA Bradford",
+            "publication": "Soil Biology and Biochemistry 91, 84-91, 2015",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16778995681467275200",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16778995681467275200&engine=google_scholar&hl=en",
+                "cites_id": "16778995681467275200"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reply to Veresoglou: Overdependence on \u201csignificance\u201d testing in biology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:roLk4NBRz8UC",
+            "citation_id": "T48JalQAAAAJ:roLk4NBRz8UC",
+            "authors": "TW Crowther, DS Maynard, SM Thomas, P Baldrian, K Covey, SD Frey, ...",
+            "publication": "Proceedings of the National Academy of Sciences 112 (37), E5114-E5114, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1457202114254358097",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1457202114254358097&engine=google_scholar&hl=en",
+                "cites_id": "1457202114254358097"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mapping tree density at a global scale",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:Se3iqnhoufwC",
+            "citation_id": "T48JalQAAAAJ:Se3iqnhoufwC",
+            "authors": "TW Crowther, HB Glick, KR Covey, C Bettigole, DS Maynard, SM Thomas, ...",
+            "publication": "Nature 525 (7568), 201-205, 2015",
+            "cited_by": {
+                "value": 1354,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16057399735424832901",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16057399735424832901&engine=google_scholar&hl=en",
+                "cites_id": "16057399735424832901"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Growing the urban forest: tree performance in response to biotic and abiotic land management",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "T48JalQAAAAJ:_FxGoFyzp5QC",
+            "authors": "EE Oldfield, AJ Felson, DS Auyeung, TW Crowther, NF Sonti, Y Harada, ...",
+            "publication": "Restoration Ecology 23 (5), 707-718, 2015",
+            "cited_by": {
+                "value": 99,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7636606196190224295",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7636606196190224295&engine=google_scholar&hl=en",
+                "cites_id": "7636606196190224295"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Modelling the multidimensional niche by linking functional traits to competitive performance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "T48JalQAAAAJ:LkGwnXOMwfcC",
+            "authors": "DS Maynard, KE Leonard, JM Drake, DW Hall, TW Crowther, MA Bradford",
+            "publication": "Proceedings of the Royal Society B: Biological Sciences 282 (1811), 20150516, 2015",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2668326333740883346",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2668326333740883346&engine=google_scholar&hl=en",
+                "cites_id": "2668326333740883346"
+            },
+            "year": "2015",
+            "author_position": "first"
+        },
+        {
+            "title": "Environmental stress response limits microbial necromass contributions to soil organic carbon",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:WF5omc3nYNoC",
+            "citation_id": "T48JalQAAAAJ:WF5omc3nYNoC",
+            "authors": "TW Crowther, NW Sokol, EE Oldfield, DS Maynard, SM Thomas, ...",
+            "publication": "Soil Biology and Biochemistry 85, 153-161, 2015",
+            "cited_by": {
+                "value": 94,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=185798782627145484",
+                "serpapi_link": "https://serpapi.com/search.json?cites=185798782627145484&engine=google_scholar&hl=en",
+                "cites_id": "185798782627145484"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Biotic interactions mediate soil microbial feedbacks to climate change",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:ufrVoPGSRksC",
+            "citation_id": "T48JalQAAAAJ:ufrVoPGSRksC",
+            "authors": "TW Crowther, SM Thomas, DS Maynard, P Baldrian, K Covey, SD Frey, ...",
+            "publication": "Proceedings of the National Academy of Sciences 112 (22), 7033-7038, 2015",
+            "cited_by": {
+                "value": 323,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18022726275820441308",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18022726275820441308&engine=google_scholar&hl=en",
+                "cites_id": "18022726275820441308"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Temperate forest termites: ecology, biogeography, and ecosystem impacts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "T48JalQAAAAJ:eQOLeE2rZwMC",
+            "authors": "DS Maynard, TW Crowther, JR King, RJ Warren, MA Bradford",
+            "publication": "Ecological Entomology 40 (3), 199-210, 2015",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2043020264562992569",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2043020264562992569&engine=google_scholar&hl=en",
+                "cites_id": "2043020264562992569"
+            },
+            "year": "2015",
+            "author_position": "first"
+        },
+        {
+            "title": "Global tree density map",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "T48JalQAAAAJ:hqOjcs7Dif8C",
+            "authors": "TW Crowther, HB Glick, KR Covey, C Bettigole, DS Maynard, SM Thomas, ...",
+            "publication": "EliScholar, 2015",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3164923750922355564",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3164923750922355564&engine=google_scholar&hl=en",
+                "cites_id": "3164923750922355564"
+            },
+            "year": "2015",
+            "author_position": "middle"
+        },
+        {
+            "title": "Untangling the fungal niche: the trait-based approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "T48JalQAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "TW Crowther, DS Maynard, TR Crowther, J Peccia, JR Smith, ...",
+            "publication": "Frontiers in Microbiology 5, 579, 2014",
+            "cited_by": {
+                "value": 320,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14059676779324223099",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14059676779324223099&engine=google_scholar&hl=en",
+                "cites_id": "14059676779324223099"
+            },
+            "year": "2014",
+            "author_position": "middle"
+        },
+        {
+            "title": "Predicting the responsiveness of soil biodiversity to deforestation: a cross\u2010biome study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "T48JalQAAAAJ:IjCSPb-OGe4C",
+            "authors": "TW Crowther, DS Maynard, JW Leff, EE Oldfield, RL McCulley, N Fierer, ...",
+            "publication": "Global change biology 20 (9), 2983-2994, 2014",
+            "cited_by": {
+                "value": 171,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12401161828167000670",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12401161828167000670&engine=google_scholar&hl=en",
+                "cites_id": "12401161828167000670"
+            },
+            "year": "2014",
+            "author_position": "middle"
+        },
+        {
+            "title": "Climate fails to predict wood decomposition at regional scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "T48JalQAAAAJ:zYLM7Y9cAGgC",
+            "authors": "MA Bradford, RJ Warren II, P Baldrian, TW Crowther, DS Maynard, ...",
+            "publication": "Nature Climate Change 4 (7), 625-630, 2014",
+            "cited_by": {
+                "value": 402,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10676626302753636595",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10676626302753636595&engine=google_scholar&hl=en",
+                "cites_id": "10676626302753636595"
+            },
+            "year": "2014",
+            "author_position": "middle"
+        },
+        {
+            "title": "Vertical point sampling with a digital camera: Slope correction and field evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "T48JalQAAAAJ:UeHWp8X0CEIC",
+            "authors": "DS Maynard, MJ Ducey, RG Congalton, J Kershaw, J Hartter",
+            "publication": "Computers and Electronics in Agriculture 100, 131-138, 2014",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11872007099969426701",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11872007099969426701&engine=google_scholar&hl=en",
+                "cites_id": "11872007099969426701"
+            },
+            "year": "2014",
+            "author_position": "first"
+        },
+        {
+            "title": "Modeling Forest Canopy Structure and Density by Combining Point Quadrat Sampling and Survival Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "T48JalQAAAAJ:2osOgNQ5qMEC",
+            "authors": "DS Maynard, MJ Ducey, RG Congalton, J Hartter",
+            "publication": "Forest Science 59 (6), 681-692, 2013",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16236968680198947776",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16236968680198947776&engine=google_scholar&hl=en",
+                "cites_id": "16236968680198947776"
+            },
+            "year": "2013",
+            "author_position": "first"
+        },
+        {
+            "title": "Requirements for labelling forest polygons in an object-based image analysis classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "T48JalQAAAAJ:u5HHmVD_uO8C",
+            "authors": "MG MacLean, MJ Campbell, DS Maynard\u2020, MJ Ducey, RG Congalton",
+            "publication": "International Journal of Remote Sensing 34 (7), 2531-2547, 2013",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16176181534943453542",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16176181534943453542&engine=google_scholar&hl=en",
+                "cites_id": "16176181534943453542"
+            },
+            "year": "2013",
+            "author_position": "middle"
+        },
+        {
+            "title": "Forest views: Northeast Oregon survey looks at community and environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "T48JalQAAAAJ:3fE2CSJIrl8C",
+            "authors": "LC Hamilton, J Hartter, F Stevens, RG Congalton, M Ducey, M Campbell, ...",
+            "publication": "Durham, NH: Carsey Institute, University of New Hampshire, 2012",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2720246433121029118",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2720246433121029118&engine=google_scholar&hl=en",
+                "cites_id": "2720246433121029118"
+            },
+            "year": "2012",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mortality after hospitalization for heart failure in blacks compared to whites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "T48JalQAAAAJ:9yKSN-GCB0IC",
+            "authors": "HS Gordon, PR Nowlin, D Maynard, ML Berbaum, A Deswal",
+            "publication": "American Journal of Cardiology 105 (5), 694-700, 2010",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8738829551593247946",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8738829551593247946&engine=google_scholar&hl=en",
+                "cites_id": "8738829551593247946"
+            },
+            "year": "2010",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mortality risk associated with short-term exposure to traffic particles and sulfates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "T48JalQAAAAJ:u-x6o8ySG0sC",
+            "authors": "D Maynard, BA Coull, A Gryparis, J Schwartz",
+            "publication": "Environmental Health Perspectives 115 (5), 751, 2007",
+            "cited_by": {
+                "value": 236,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6464100593899830115",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6464100593899830115&engine=google_scholar&hl=en",
+                "cites_id": "6464100593899830115"
+            },
+            "year": "2007",
+            "author_position": "first"
+        },
+        {
+            "title": "The global distribution and drivers of wood density and their impact on forest carbon stocks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=T48JalQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=T48JalQAAAAJ:M05iB0D1s5AC",
+            "citation_id": "T48JalQAAAAJ:M05iB0D1s5AC",
+            "authors": "M Lidong, TW Crowther, DS Maynard, J van den Hoogen, H Ma, ...",
+            "publication": "Nature Ecology & Evolution, 0",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 9169,
+                    "since_2021": 6817
+                }
+            },
+            {
+                "h_index": {
+                    "all": 37,
+                    "since_2021": 34
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 54,
+                    "since_2021": 48
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2012,
+                "citations": 27
+            },
+            {
+                "year": 2013,
+                "citations": 23
+            },
+            {
+                "year": 2014,
+                "citations": 37
+            },
+            {
+                "year": 2015,
+                "citations": 94
+            },
+            {
+                "year": 2016,
+                "citations": 191
+            },
+            {
+                "year": 2017,
+                "citations": 242
+            },
+            {
+                "year": 2018,
+                "citations": 378
+            },
+            {
+                "year": 2019,
+                "citations": 533
+            },
+            {
+                "year": 2020,
+                "citations": 675
+            },
+            {
+                "year": 2021,
+                "citations": 957
+            },
+            {
+                "year": 2022,
+                "citations": 938
+            },
+            {
+                "year": 2023,
+                "citations": 1052
+            },
+            {
+                "year": 2024,
+                "citations": 1214
+            },
+            {
+                "year": 2025,
+                "citations": 1456
+            },
+            {
+                "year": 2026,
+                "citations": 1192
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=T48JalQAAAAJ",
+        "available": 43,
+        "not_available": 2
+    },
+    "co_authors": [
+        {
+            "name": "Thomas W Crowther",
+            "link": "https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EYjCeRIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "EYjCeRIAAAAJ",
+            "affiliations": "Restor",
+            "email": "Verified email at usys.ethz.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EYjCeRIAAAAJ&citpid=61"
+        },
+        {
+            "name": "Mark Bradford",
+            "link": "https://scholar.google.com/citations?user=dIC0w2MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dIC0w2MAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "dIC0w2MAAAAJ",
+            "affiliations": "Professor, Yale University",
+            "email": "Verified email at yale.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dIC0w2MAAAAJ&citpid=3"
+        },
+        {
+            "name": "Johan van den Hoogen",
+            "link": "https://scholar.google.com/citations?user=0Pl8Q1EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0Pl8Q1EAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "0Pl8Q1EAAAAJ",
+            "affiliations": "ETH Z\u00fcrich",
+            "email": "Verified email at usys.ethz.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0Pl8Q1EAAAAJ&citpid=3"
+        },
+        {
+            "name": "William Wieder",
+            "link": "https://scholar.google.com/citations?user=Qt4bMqAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Qt4bMqAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "Qt4bMqAAAAAJ",
+            "affiliations": "University of Colorado, National Center for Atmospheric Research",
+            "email": "Verified email at colorado.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Qt4bMqAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Colin Averill",
+            "link": "https://scholar.google.com/citations?user=s6XRPz0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=s6XRPz0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "s6XRPz0AAAAJ",
+            "affiliations": "Funga PBC",
+            "email": "Verified email at funga.earth",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=s6XRPz0AAAAJ&citpid=6"
+        },
+        {
+            "name": "Emily Oldfield",
+            "link": "https://scholar.google.com/citations?user=eKrSBqsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=eKrSBqsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "eKrSBqsAAAAJ",
+            "affiliations": "Environmental Defense Fund",
+            "email": "Verified email at edf.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=eKrSBqsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Stephen Wood",
+            "link": "https://scholar.google.com/citations?user=a_Q7K9cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=a_Q7K9cAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "a_Q7K9cAAAAJ",
+            "affiliations": "The Nature Conservancy | Yale School of the Environment",
+            "email": "Verified email at tnc.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=a_Q7K9cAAAAJ&citpid=7"
+        },
+        {
+            "name": "Kristofer Covey",
+            "link": "https://scholar.google.com/citations?user=9oFXHnQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9oFXHnQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "9oFXHnQAAAAJ",
+            "affiliations": "Skidmore College",
+            "email": "Verified email at skidmore.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9oFXHnQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lidong Mo (\u83ab\u674e\u4e1c)",
+            "link": "https://scholar.google.com/citations?user=2ec_PaoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2ec_PaoAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "2ec_PaoAAAAJ",
+            "affiliations": "Nankai University",
+            "email": "Verified email at nankai.edu.cn",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2ec_PaoAAAAJ&citpid=15"
+        },
+        {
+            "name": "Robert J. Warren II",
+            "link": "https://scholar.google.com/citations?user=CAMQphIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CAMQphIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "CAMQphIAAAAJ",
+            "affiliations": "SUNY Buffalo State University",
+            "email": "Verified email at buffalostate.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CAMQphIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daniel L. Lindner",
+            "link": "https://scholar.google.com/citations?user=xSaN0EEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xSaN0EEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "xSaN0EEAAAAJ",
+            "affiliations": "Research Plant Pathologist, USDA Forest Service",
+            "email": "Verified email at usda.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xSaN0EEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Joshua R. King",
+            "link": "https://scholar.google.com/citations?user=EA9oBlMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EA9oBlMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "EA9oBlMAAAAJ",
+            "affiliations": "Professor, University of Central Florida",
+            "email": "Verified email at ucf.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Linda van Diepen",
+            "link": "https://scholar.google.com/citations?user=enWTtJkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=enWTtJkAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "enWTtJkAAAAJ",
+            "affiliations": "University of Wyoming",
+            "email": "Verified email at uwyo.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=enWTtJkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Serita D. Frey",
+            "link": "https://scholar.google.com/citations?user=JlIqY_oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JlIqY_oAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "JlIqY_oAAAAJ",
+            "affiliations": "Professor, University of New Hampshire",
+            "email": "Verified email at unh.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JlIqY_oAAAAJ&citpid=2"
+        },
+        {
+            "name": "Stefano Allesina",
+            "link": "https://scholar.google.com/citations?user=14DTOacAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=14DTOacAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "14DTOacAAAAJ",
+            "affiliations": "Ecology & Evolution, University of Chicago",
+            "email": "Verified email at uchicago.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=14DTOacAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jeffrey R. Smith",
+            "link": "https://scholar.google.com/citations?user=wEknYNwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wEknYNwAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "wEknYNwAAAAJ",
+            "affiliations": "Postdoctoral researcher, Princeton University",
+            "email": "Verified email at princeton.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wEknYNwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mark Ducey",
+            "link": "https://scholar.google.com/citations?user=5JseyAcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5JseyAcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "5JseyAcAAAAJ",
+            "affiliations": "University of New Hampshire",
+            "email": "Verified email at unh.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5JseyAcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Russell Congalton",
+            "link": "https://scholar.google.com/citations?user=2lmFH70AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2lmFH70AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "2lmFH70AAAAJ",
+            "affiliations": "University of New Hampshire",
+            "email": "Verified email at unh.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2lmFH70AAAAJ&citpid=1"
+        },
+        {
+            "name": "Stephen M. Thomas",
+            "link": "https://scholar.google.com/citations?user=9_Dq-9wAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9_Dq-9wAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "9_Dq-9wAAAAJ",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9_Dq-9wAAAAJ&citpid=1"
+        }
+    ]
+}

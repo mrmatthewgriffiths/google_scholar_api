@@ -1,0 +1,346 @@
+{
+    "search_metadata": {
+        "id": "6abd741970e9d07080dcd7be",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/WJgLLYcPaHtFpqoMSF0CpD7sHZ0k--tlo4QmGh4FcsE/6abd741970e9d07080dcd7be.json",
+        "markdown_endpoint": "https://serpapi.com/searches/WJgLLYcPaHtFpqoMSF0CpD7sHZ0k--tlo4QmGh4FcsE/6abd741970e9d07080dcd7be.md",
+        "created_at": "2026-09-30 20:42:01 UTC",
+        "processed_at": "2026-09-30 20:42:01 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=roOJauUAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/WJgLLYcPaHtFpqoMSF0CpD7sHZ0k--tlo4QmGh4FcsE/6abd741970e9d07080dcd7be.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "roOJauUAAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Jim Labisko",
+        "affiliations": "Lecturer in Biodiversity, University College London",
+        "email": "Verified email at ucl.ac.uk",
+        "interests": [
+            {
+                "title": "Amphibians",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:amphibians",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aamphibians"
+            },
+            {
+                "title": "ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aecology"
+            },
+            {
+                "title": "adaptation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:adaptation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aadaptation"
+            },
+            {
+                "title": "speciation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:speciation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspeciation"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=roOJauUAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Distribution of a Non-Native Amphibian in Britain Explained by a Complex History of Introductions and Translocations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:WF5omc3nYNoC",
+            "citation_id": "roOJauUAAAAJ:WF5omc3nYNoC",
+            "authors": "R Hester, J Labisko, TWJ Garner, J Wang",
+            "publication": "Diversity and Distributions 32 (3), e70141, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Opportunities and challenges for monitoring terrestrial biodiversity in the robotics age",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "roOJauUAAAAJ:eQOLeE2rZwMC",
+            "authors": "S Pringle, M Dallimer, MA Goddard, LK Le Goff, E Hart, SJ Langdale, ...",
+            "publication": "Nature Ecology and Evolution, 2025",
+            "cited_by": {
+                "value": 40,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15218944519079810851",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15218944519079810851&engine=google_scholar&hl=en",
+                "cites_id": "15218944519079810851"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "FROGS, FOOD, & FEEDING",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:ufrVoPGSRksC",
+            "citation_id": "roOJauUAAAAJ:ufrVoPGSRksC",
+            "authors": "J Labisko, R Griffiths",
+            "publication": "The Lives of Frogs, 167-190, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "Invasion genomics of the alpine newt in Britain reveal a complex history of introductions and translocations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "roOJauUAAAAJ:YsMSGLbcyi4C",
+            "authors": "R Hester, J Labisko, J Wang, T Garner",
+            "publication": "Authorea Preprints, 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4932358849694443565",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4932358849694443565&engine=google_scholar&hl=en",
+                "cites_id": "4932358849694443565"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "The Lives of Frogs: A Natural History",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "roOJauUAAAAJ:W7OEmFMy1HYC",
+            "authors": "J Labisko, R Griffiths",
+            "publication": "Princeton University Press, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "Can genetic rescue help save Arabia's last big cat?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "roOJauUAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "H Al Hikmani, C van Oosterhout, T Birley, J Labisko, HA Jackson, ...",
+            "publication": "Evolutionary Applications 17 (5), e13701, 2024",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13166245144325648105",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13166245144325648105&engine=google_scholar&hl=en",
+                "cites_id": "13166245144325648105"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Diversity and Evolution of Frog Visual Opsins: Spectral Tuning and Adaptation to Distinct Light Environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "roOJauUAAAAJ:zYLM7Y9cAGgC",
+            "authors": "RK Schott, MK Fujita, JW Streicher, DJ Gower, KN Thomas, ER Loew, ...",
+            "publication": "Molecular Biology and Evolution 41 (4), msae049, 2024",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12587645685748568313",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12587645685748568313&engine=google_scholar&hl=en",
+                "cites_id": "12587645685748568313"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Cryptic Lineages among Seychelles Herpetofauna",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "roOJauUAAAAJ:Y0pCki6q_DkC",
+            "authors": "J Labisko, ST Maddock, S Rocha, DJ Gower",
+            "publication": "Cryptic Species Morphological Stasis, Circumscription, and Hidden Diversity \u2026, 2022",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16918722911328473661",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16918722911328473661&engine=google_scholar&hl=en",
+                "cites_id": "16918722911328473661"
+            },
+            "year": "2022",
+            "author_position": "first"
+        },
+        {
+            "title": "Survival of climate warming through niche shifts: Evidence from frogs on tropical islands",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "roOJauUAAAAJ:u-x6o8ySG0sC",
+            "authors": "J Labisko, N Bunbury, RA Griffiths, JJ Groombridge, L Chong\u2010Seng, ...",
+            "publication": "Global Change Biology 28 (4), 1268-1286, 2022",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4510544388890793507",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4510544388890793507&engine=google_scholar&hl=en",
+                "cites_id": "4510544388890793507"
+            },
+            "year": "2022",
+            "author_position": "first"
+        },
+        {
+            "title": "Molecular phylogenetics of sub-Saharan African natricine snakes, and the biogeographic origins of the Seychelles endemic Lycognathophis seychellensis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "roOJauUAAAAJ:d1gkVwhDpl0C",
+            "authors": "V Deepak, ST Maddock, R Williams, ZT Nagy, W Conradie, S Rocha, ...",
+            "publication": "Molecular Phylogenetics and Evolution 161, 107152, 2021",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4947163733508458240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4947163733508458240&engine=google_scholar&hl=en",
+                "cites_id": "4947163733508458240"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Phylogenomics reveals ancient gene tree discordance in the amphibian tree of life",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "roOJauUAAAAJ:UeHWp8X0CEIC",
+            "authors": "PM Hime, AR Lemmon, ECM Lemmon, E Prendini, JM Brown, ...",
+            "publication": "Systematic biology 70 (1), 49-66, 2021",
+            "cited_by": {
+                "value": 261,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15482741574607941538",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15482741574607941538&engine=google_scholar&hl=en",
+                "cites_id": "15482741574607941538"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Are the Mascarene frog (Ptychadena mascareniensis) and Brahminy blind snake (Indotyphlops braminus) really alien species in the Seychelles?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "roOJauUAAAAJ:9yKSN-GCB0IC",
+            "authors": "R Williams, DJ Gower, J Labisko, C Morel, RM Bristol, M Wilkinson, ...",
+            "publication": "Herpetological Bulletin, 17-21, 2020",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5351728189542552054",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5351728189542552054&engine=google_scholar&hl=en",
+                "cites_id": "5351728189542552054"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Endemic, endangered and evolutionarily significant: cryptic lineages in Seychelles\u2019 frogs (Anura: Sooglossidae)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "roOJauUAAAAJ:2osOgNQ5qMEC",
+            "authors": "J Labisko, RA Griffiths, L Chong-Seng, N Bunbury, ST Maddock, ...",
+            "publication": "Biological Journal of the Linnean Society 126 (3), 417-435, 2019",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9484182090650691014",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9484182090650691014&engine=google_scholar&hl=en",
+                "cites_id": "9484182090650691014"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Evolutionary relationships of the sooglossid frogs of Seychelles",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "roOJauUAAAAJ:IjCSPb-OGe4C",
+            "authors": "J Labisko",
+            "publication": "University of Kent, 2016",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2016",
+            "author_position": "first"
+        },
+        {
+            "title": "Chytrid fungus (Batrachochytrium dendrobatidis) undetected in the two orders of Seychelles amphibians",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:qjMakFHDy7sC",
+            "citation_id": "roOJauUAAAAJ:qjMakFHDy7sC",
+            "authors": "J Labisko",
+            "publication": "Herpetological Review 46 (1), 41-45, 2015",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10329696160835904128",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10329696160835904128&engine=google_scholar&hl=en",
+                "cites_id": "10329696160835904128"
+            },
+            "year": "2015",
+            "author_position": "first"
+        },
+        {
+            "title": "ASSESSMENT OF AMPHIBIANS AND OTHER BIODIVERSITY IN FOND B\u2019OFFAY AND NOUVELLE DECOVERTE CATCHMENTS, PRASLIN",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=roOJauUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=roOJauUAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "roOJauUAAAAJ:u5HHmVD_uO8C",
+            "authors": "J LABISKO, E HENRIETTE, ST MADDOCK, W ACCOUCHE, DJ GOWER",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "first"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 415,
+                    "since_2021": 391
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2021": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 7,
+                    "since_2021": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2019,
+                "citations": 3
+            },
+            {
+                "year": 2020,
+                "citations": 16
+            },
+            {
+                "year": 2021,
+                "citations": 46
+            },
+            {
+                "year": 2022,
+                "citations": 64
+            },
+            {
+                "year": 2023,
+                "citations": 53
+            },
+            {
+                "year": 2024,
+                "citations": 57
+            },
+            {
+                "year": 2025,
+                "citations": 75
+            },
+            {
+                "year": 2026,
+                "citations": 89
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=roOJauUAAAAJ",
+        "available": 7,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Simon Maddock",
+            "link": "https://scholar.google.com/citations?user=TRAlz5MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TRAlz5MAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "TRAlz5MAAAAJ",
+            "affiliations": "Newcastle University & Natural History Museum, London",
+            "email": "Verified email at newcastle.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

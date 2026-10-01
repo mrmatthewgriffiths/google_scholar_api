@@ -1,0 +1,926 @@
+{
+    "search_metadata": {
+        "id": "6abd741be22fedec1e28fd59",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e6RYmUOkHCw1sTnsPS765ERhV5H-8t1R1EONrgRpZwI/6abd741be22fedec1e28fd59.json",
+        "markdown_endpoint": "https://serpapi.com/searches/e6RYmUOkHCw1sTnsPS765ERhV5H-8t1R1EONrgRpZwI/6abd741be22fedec1e28fd59.md",
+        "created_at": "2026-09-30 20:42:03 UTC",
+        "processed_at": "2026-09-30 20:42:03 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=N2E5tqIAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/e6RYmUOkHCw1sTnsPS765ERhV5H-8t1R1EONrgRpZwI/6abd741be22fedec1e28fd59.html",
+        "total_time_taken": 0.57
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "N2E5tqIAAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Artemis Skarlatidou",
+        "affiliations": "UCL",
+        "email": "Verified email at ucl.ac.uk",
+        "interests": [
+            {
+                "title": "Citizen Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:citizen_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acitizen_science"
+            },
+            {
+                "title": "Public Engagement",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:public_engagement",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apublic_engagement"
+            },
+            {
+                "title": "Design",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:design",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adesign"
+            },
+            {
+                "title": "Trust",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:trust",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atrust"
+            },
+            {
+                "title": "Risk",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:risk",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arisk"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Gendered citizen science infrastructures: participation, recognition, and ecological labour in UK biodiversity monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:r0BpntZqJG4C",
+            "citation_id": "N2E5tqIAAAAJ:r0BpntZqJG4C",
+            "authors": "A Skarlatidou, J Al-Dalal\u2019a, V Chang",
+            "publication": "Frontiers in Environmental Science 14, 1911868, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "first"
+        },
+        {
+            "title": "Mapping Environmental Health Crises Through Myths and Science to Foster More Effective Public Understanding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "N2E5tqIAAAAJ:j3f4tGmQtD8C",
+            "authors": "M Masoodian, S Luz, J Al-Dalal\u2019a, V Bogdanova, J Butler, R Hiiemae, ...",
+            "publication": "IFIP Conference on Human-Computer Interaction, 331-339, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "The utilization of maps in geographic citizen science: A preliminary analysis of usability and user experience issues and opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "N2E5tqIAAAAJ:e5wmG9Sq2KIC",
+            "authors": "A Skarlatidou, M Moreu, M Haklay",
+            "publication": "Annals of the American Association of Geographers 115 (2), 316-333, 2025",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335079611828523239",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18335079611828523239&engine=google_scholar&hl=en",
+                "cites_id": "18335079611828523239"
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "How can bottom-up citizen science restore public trust in environmental governance and sciences? Recommendations from three case studies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "N2E5tqIAAAAJ:R3hNpaxXUhUC",
+            "authors": "A Skarlatidou, M Haklay, S Hoyte, M Van Oudheusden, IJ Bishop",
+            "publication": "Environmental Science & Policy 160, 103854, 2024",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7586065039584406210",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7586065039584406210&engine=google_scholar&hl=en",
+                "cites_id": "7586065039584406210"
+            },
+            "year": "2024",
+            "author_position": "first"
+        },
+        {
+            "title": "Challenges, strategies, and impacts of doing citizen science with marginalised and indigenous communities: reflections from project coordinators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:mB3voiENLucC",
+            "citation_id": "N2E5tqIAAAAJ:mB3voiENLucC",
+            "authors": "P Benyei, A Skarlatidou, D Argyriou, R Hall, I Theilade, N Turreira-Garc\u00eda, ...",
+            "publication": "Citizen science: theory and practice 8 (1), 21-21, 2023",
+            "cited_by": {
+                "value": 67,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16039777241266801788",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16039777241266801788&engine=google_scholar&hl=en",
+                "cites_id": "16039777241266801788"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Understanding knife crime and trust in police with young people in East London",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "N2E5tqIAAAAJ:L8Ckcad2t8MC",
+            "authors": "A Skarlatidou, L Ludwig, R Solymosi, B Bradford",
+            "publication": "Crime & Delinquency 69 (5), 943-970, 2023",
+            "cited_by": {
+                "value": 32,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13540415235235389928",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13540415235235389928&engine=google_scholar&hl=en",
+                "cites_id": "13540415235235389928"
+            },
+            "year": "2023",
+            "author_position": "first"
+        },
+        {
+            "title": "Sapelli",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "N2E5tqIAAAAJ:hFOr9nPyWt4C",
+            "authors": "M Tarrant, M Moreu, HMB Gibbs, M Haklay, J Lewis, M Laws, ...",
+            "publication": "Evaluating Participatory Mapping Software, 93-119, 2023",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9890586895259810838",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9890586895259810838&engine=google_scholar&hl=en",
+                "cites_id": "9890586895259810838"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Who participates in Digital Action? Six Vignettes for Designers of Digital Action Events",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:TQgYirikUcIC",
+            "citation_id": "N2E5tqIAAAAJ:TQgYirikUcIC",
+            "authors": "A Skarlatidou, A Sheppard, H Gibbs",
+            "publication": "EU-Citizen. Science, 2023",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2023",
+            "author_position": "first"
+        },
+        {
+            "title": "Extreme citizen science: Lessons learned from initiatives around the globe",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:qUcmZB5y_30C",
+            "citation_id": "N2E5tqIAAAAJ:qUcmZB5y_30C",
+            "authors": "RM Chiaravalloti, A Skarlatidou, S Hoyte, MM Badia, M Haklay, J Lewis",
+            "publication": "Conservation Science and Practice 4 (2), e577, 2022",
+            "cited_by": {
+                "value": 65,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9692391655263061548",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9692391655263061548&engine=google_scholar&hl=en",
+                "cites_id": "9692391655263061548"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Citizen science impact pathways for a positive contribution to public participation in science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:IWHjjKOFINEC",
+            "citation_id": "N2E5tqIAAAAJ:IWHjjKOFINEC",
+            "authors": "A Skarlatidou, M Haklay",
+            "publication": "Journal of Science Communication 20 (06), 2021",
+            "cited_by": {
+                "value": 42,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8677411492448435407",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8677411492448435407&engine=google_scholar&hl=en",
+                "cites_id": "8677411492448435407"
+            },
+            "year": "2021",
+            "author_position": "first"
+        },
+        {
+            "title": "Extreme citizen science contributions to the Sustainable Development Goals: Challenges and opportunities for a human-centred design approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:hC7cP41nSMkC",
+            "citation_id": "N2E5tqIAAAAJ:hC7cP41nSMkC",
+            "authors": "A Skarlatidou, D Fraisl, Y Wu, L See, M Haklay",
+            "publication": "IFIP Conference on Human-Computer Interaction, 20-35, 2021",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10508344980279313483",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10508344980279313483&engine=google_scholar&hl=en",
+                "cites_id": "10508344980279313483"
+            },
+            "year": "2021",
+            "author_position": "first"
+        },
+        {
+            "title": "Using Sapelli in the field: methods and data for an inclusive citizen science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "N2E5tqIAAAAJ:7PzlFSSx8tAC",
+            "authors": "F Moustard, M Haklay, J Lewis, A Albert, M Moreu, R Chiaravalloti, ...",
+            "publication": "Frontiers in Ecology and Evolution 9, 638870, 2021",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9863499842245733076",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9863499842245733076&engine=google_scholar&hl=en",
+                "cites_id": "9863499842245733076"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Citizen science case studies and their impacts on social innovation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:4DMP91E08xMC",
+            "citation_id": "N2E5tqIAAAAJ:4DMP91E08xMC",
+            "authors": "E Butkevi\u010dien\u0117, A Skarlatidou, B Bal\u00e1zs, B Du\u017e\u00ed, L Massetti, ...",
+            "publication": "The science of citizen science, 309-329, 2021",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4135177590344478984",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4135177590344478984&engine=google_scholar&hl=en",
+                "cites_id": "4135177590344478984"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Geographic Citizen Science Design: No one left behind (Introduction)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:dhFuZR0502QC",
+            "citation_id": "N2E5tqIAAAAJ:dhFuZR0502QC",
+            "authors": "MH Artemis Skarlatidou",
+            "publication": "Geographic Citizen Science Design: no one left behind 1, 3-12, 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "first"
+        },
+        {
+            "title": "Geographic citizen science design: no one left behind \u2013 an overview and synthesis of methodological, technological and interaction design recommendations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "N2E5tqIAAAAJ:QIV2ME_5wuYC",
+            "authors": "MH Artemis Skarlatidou",
+            "publication": "Geographic Citizen Science Design: no one left behind 1, 339-354, 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "first"
+        },
+        {
+            "title": "Design approaches and human\u2013computer interaction methods to support user involvement in citizen science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "N2E5tqIAAAAJ:9ZlFYXVOiuMC",
+            "authors": "CIO Artemis Skarlatidou",
+            "publication": "Geographic Citizen Science Design: no one left behind 1, 55-86, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1806539198968173833",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1806539198968173833&engine=google_scholar&hl=en",
+                "cites_id": "1806539198968173833"
+            },
+            "year": "2021",
+            "author_position": "first"
+        },
+        {
+            "title": "Understanding the Importance of Provenance from the Perspective of a Geospatial Decision-Maker",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:aqlVkmm33-oC",
+            "citation_id": "N2E5tqIAAAAJ:aqlVkmm33-oC",
+            "authors": "N Papapesios, C Ellul, A Skarlatidou, A Shakir, G Hart",
+            "publication": "3rd International Workshop on Spatial Data Quality (SDQ 2020), 66, 2020",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Experiences from Extreme Citizen Science: Using smartphone-based data collection tools with low-literate people",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "N2E5tqIAAAAJ:qxL8FJ1GzNcC",
+            "authors": "A Skarlatidou, F Moustard, M Vitos",
+            "publication": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing \u2026, 2020",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10165229033948021147",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10165229033948021147&engine=google_scholar&hl=en",
+                "cites_id": "10165229033948021147"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "Understanding interaction design challenges in mobile extreme citizen science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "N2E5tqIAAAAJ:YOwf2qJgpHMC",
+            "authors": "V Pejovic, A Skarlatidou",
+            "publication": "International Journal of Human\u2013Computer Interaction 36 (3), 251-270, 2020",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10516988674176524675",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10516988674176524675&engine=google_scholar&hl=en",
+                "cites_id": "10516988674176524675"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Geographic citizen science design: no one left behind",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "N2E5tqIAAAAJ:Wp0gIr-vW9MC",
+            "authors": "A Skarlatidou, M Haklay",
+            "publication": "UCL Press, 2020",
+            "cited_by": {
+                "value": 76,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2162166179821613536",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2162166179821613536&engine=google_scholar&hl=en",
+                "cites_id": "2162166179821613536"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "The value of stakeholder mapping to enhance co-creation in citizen science initiatives",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:4TOpqqG69KYC",
+            "citation_id": "N2E5tqIAAAAJ:4TOpqqG69KYC",
+            "authors": "A Skarlatidou, M Su\u0161kevi\u010ds, C G\u00f6bel, B Pr\u016bse, L Tauginien\u0117, ...",
+            "publication": "Citizen Science: Theory and Practice 4 (1), 24-24, 2019",
+            "cited_by": {
+                "value": 61,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8965007199722626268",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8965007199722626268&engine=google_scholar&hl=en",
+                "cites_id": "8965007199722626268"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "User experience of digital technologies in citizen science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "N2E5tqIAAAAJ:KlAtU1dfN6UC",
+            "authors": "A Skarlatidou, M Ponti, J Sprinks, C Nold, M Haklay, E Kanjo",
+            "publication": "Journal of Science Communication 18 (01), 2019",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8682521681244967717",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8682521681244967717&engine=google_scholar&hl=en",
+                "cites_id": "8682521681244967717"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "What do volunteers want from citizen science technologies? A systematic literature review and best practice guidelines",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "N2E5tqIAAAAJ:kNdYIx-mwKoC",
+            "authors": "A Skarlatidou, A Hamilton, M Vitos, M Haklay",
+            "publication": "JCOM: Journal of Science Communication 18 (1), 2019",
+            "cited_by": {
+                "value": 109,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6600099731947302752",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6600099731947302752&engine=google_scholar&hl=en",
+                "cites_id": "6600099731947302752"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Maps in Citizen Science: A Preliminary Analysis of Use and User Issues.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:_kc_bZDykSQC",
+            "citation_id": "N2E5tqIAAAAJ:_kc_bZDykSQC",
+            "authors": "A Skarlatidou, M Moreu",
+            "publication": "Abstracts of the ICA 1, 1, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16184856030535026720",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16184856030535026720&engine=google_scholar&hl=en",
+                "cites_id": "16184856030535026720"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Designing collaborative data collection interfaces for low-literate users",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "N2E5tqIAAAAJ:ULOm3_A8WrAC",
+            "authors": "A Skarlatidou, C Trimm, M Vitos, M Haklay",
+            "publication": "Proceedings of 17th European Conference on Computer-Supported Cooperative Work, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=736916491288386629",
+                "serpapi_link": "https://serpapi.com/search.json?cites=736916491288386629&engine=google_scholar&hl=en",
+                "cites_id": "736916491288386629"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "What path and how fast? The effect of flight time and path on user spatial understanding in map tour animations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:5nxA0vEk-isC",
+            "citation_id": "N2E5tqIAAAAJ:5nxA0vEk-isC",
+            "authors": "R Treves, A Skarlatidou",
+            "publication": "Cartography and Geographic Information Science 45 (2), 128-139, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18290117994809028892",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18290117994809028892&engine=google_scholar&hl=en",
+                "cites_id": "18290117994809028892"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Usability engineering and evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:HDshCWvjkbEC",
+            "citation_id": "N2E5tqIAAAAJ:HDshCWvjkbEC",
+            "authors": "K Ooms, A Skarlatidou",
+            "publication": "The geographic information science & technology body of knowledge, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13631976094637025495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13631976094637025495&engine=google_scholar&hl=en",
+                "cites_id": "13631976094637025495"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Citizen science with GIS&T",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "N2E5tqIAAAAJ:MXK_kJrjxJIC",
+            "authors": "P Rickles, ME Haklay, C Ellul, A Skarlatidou",
+            "publication": "The geographic information science & technology body of knowledge, 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10790962505053394583",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10790962505053394583&engine=google_scholar&hl=en",
+                "cites_id": "10790962505053394583"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Improved methods for fire risk assessment in low-income and informal settlements",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:0EnyYjriUFMC",
+            "citation_id": "N2E5tqIAAAAJ:0EnyYjriUFMC",
+            "authors": "J Twigg, N Christie, J Haworth, E Osuteye, A Skarlatidou",
+            "publication": "International journal of environmental research and public health 14 (2), 139, 2017",
+            "cited_by": {
+                "value": 141,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8500045318770230361",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8500045318770230361&engine=google_scholar&hl=en",
+                "cites_id": "8500045318770230361"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Which path and how fast? The effect of flight time and path on user understanding in 3-D fly-over animations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "N2E5tqIAAAAJ:W7OEmFMy1HYC",
+            "authors": "R Treves, A Skarlatidou",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Preliminary Investigations into the Usability of 3D Environments for 2D GIS Users",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "N2E5tqIAAAAJ:hqOjcs7Dif8C",
+            "authors": "YT Lu, C Ellul, A Skarlatidou",
+            "publication": "Proceedings of the 24th GIS Research UK (GISRUK) Conference, Greenwich, UK, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17920973516304671345",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17920973516304671345&engine=google_scholar&hl=en",
+                "cites_id": "17920973516304671345"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Guidelines for trust interface design for public engagement Web GIS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:WF5omc3nYNoC",
+            "citation_id": "N2E5tqIAAAAJ:WF5omc3nYNoC",
+            "authors": "A Skarlatidou, T Cheng, M Haklay",
+            "publication": "International Journal of Geographical Information Science 27 (8), 1668-1687, 2013",
+            "cited_by": {
+                "value": 55,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4577114570127078888",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4577114570127078888&engine=google_scholar&hl=en",
+                "cites_id": "4577114570127078888"
+            },
+            "year": "2013",
+            "author_position": "first"
+        },
+        {
+            "title": "An approach towards considering users\u2019 requirements in transport data visualisation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:Se3iqnhoufwC",
+            "citation_id": "N2E5tqIAAAAJ:Se3iqnhoufwC",
+            "authors": "G Tanaksaranond, A Skarlatidou, T Cheng",
+            "publication": "Proceedings of GISRUK 2013, 2013",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2013",
+            "author_position": "middle"
+        },
+        {
+            "title": "What do lay people want to know about the disposal of nuclear waste? A mental model approach to the design and development of an online risk communication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "N2E5tqIAAAAJ:IjCSPb-OGe4C",
+            "authors": "A Skarlatidou, T Cheng, M Haklay",
+            "publication": "Risk Analysis: An International Journal 32 (9), 1496-1511, 2012",
+            "cited_by": {
+                "value": 75,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13200328805198634306",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13200328805198634306&engine=google_scholar&hl=en",
+                "cites_id": "13200328805198634306"
+            },
+            "year": "2012",
+            "author_position": "first"
+        },
+        {
+            "title": "Trust in web geographical information systems for public participation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:UebtZRa9Y70C",
+            "citation_id": "N2E5tqIAAAAJ:UebtZRa9Y70C",
+            "authors": "A Skarlatidou",
+            "publication": "UCL (University College London), 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10020816441022839634",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10020816441022839634&engine=google_scholar&hl=en",
+                "cites_id": "10020816441022839634"
+            },
+            "year": "2012",
+            "author_position": "first"
+        },
+        {
+            "title": "Investigating non-experts trust perceptions in spatial decision support systems for public use",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "N2E5tqIAAAAJ:Y0pCki6q_DkC",
+            "authors": "A Skarlatidou, M Haklay, T Cheng, A Bolbol",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3755026973995516986",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3755026973995516986&engine=google_scholar&hl=en",
+                "cites_id": "3755026973995516986"
+            },
+            "year": "2011",
+            "author_position": "first"
+        },
+        {
+            "title": "Trust in Web GIS: the role of the trustee attributes in the design of trustworthy Web GIS applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "N2E5tqIAAAAJ:d1gkVwhDpl0C",
+            "authors": "A Skarlatidou, M Haklay, T Cheng",
+            "publication": "International Journal of Geographical Information Science 25 (12), 1913-1930, 2011",
+            "cited_by": {
+                "value": 59,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12993280729775777462",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12993280729775777462&engine=google_scholar&hl=en",
+                "cites_id": "12993280729775777462"
+            },
+            "year": "2011",
+            "author_position": "first"
+        },
+        {
+            "title": "Identifying intermediary modes from GPS data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "N2E5tqIAAAAJ:_FxGoFyzp5QC",
+            "authors": "A Bolbol, T CHENG, I Tsapakis, A Skarlatidou",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2011",
+            "author_position": "last"
+        },
+        {
+            "title": "Understanding the influence of specific Web GIS attributes in the formation of non-experts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "N2E5tqIAAAAJ:eQOLeE2rZwMC",
+            "authors": "A Skarlatidou, J Wardlaw, M Haklay, T Cheng",
+            "publication": "Proceedings of the 25th international cartographic conference, Paris, 2011",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3799999151109127208",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3799999151109127208&engine=google_scholar&hl=en",
+                "cites_id": "3799999151109127208"
+            },
+            "year": "2011",
+            "author_position": "first"
+        },
+        {
+            "title": "Understanding the influence of specific Web GIS attributes in the formation of non-experts\u2019 trust perceptions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "N2E5tqIAAAAJ:YsMSGLbcyi4C",
+            "authors": "A Skarlatidou, J Cheng, T., Wardlaw, M Haklay",
+            "publication": "Proceedings of the 25th International Cartographic Conference, 2011",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4177342050124377091,2970250443222042015",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4177342050124377091%2C2970250443222042015&engine=google_scholar&hl=en",
+                "cites_id": "4177342050124377091,2970250443222042015"
+            },
+            "year": "2011",
+            "author_position": "first"
+        },
+        {
+            "title": "Discriminant analysis for assigning short-term counts to seasonal adjustment factor groupings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "N2E5tqIAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "I Tsapakis, WH Schneider IV, A Bolbol, A Skarlatidou",
+            "publication": "Transportation research record 2256 (1), 112-119, 2011",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15083503812349213463",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15083503812349213463&engine=google_scholar&hl=en",
+                "cites_id": "15083503812349213463"
+            },
+            "year": "2011",
+            "author_position": "last"
+        },
+        {
+            "title": "Preliminiary Investigation of Web GIS Trust: The Example of the \u201cWIYBY\u201d Website",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "N2E5tqIAAAAJ:2osOgNQ5qMEC",
+            "authors": "A Skarlatidou, M Haklay, T Cheng",
+            "publication": "International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2010",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2174207277267533069",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2174207277267533069&engine=google_scholar&hl=en",
+                "cites_id": "2174207277267533069"
+            },
+            "year": "2010",
+            "author_position": "first"
+        },
+        {
+            "title": "Usability engineering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "N2E5tqIAAAAJ:zYLM7Y9cAGgC",
+            "authors": "M Haklay, A Skarlatidou, C Tob\u00f3n",
+            "publication": "Interacting with geospatial technologies, 107-123, 2010",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14826643958798850116",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14826643958798850116&engine=google_scholar&hl=en",
+                "cites_id": "14826643958798850116"
+            },
+            "year": "2010",
+            "author_position": "middle"
+        },
+        {
+            "title": "Human\u2010Computer Interaction and Geospatial Technologies\u2013Context",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "N2E5tqIAAAAJ:UeHWp8X0CEIC",
+            "authors": "M Haklay, A Skarlatidou",
+            "publication": "Interacting with geospatial technologies, 1-18, 2010",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6501980000899610067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6501980000899610067&engine=google_scholar&hl=en",
+                "cites_id": "6501980000899610067"
+            },
+            "year": "2010",
+            "author_position": "last"
+        },
+        {
+            "title": "Web\u2010Mapping Applications and HCI Considerations for their Design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "N2E5tqIAAAAJ:u-x6o8ySG0sC",
+            "authors": "A Skarlatidou",
+            "publication": "Interacting with geospatial technologies, 245-264, 2010",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12319647960425068095",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12319647960425068095&engine=google_scholar&hl=en",
+                "cites_id": "12319647960425068095"
+            },
+            "year": "2010",
+            "author_position": "first"
+        },
+        {
+            "title": "Cognitive walkthrough and heuristic evaluation for Web GIS usability and trust implications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:roLk4NBRz8UC",
+            "citation_id": "N2E5tqIAAAAJ:roLk4NBRz8UC",
+            "authors": "A Skarlatidou, M Haklay, T Cheng",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14463758571654688899",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14463758571654688899&engine=google_scholar&hl=en",
+                "cites_id": "14463758571654688899"
+            },
+            "year": "2010",
+            "author_position": "first"
+        },
+        {
+            "title": "Trust in Web GIS: a preliminary investigation of the environment agency\u2019s WIYBY website with non-expert users",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "N2E5tqIAAAAJ:9yKSN-GCB0IC",
+            "authors": "A Skarlatidou, M Haklay, T Cheng, N Francis",
+            "publication": "Proceedings of the GIS Research UK 18th Annual Conference, 439-446, 2010",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9581691945421942977",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9581691945421942977&engine=google_scholar&hl=en",
+                "cites_id": "9581691945421942977"
+            },
+            "year": "2010",
+            "author_position": "first"
+        },
+        {
+            "title": "Real-time collaborative participation feedback for F2F-CSCW",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:Zph67rFs4hoC",
+            "citation_id": "N2E5tqIAAAAJ:Zph67rFs4hoC",
+            "authors": "A Maciel, A Skarlatidou, J Tompkin, P Weber",
+            "publication": "Hypothesis 1, 27, 2008",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2008",
+            "author_position": "middle"
+        },
+        {
+            "title": "Public web mapping: preliminary usability evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "N2E5tqIAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Skarlatidou, M Haklay",
+            "cited_by": {
+                "value": 78,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17658438484097062764",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17658438484097062764&engine=google_scholar&hl=en",
+                "cites_id": "17658438484097062764"
+            },
+            "year": "2006",
+            "author_position": "first"
+        },
+        {
+            "title": "UCL, UK",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "N2E5tqIAAAAJ:4JMBOYKVnBMC",
+            "authors": "A Skarlatidou, M Haklay",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "first"
+        },
+        {
+            "title": "Bridging Myths and Science: Participatory Mapping as a Tool for Creating, Sharing and Communicating Environmental and Health Crises Information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "N2E5tqIAAAAJ:RHpTSmoSYBkC",
+            "authors": "J Al-Dalal'a, A Skarlatidou, V Bogdanevab, J Butlerc, R Hiiem\u00e4ed, S Luze, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        },
+        {
+            "title": "Geographic citizen science design: no one left behind\u2013an overview and synthesis of methodological, technological and interaction design recommendations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "N2E5tqIAAAAJ:_Qo2XoVZTnwC",
+            "authors": "A Skarlatidou, M Haklay",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "first"
+        },
+        {
+            "title": "Gennady Andrienko Fraunhofer Institute for Intelligent Analysis, Germany Iva Barisic ETH Zurich, Switzerland Arzu \u00c7\u00f6ltekin University of Zurich, Switzerland Florian Daiber \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "N2E5tqIAAAAJ:ZeXyd9-uunAC",
+            "authors": "C Davies, B Emo, SI Fabrikant, M Hegarty, C H\u00f6lscher, C Kray, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        },
+        {
+            "title": "Special Issue on User Experience of Digital Technologies in Citizen Science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "N2E5tqIAAAAJ:3fE2CSJIrl8C",
+            "authors": "A Skarlatidou, M Ponti, M Haklay, E Kanjo, C Nold, J Preece, J Sprinks",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "first"
+        },
+        {
+            "title": "GS-24-Citizen Science with GIS&T",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N2E5tqIAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=N2E5tqIAAAAJ:8k81kl-MbHgC",
+            "citation_id": "N2E5tqIAAAAJ:8k81kl-MbHgC",
+            "authors": "P Rickles, M Haklay, C Ellul, A Skarlatidou",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "last"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 1257,
+                    "since_2021": 921
+                }
+            },
+            {
+                "h_index": {
+                    "all": 18,
+                    "since_2021": 16
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 25,
+                    "since_2021": 19
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2008,
+                "citations": 4
+            },
+            {
+                "year": 2009,
+                "citations": 6
+            },
+            {
+                "year": 2010,
+                "citations": 7
+            },
+            {
+                "year": 2011,
+                "citations": 15
+            },
+            {
+                "year": 2012,
+                "citations": 12
+            },
+            {
+                "year": 2013,
+                "citations": 34
+            },
+            {
+                "year": 2014,
+                "citations": 26
+            },
+            {
+                "year": 2015,
+                "citations": 23
+            },
+            {
+                "year": 2016,
+                "citations": 25
+            },
+            {
+                "year": 2017,
+                "citations": 35
+            },
+            {
+                "year": 2018,
+                "citations": 25
+            },
+            {
+                "year": 2019,
+                "citations": 46
+            },
+            {
+                "year": 2020,
+                "citations": 56
+            },
+            {
+                "year": 2021,
+                "citations": 85
+            },
+            {
+                "year": 2022,
+                "citations": 132
+            },
+            {
+                "year": 2023,
+                "citations": 156
+            },
+            {
+                "year": 2024,
+                "citations": 170
+            },
+            {
+                "year": 2025,
+                "citations": 227
+            },
+            {
+                "year": 2026,
+                "citations": 145
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=N2E5tqIAAAAJ",
+        "available": 15,
+        "not_available": 2
+    }
+}

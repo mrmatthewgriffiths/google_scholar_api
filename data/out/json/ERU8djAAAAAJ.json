@@ -1,0 +1,1135 @@
+{
+    "search_metadata": {
+        "id": "6abd741799d5f48d29a6048b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/KJ4bdLZner4oBtDK8pIaqXvq80Z4-sfYcM8U7DEHDHQ/6abd741799d5f48d29a6048b.json",
+        "markdown_endpoint": "https://serpapi.com/searches/KJ4bdLZner4oBtDK8pIaqXvq80Z4-sfYcM8U7DEHDHQ/6abd741799d5f48d29a6048b.md",
+        "created_at": "2026-09-30 20:41:59 UTC",
+        "processed_at": "2026-09-30 20:41:59 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=ERU8djAAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/KJ4bdLZner4oBtDK8pIaqXvq80Z4-sfYcM8U7DEHDHQ/6abd741799d5f48d29a6048b.html",
+        "total_time_taken": 2.39
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "ERU8djAAAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Rory Gibb",
+        "affiliations": "Department of Genetics, Evolution & Environment, University College London",
+        "email": "Verified email at ucl.ac.uk",
+        "website": "https://rorygibb.wordpress.com/",
+        "interests": [
+            {
+                "title": "Disease ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:disease_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adisease_ecology"
+            },
+            {
+                "title": "zoonotic/vector-borne disease",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:zoonotic_vector_borne_disease",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Azoonotic_vector_borne_disease"
+            },
+            {
+                "title": "climate change",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:climate_change",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclimate_change"
+            },
+            {
+                "title": "epidemiology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:epidemiology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aepidemiology"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ERU8djAAAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "An integrated One Health methodology to study Rift Valley fever, Crimean-Congo haemorrhagic fever and brucellosis at the human-livestock-wildlife interface in Uganda",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:pqnbT2bcN3wC",
+            "citation_id": "ERU8djAAAAAJ:pqnbT2bcN3wC",
+            "authors": "D Kizito, S Tweed, J Mutyaba, N Babi, SA Lule, GN Kiggundu, R Gibb, ...",
+            "publication": "One Health, 101576, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "The anthropogenic fingerprint on emerging infectious diseases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "ERU8djAAAAAJ:e5wmG9Sq2KIC",
+            "authors": "R Gibb, SJ Ryan, DM Pigott, MP Fernandez, RL Muylaert, GF Albery, ...",
+            "publication": "Nature, 1-9, 2026",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17244468479442360145",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17244468479442360145&engine=google_scholar&hl=en",
+                "cites_id": "17244468479442360145"
+            },
+            "year": "2026",
+            "author_position": "first"
+        },
+        {
+            "title": "Mining online behavioural data to measure zoonotic spillover risk",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:g5m5HwL7SMYC",
+            "citation_id": "ERU8djAAAAAJ:g5m5HwL7SMYC",
+            "authors": "B\u00d3 Conchubhair, MJ Farrell, R Gibb, L Kirkpatrick, DW Redding, ...",
+            "publication": "EcoEvoRxiv, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Varying impacts of land-use on the diversity of parasitic nematodes associated with soil metazoan hosts among climatic regions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:ldfaerwXgEUC",
+            "citation_id": "ERU8djAAAAAJ:ldfaerwXgEUC",
+            "authors": "Z Naseem, ZP Li, R Ali, JLK Coulibaly, BD Efeykin, AV Tiunov, R Gibb, ...",
+            "publication": "Basic and Applied Ecology, 151861, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "A protocol for biodiversity-informed wildlife disease surveillance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:RGFaLdJalmkC",
+            "citation_id": "ERU8djAAAAAJ:RGFaLdJalmkC",
+            "authors": "MD Catchen, F Banville, AC Boutin, CB Brookson, CJ Carlson, ...",
+            "publication": "PLOS Ecosystems 1 (1), e0000023, 2026",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=886180743322663155",
+                "serpapi_link": "https://serpapi.com/search.json?cites=886180743322663155&engine=google_scholar&hl=en",
+                "cites_id": "886180743322663155"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Pandemic risk in the Shared Socioeconomic Pathways",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:35N4QoGY0k4C",
+            "citation_id": "ERU8djAAAAAJ:35N4QoGY0k4C",
+            "authors": "TE Lavelle, CA S\u00e1nchez, M Andrijevic, DJ Becker, R Gibb, GS Gonsalves, ...",
+            "publication": "medRxiv, 2026.07. 29.26359250, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Zoonotic Disease Prevalence, Endemicity, And Spillover Risk in Uganda's Hunting Communities: A One Health Study of Human-Animal-Environment Interactions and Local Knowledge \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:70eg2SAEIzsC",
+            "citation_id": "ERU8djAAAAAJ:70eg2SAEIzsC",
+            "authors": "D Kizito, M Haumba, P Katushabe, RS Ogwal, W Ssembajjwe, J Mutyaba, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Host\u2013virus association databases as tools for understanding viral spillover at varying scales",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:lSLTfruPkqcC",
+            "citation_id": "ERU8djAAAAAJ:lSLTfruPkqcC",
+            "authors": "IC Lindsley, MM Juman, SN Seifert, R Gibb, GF Albery, F Jephcott, ...",
+            "publication": "PLOS Neglected Tropical Diseases 20 (5), e0013343, 2026",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16045530092533567590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16045530092533567590&engine=google_scholar&hl=en",
+                "cites_id": "16045530092533567590"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Scaling Lassa Virus Dynamics within Anthropogenic Ecosystems (SCAPES) Study Protocol: a mixed-methods observational cohort study of humans, rodents, and landscapes in Nigeria.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:RYcK_YlVTxYC",
+            "citation_id": "ERU8djAAAAAJ:RYcK_YlVTxYC",
+            "authors": "S Friant, D Simons, C Harden, N Imirzian, O Bjornstad, R Gibb, K Jones, ...",
+            "publication": "Wellcome Open Research 11, 125, 2026",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11008750281111262643",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11008750281111262643&engine=google_scholar&hl=en",
+                "cites_id": "11008750281111262643"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Land use gradients drive spatial variation in Lassa fever host communities in the Eastern Province of Sierra Leone",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:maZDTaKrznsC",
+            "citation_id": "ERU8djAAAAAJ:maZDTaKrznsC",
+            "authors": "D Simons, R Gibb, U Bangura, D Sondufu, J Lamin, J Koninga, M Foday, ...",
+            "publication": "Journal of Animal Ecology 95 (2), 296-312, 2026",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14265080381628341640",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14265080381628341640&engine=google_scholar&hl=en",
+                "cites_id": "14265080381628341640"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Compound climate extremes, socioeconomic conditions and human mobility influence dengue dynamics heterogeneously across Vietnam",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:M05iB0D1s5AC",
+            "citation_id": "ERU8djAAAAAJ:M05iB0D1s5AC",
+            "authors": "C Fletcher, S Belman, KQ Do, QD Pham, TTT Nguyen, R Gibb, PT Lan, ...",
+            "publication": "medRxiv, 2026.09. 19.26363468, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Contributions of human-caused climate change and individual emitters to global coral bleaching",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:2P1L_qKh6hAC",
+            "citation_id": "ERU8djAAAAAJ:2P1L_qKh6hAC",
+            "authors": "C Trisos, M Kotz, P Pande, R Gibb, A Meyer, O Bates, C Callahan, ...",
+            "publication": "bioRxiv, 2026.09. 08.750055, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Climate sensitivity is widely but unevenly spread across zoonotic diseases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:ns9cj8rnVeAC",
+            "citation_id": "ERU8djAAAAAJ:ns9cj8rnVeAC",
+            "authors": "A Trebski, L Gourlay, R Gibb, N Imirzian, DW Redding",
+            "publication": "Proceedings of the National Academy of Sciences 122 (50), e2422851122, 2025",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11912333951276350612",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11912333951276350612&engine=google_scholar&hl=en",
+                "cites_id": "11912333951276350612"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Health losses attributed to anthropogenic climate change",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:r0BpntZqJG4C",
+            "citation_id": "ERU8djAAAAAJ:r0BpntZqJG4C",
+            "authors": "CJ Carlson, D Mitchell, R Gibb, RF Stuart-Smith, T Carleton, TE Lavelle, ...",
+            "publication": "Nature Climate Change 15 (10), 1052-1055, 2025",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13934600534722076073,10783654263027031239",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13934600534722076073%2C10783654263027031239&engine=google_scholar&hl=en",
+                "cites_id": "13934600534722076073,10783654263027031239"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Evidence of ecosystem process recovery across a large-scale coral reef restoration programme using AI accelerated soundscape analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:BqipwSGYUEgC",
+            "citation_id": "ERU8djAAAAAJ:BqipwSGYUEgC",
+            "authors": "B Williams, Mars Coral Restoration Project Monitoring Team, A Naseem, ...",
+            "publication": "bioRxiv, 2025.09. 24.678197, 2025",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14652664995009632188",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14652664995009632188&engine=google_scholar&hl=en",
+                "cites_id": "14652664995009632188"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Scaling Lassa Virus Dynamics within Anthropogenic Ecosystems (SCAPES) study: a mixed-methods observational cohort study of humans, rodents, and landscapes in Nigeria",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "ERU8djAAAAAJ:YFjsv_pBGBYC",
+            "authors": "S Friant, D Simons, O Bjornstad, R Gibb, C Harden, N Imirzian, K Jones, ...",
+            "publication": "medRxiv, 2025.09. 12.25335176, 2025",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17795933687061293618",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17795933687061293618&engine=google_scholar&hl=en",
+                "cites_id": "17795933687061293618"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reducing the threats of rodent-borne zoonoses requires an understanding and leveraging of three key pillars: disease ecology, synanthropy, and rodentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:NMxIlDl6LWMC",
+            "citation_id": "ERU8djAAAAAJ:NMxIlDl6LWMC",
+            "authors": "S Friant, J Mistrick, AD Luis, C Harden, D Simons, E Fichet-Calvet, R Gibb, ...",
+            "publication": "The Lancet Planetary Health 9 (9), 2025",
+            "cited_by": {
+                "value": 32,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8252335302605003305",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8252335302605003305&engine=google_scholar&hl=en",
+                "cites_id": "8252335302605003305"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "NCBITaxonomy. jl: rapid biological names finding and reconciliation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:hMod-77fHWUC",
+            "citation_id": "ERU8djAAAAAJ:hMod-77fHWUC",
+            "authors": "T Poisot, R Gibb, SJ Ryan, CJ Carlson",
+            "publication": "BMC Ecology and Evolution 25 (1), 84, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Biodiversity science and biosurveillance are fellow travelers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:blknAaTinKkC",
+            "citation_id": "ERU8djAAAAAJ:blknAaTinKkC",
+            "authors": "T Poisot, DJ Becker, MD Catchen, R Gibb, PHF Shimabukuro, CJ Carlson",
+            "publication": "BioScience, biaf091, 2025",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16415044531255989510",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16415044531255989510&engine=google_scholar&hl=en",
+                "cites_id": "16415044531255989510"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Modelling the impact of climate and the environment on the spatiotemporal dynamics of Lyme borreliosis in Germany",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "ERU8djAAAAAJ:JV2RwH3_ST0C",
+            "authors": "ML Batista, B Carvalho, R Gibb, B Solaraju-Murali, S Flasche, S Castell, ...",
+            "publication": "EBioMedicine 115, 2025",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17587966050275607257",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17587966050275607257&engine=google_scholar&hl=en",
+                "cites_id": "17587966050275607257"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Contact networks of small mammals highlight potential transmission foci ofLassa mammarenavirus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "ERU8djAAAAAJ:J_g5lzvAfSwC",
+            "authors": "D Simons, R Goyal, U Bangura, R Gibb, B Rushton, D Sondufu, J Lamin, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Contact networks of small mammals highlight potential transmission foci of Mammarenavirus lassaense",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "ERU8djAAAAAJ:M3NEmzRMIkIC",
+            "authors": "D Simons, R Goyal, U Bangura, R Gibb, B Rushton, D Sondufu, J Lamin, ...",
+            "publication": "bioRxiv, 2025.02. 25.639449, 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2756200976929735411",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2756200976929735411&engine=google_scholar&hl=en",
+                "cites_id": "2756200976929735411"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Viral genomic features predict Orthopoxvirus reservoir hosts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:-f6ydRqryjwC",
+            "citation_id": "ERU8djAAAAAJ:-f6ydRqryjwC",
+            "authors": "KK Tseng, H Koehler, DJ Becker, R Gibb, CJ Carlson, M Pilar Fernandez, ...",
+            "publication": "Communications Biology 8 (1), 309, 2025",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7179236039901346076",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7179236039901346076&engine=google_scholar&hl=en",
+                "cites_id": "7179236039901346076"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Towards a 'people and nature' paradigm for biodiversity and infectious disease",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:TFP_iSt0sucC",
+            "citation_id": "ERU8djAAAAAJ:TFP_iSt0sucC",
+            "authors": "R Gibb, D Redding, S Friant, KE Jones",
+            "publication": "Philosophical Transactions of the Royal Society B: Biological Sciences, 2025",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12770587421642729489",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12770587421642729489&engine=google_scholar&hl=en",
+                "cites_id": "12770587421642729489"
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "Pathogens and planetary change",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:k_IJM867U9cC",
+            "citation_id": "ERU8djAAAAAJ:k_IJM867U9cC",
+            "authors": "CJ Carlson, CB Brookson, DJ Becker, CA Cummings, R Gibb, ...",
+            "publication": "Nature Reviews Biodiversity 1 (1), 32-49, 2025",
+            "cited_by": {
+                "value": 98,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3148683560034502710",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3148683560034502710&engine=google_scholar&hl=en",
+                "cites_id": "3148683560034502710"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Health and economic impacts of Lassa vaccination campaigns in West Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:HDshCWvjkbEC",
+            "citation_id": "ERU8djAAAAAJ:HDshCWvjkbEC",
+            "authors": "DRM Smith, J Turner, P Fahr, LA Attfield, PR Bessell, CA Donnelly, ...",
+            "publication": "Nature Medicine 30 (12), 3568-3577, 2024",
+            "cited_by": {
+                "value": 47,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6265197634544182103",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6265197634544182103&engine=google_scholar&hl=en",
+                "cites_id": "6265197634544182103"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Sensitivity to climate change is widespread across zoonotic diseases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "ERU8djAAAAAJ:bEWYMUwI8FkC",
+            "authors": "A Trebski, L Gourlay, R Gibb, N Imirzian, DW Redding",
+            "publication": "medRxiv, 2024.11. 18.24317483, 2024",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9103032499370910434",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9103032499370910434&engine=google_scholar&hl=en",
+                "cites_id": "9103032499370910434"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Surveillance and control of neglected zoonotic diseases: methodological approaches to studying Rift Valley Fever, Crimean-Congo Haemorrhagic Fever and Brucellosis at the human \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "ERU8djAAAAAJ:iH-uZ7U-co4C",
+            "authors": "D Kizito, S Tweed, J Mutyaba, N Babi, S Lule, GN Kiggundu, RJ Gibb, ...",
+            "publication": "medRxiv, 2024.09. 17.24313808, 2024",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13746453041559724966",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13746453041559724966&engine=google_scholar&hl=en",
+                "cites_id": "13746453041559724966"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Human movement and environmental barriers shape the emergence of dengue",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "ERU8djAAAAAJ:_Qo2XoVZTnwC",
+            "authors": "V Harish, FJ Col\u00f3n-Gonz\u00e1lez, FRR Moreira, R Gibb, MUG Kraemer, ...",
+            "publication": "Nature Communications 15 (1), 4205, 2024",
+            "cited_by": {
+                "value": 76,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9536029799470688051",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9536029799470688051&engine=google_scholar&hl=en",
+                "cites_id": "9536029799470688051"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Detection and attribution of climate change impacts on human health: a data science framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:GnPB-g6toBAC",
+            "citation_id": "ERU8djAAAAAJ:GnPB-g6toBAC",
+            "authors": "C Carlson, M Lukas-Sithole, DS Shumba, M North, C Lippi, R Gibb, ...",
+            "publication": "Wellcome Open Research, 2024",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8168405941393207124",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8168405941393207124&engine=google_scholar&hl=en",
+                "cites_id": "8168405941393207124"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Detection & Attribution of Climate Change Impacts on Human Health",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "ERU8djAAAAAJ:R3hNpaxXUhUC",
+            "authors": "C Carlson, M Lukas-Sithole, DS Shumba, M North, C Lippi, R Gibb, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Projecting health and economic impacts of Lassa vaccination campaigns in West Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:NaGl4SEjCO4C",
+            "citation_id": "ERU8djAAAAAJ:NaGl4SEjCO4C",
+            "authors": "DRM Smith, J Turner, P Fahr, LA Attfield, PR Bessell, CA Donnelly, ...",
+            "publication": "medRxiv, 2024.02. 26.24303394, 2024",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8930081406773732015",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8930081406773732015&engine=google_scholar&hl=en",
+                "cites_id": "8930081406773732015"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Ecological impacts of climate change will transform public health priorities for zoonotic and vector-borne disease",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:mB3voiENLucC",
+            "citation_id": "ERU8djAAAAAJ:mB3voiENLucC",
+            "authors": "DW Redding, R Gibb, KE Jones",
+            "publication": "medRxiv, 2024.02. 09.24302575, 2024",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18219260450239394068",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18219260450239394068&engine=google_scholar&hl=en",
+                "cites_id": "18219260450239394068"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Designing and describing climate change impact attribution studies: a guide to common approaches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "ERU8djAAAAAJ:hFOr9nPyWt4C",
+            "authors": "CJ Carlson, D Mitchell, T Carleton, M Chersich, R Gibb, T Lavelle, ...",
+            "publication": "EarthArXiv, 2024",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4603533823417187655",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4603533823417187655&engine=google_scholar&hl=en",
+                "cites_id": "4603533823417187655"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Interactions between climate change, urban infrastructure and mobility are driving dengue emergence in Vietnam",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:IWHjjKOFINEC",
+            "citation_id": "ERU8djAAAAAJ:IWHjjKOFINEC",
+            "authors": "R Gibb, FJ Col\u00f3n-Gonz\u00e1lez, PT Lan, PT Huong, VS Nam, VT Duoc, ...",
+            "publication": "Nature communications 14 (1), 8179, 2023",
+            "cited_by": {
+                "value": 165,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=317186252667811442",
+                "serpapi_link": "https://serpapi.com/search.json?cites=317186252667811442&engine=google_scholar&hl=en",
+                "cites_id": "317186252667811442"
+            },
+            "year": "2023",
+            "author_position": "first"
+        },
+        {
+            "title": "Projecting the future incidence and burden of dengue in Southeast Asia",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:qUcmZB5y_30C",
+            "citation_id": "ERU8djAAAAAJ:qUcmZB5y_30C",
+            "authors": "FJ Col\u00f3n-Gonz\u00e1lez, R Gibb, K Khan, A Watts, R Lowe, OJ Brady",
+            "publication": "nature communications 14 (1), 5439, 2023",
+            "cited_by": {
+                "value": 104,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4443478263371905017",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4443478263371905017&engine=google_scholar&hl=en",
+                "cites_id": "4443478263371905017"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Differing taxonomic responses of mosquito vectors to anthropogenic land-use change in Latin America and the Caribbean",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "ERU8djAAAAAJ:ZeXyd9-uunAC",
+            "authors": "IK Fletcher, R Gibb, R Lowe, KE Jones",
+            "publication": "PLoS neglected tropical diseases 17 (7), e0011450, 2023",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3251116268599507431",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3251116268599507431&engine=google_scholar&hl=en",
+                "cites_id": "3251116268599507431"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Network embedding unveils the hidden interactions in the mammalian virome",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "ERU8djAAAAAJ:QIV2ME_5wuYC",
+            "authors": "T Poisot, MA Ouellet, N Mollentze, MJ Farrell, DJ Becker, L Brierley, ...",
+            "publication": "Patterns 4 (6), 2023",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4900484735246125102",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4900484735246125102&engine=google_scholar&hl=en",
+                "cites_id": "4900484735246125102"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Relaxation of anti-COVID-19 measures reveals new challenges for infectious disease outbreak forecasting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "ERU8djAAAAAJ:L8Ckcad2t8MC",
+            "authors": "OJ Brady, B Hofmann, FJ Col\u00f3n-Gonz\u00e1lez, R Gibb, R Lowe, G Tsarouchi, ...",
+            "publication": "The Lancet. Infectious Diseases 23 (2), 144, 2023",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12644258201084579712",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12644258201084579712&engine=google_scholar&hl=en",
+                "cites_id": "12644258201084579712"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Widespread exposure to Crimean-Congo haemorrhagic fever in Uganda might be driven by transmission from Rhipicephalus ticks: Evidence from cross-sectional and modelling studies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "ERU8djAAAAAJ:7PzlFSSx8tAC",
+            "authors": "SA Lule, R Gibb, D Kizito, G Nakanjako, J Mutyaba, S Balinandi, L Owen, ...",
+            "publication": "Journal of Infection 85 (6), 683-692, 2022",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8225471713317872999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8225471713317872999&engine=google_scholar&hl=en",
+                "cites_id": "8225471713317872999"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Species-specific responses to land-use change in island insectivorous bats",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "ERU8djAAAAAJ:mVmsd5A6BfQC",
+            "authors": "DF Ferreira, R Gibb, A L\u00f3pez-Baucells, NJ Nunes, KE Jones, R Rocha",
+            "publication": "Journal for Nature Conservation 67, 126177, 2022",
+            "cited_by": {
+                "value": 42,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7102278448555997469",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7102278448555997469&engine=google_scholar&hl=en",
+                "cites_id": "7102278448555997469"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "MAMMALS IN PORTUGAL: A data set of terrestrial, volant, and marine mammal occurrences in P ortugal",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "ERU8djAAAAAJ:qxL8FJ1GzNcC",
+            "authors": "C Grilo, BC Afonso, F Afonso, M Alexandre, S Ali\u00e1car, A Almeida, ...",
+            "publication": "Ecology 103 (6), e3654, 2022",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14969073627082786585",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14969073627082786585&engine=google_scholar&hl=en",
+                "cites_id": "14969073627082786585"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Urban-adapted mammal species have more known pathogens",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:8k81kl-MbHgC",
+            "citation_id": "ERU8djAAAAAJ:8k81kl-MbHgC",
+            "authors": "GF Albery, CJ Carlson, LE Cohen, EA Eskew, R Gibb, SJ Ryan, ...",
+            "publication": "Nature Ecology & Evolution 6 (6), 794-801, 2022",
+            "cited_by": {
+                "value": 76,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263555965285584458",
+                "serpapi_link": "https://serpapi.com/search.json?cites=263555965285584458&engine=google_scholar&hl=en",
+                "cites_id": "263555965285584458"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "The global virome in one network (VIRION): an atlas of vertebrate-virus associations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "ERU8djAAAAAJ:ULOm3_A8WrAC",
+            "authors": "CJ Carlson, RJ Gibb, GF Albery, L Brierley, RP Connor, TA Dallas, ...",
+            "publication": "MBio 13 (2), e02985-21, 2022",
+            "cited_by": {
+                "value": 83,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12596750916091043001",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12596750916091043001&engine=google_scholar&hl=en",
+                "cites_id": "12596750916091043001"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Climate-sensitive disease outbreaks in the aftermath of extreme climatic events: A scoping review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "ERU8djAAAAAJ:9ZlFYXVOiuMC",
+            "authors": "T Alcayna, I Fletcher, R Gibb, L Tremblay, S Funk, B Rao, R Lowe",
+            "publication": "One Earth 5 (4), 336-350, 2022",
+            "cited_by": {
+                "value": 90,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14407365070719165771",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14407365070719165771&engine=google_scholar&hl=en",
+                "cites_id": "14407365070719165771"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Joint spatiotemporal modelling reveals seasonally dynamic patterns of Japanese encephalitis vector abundance across India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:4DMP91E08xMC",
+            "citation_id": "ERU8djAAAAAJ:4DMP91E08xMC",
+            "authors": "LHV Franklinos, DW Redding, TCD Lucas, R Gibb, I Abubakar, KE Jones",
+            "publication": "PLoS neglected tropical diseases 16 (2), e0010218, 2022",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6041426124255470421",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6041426124255470421&engine=google_scholar&hl=en",
+                "cites_id": "6041426124255470421"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mammal virus diversity estimates are unstable due to accelerating discovery effort",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:Zph67rFs4hoC",
+            "citation_id": "ERU8djAAAAAJ:Zph67rFs4hoC",
+            "authors": "R Gibb, GF Albery, N Mollentze, EA Eskew, L Brierley, SJ Ryan, ...",
+            "publication": "Biology letters 18 (1), 20210427, 2022",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10988603611794935809",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10988603611794935809&engine=google_scholar&hl=en",
+                "cites_id": "10988603611794935809"
+            },
+            "year": "2022",
+            "author_position": "first"
+        },
+        {
+            "title": "Data proliferation, reconciliation, and synthesis in viral ecology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "ERU8djAAAAAJ:MXK_kJrjxJIC",
+            "authors": "R Gibb, GF Albery, DJ Becker, L Brierley, R Connor, TA Dallas, EA Eskew, ...",
+            "publication": "Bioscience 71 (11), 1148-1156, 2021",
+            "cited_by": {
+                "value": 49,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949592395131075549",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6949592395131075549&engine=google_scholar&hl=en",
+                "cites_id": "6949592395131075549"
+            },
+            "year": "2021",
+            "author_position": "first"
+        },
+        {
+            "title": "NCBITaxonomy. jl-rapid biological names finding and reconciliation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:4TOpqqG69KYC",
+            "citation_id": "ERU8djAAAAAJ:4TOpqqG69KYC",
+            "authors": "T Poisot, R Gibb, SJ Ryan, CJ Carlson",
+            "publication": "EcoEvoRxiv, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10993746781468448798",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10993746781468448798&engine=google_scholar&hl=en",
+                "cites_id": "10993746781468448798"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Geographical drivers and climate-linked dynamics of Lassa fever in Nigeria",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "ERU8djAAAAAJ:YOwf2qJgpHMC",
+            "authors": "DW Redding, R Gibb, CC Dan-Nwafor, EA Ilori, RU Yashe, SH Oladele, ...",
+            "publication": "Nature communications 12 (1), 5759, 2021",
+            "cited_by": {
+                "value": 101,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16375814900950724436",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16375814900950724436&engine=google_scholar&hl=en",
+                "cites_id": "16375814900950724436"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "The future of zoonotic risk prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:_kc_bZDykSQC",
+            "citation_id": "ERU8djAAAAAJ:_kc_bZDykSQC",
+            "authors": "CJ Carlson, MJ Farrell, Z Grange, BA Han, N Mollentze, AL Phelan, ...",
+            "publication": "Philosophical Transactions of the Royal Society B: Biological Sciences 376 \u2026, 2021",
+            "cited_by": {
+                "value": 138,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16441781550090500631",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16441781550090500631&engine=google_scholar&hl=en",
+                "cites_id": "16441781550090500631"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Imputing the mammalian virome with linear filtering and singular value decomposition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "ERU8djAAAAAJ:KlAtU1dfN6UC",
+            "authors": "T Poisot, MA Ouellet, N Mollentze, MJ Farrell, DJ Becker, GF Albery, ...",
+            "publication": "arXiv preprint arXiv:2105.14973, 2021",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14700530900748900683",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14700530900748900683&engine=google_scholar&hl=en",
+                "cites_id": "14700530900748900683"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Ecosystem perspectives are needed to manage zoonotic risks in a changing climate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:UebtZRa9Y70C",
+            "citation_id": "ERU8djAAAAAJ:UebtZRa9Y70C",
+            "authors": "R Gibb, L Franklinos, D Redding, K Jones",
+            "publication": "BMJ: British Medical Journal, 2020",
+            "cited_by": {
+                "value": 156,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17298520433596391419",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17298520433596391419&engine=google_scholar&hl=en",
+                "cites_id": "17298520433596391419"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "Understanding and predicting effects of global environmental change on zoonotic disease",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:0EnyYjriUFMC",
+            "citation_id": "ERU8djAAAAAJ:0EnyYjriUFMC",
+            "authors": "RJ Gibb",
+            "publication": "UCL (University College London), 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=740580227643108351",
+                "serpapi_link": "https://serpapi.com/search.json?cites=740580227643108351&engine=google_scholar&hl=en",
+                "cites_id": "740580227643108351"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "Zoonotic host diversity increases in human-dominated ecosystems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:Se3iqnhoufwC",
+            "citation_id": "ERU8djAAAAAJ:Se3iqnhoufwC",
+            "authors": "R Gibb, DW Redding, KQ Chin, CA Donnelly, TM Blackburn, T Newbold, ...",
+            "publication": "Nature 584 (7821), 398-402, 2020",
+            "cited_by": {
+                "value": 1173,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11084297939775889551",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11084297939775889551&engine=google_scholar&hl=en",
+                "cites_id": "11084297939775889551"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "Sonifying the world",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "ERU8djAAAAAJ:_FxGoFyzp5QC",
+            "authors": "A Kanngieser, R Gibb",
+            "publication": "Sounding Places: More-Than-Representational Geographies of Sound and Music, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6680216392966719052",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6680216392966719052&engine=google_scholar&hl=en",
+                "cites_id": "6680216392966719052"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "Climate and land-use change homogenise terrestrial biodiversity, with consequences for ecosystem functioning and human well-being",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:WF5omc3nYNoC",
+            "citation_id": "ERU8djAAAAAJ:WF5omc3nYNoC",
+            "authors": "T Newbold, GL Adams, G Albaladejo Robles, EH Boakes, ...",
+            "publication": "Emerging Topics in Life Sciences 3 (2), 207-219, 2019",
+            "cited_by": {
+                "value": 148,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13342581062790757213",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13342581062790757213&engine=google_scholar&hl=en",
+                "cites_id": "13342581062790757213"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Emerging opportunities and challenges for passive acoustics in ecological assessment and monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "ERU8djAAAAAJ:zYLM7Y9cAGgC",
+            "authors": "R Gibb, E Browning, P Glover\u2010Kapfer, KE Jones",
+            "publication": "Methods in Ecology and Evolution 10 (2), 169-185, 2019",
+            "cited_by": {
+                "value": 1005,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8506399982631776828,8663253254571518300",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8506399982631776828%2C8663253254571518300&engine=google_scholar&hl=en",
+                "cites_id": "8506399982631776828,8663253254571518300"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Differential effects of emerging broad-spectrum streetlight technologies on landscape-scale bat activity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "ERU8djAAAAAJ:W7OEmFMy1HYC",
+            "authors": "R Williams, C Walters, R Gibb, E Browning, D Tipping, KE Jones",
+            "publication": "bioRxiv preprint, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=497647654227372726",
+                "serpapi_link": "https://serpapi.com/search.json?cites=497647654227372726&engine=google_scholar&hl=en",
+                "cites_id": "497647654227372726"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Effects of land use on zoonotic host communities: a global correlative analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "ERU8djAAAAAJ:IjCSPb-OGe4C",
+            "authors": "R Gibb, DW Redding, KQ Chin, TM Blackburn, T Newbold, KE Jones",
+            "publication": "The Lancet Planetary Health 2, S2, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14867294357724975721",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14867294357724975721&engine=google_scholar&hl=en",
+                "cites_id": "14867294357724975721"
+            },
+            "year": "2018",
+            "author_position": "first"
+        },
+        {
+            "title": "Bat detective\u2014Deep learning tools for bat acoustic signal detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "ERU8djAAAAAJ:u5HHmVD_uO8C",
+            "authors": "O Mac Aodha, R Gibb, KE Barlow, E Browning, M Firman, R Freeman, ...",
+            "publication": "PLoS Computational Biology 14 (3), e1005995, 2018",
+            "cited_by": {
+                "value": 339,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1343254978967196988",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1343254978967196988&engine=google_scholar&hl=en",
+                "cites_id": "1343254978967196988"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Bat detective\u2014Deep learning tools for bat acoustic signal detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:vV6vV6tmYwMC",
+            "citation_id": "ERU8djAAAAAJ:vV6vV6tmYwMC",
+            "authors": "OM Aodha, R Gibb, KE Barlow, E Browning, M Firman, R Freeman, ...",
+            "publication": "PLOS Computational Biology 14 (3), 1-19, 2018",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=396945379672968317",
+                "serpapi_link": "https://serpapi.com/search.json?cites=396945379672968317&engine=google_scholar&hl=en",
+                "cites_id": "396945379672968317"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "In sonic defiance of extinction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:ufrVoPGSRksC",
+            "citation_id": "ERU8djAAAAAJ:ufrVoPGSRksC",
+            "authors": "R Gibb, A Kanngieser, P Rekret",
+            "publication": "Transmediale CTM Magazine 2018, 2018",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13368041775647769209",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13368041775647769209&engine=google_scholar&hl=en",
+                "cites_id": "13368041775647769209"
+            },
+            "year": "2018",
+            "author_position": "first"
+        },
+        {
+            "title": "Passive acoustic monitoring in ecology and conservation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "ERU8djAAAAAJ:Y0pCki6q_DkC",
+            "authors": "E Browning, R Gibb, P Glover-Kapfer, KE Jones",
+            "publication": "WWF conservation technology series 1 (2), 1-75, 2017",
+            "cited_by": {
+                "value": 311,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15013090741157491462",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15013090741157491462&engine=google_scholar&hl=en",
+                "cites_id": "15013090741157491462"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Understanding the cryptic nature of Lassa fever in West Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "ERU8djAAAAAJ:UeHWp8X0CEIC",
+            "authors": "R Gibb, LM Moses, DW Redding, KE Jones",
+            "publication": "Pathogens & Global Health 111 (6), 276-288, 2017",
+            "cited_by": {
+                "value": 158,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5425424954487612559",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5425424954487612559&engine=google_scholar&hl=en",
+                "cites_id": "5425424954487612559"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Remotely sensed wind speed predicts soaring behaviour in a wide-ranging pelagic seabird",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "ERU8djAAAAAJ:u-x6o8ySG0sC",
+            "authors": "R Gibb, A Shoji, AL Fayet, CM Perrins, T Guilford, R Freeman",
+            "publication": "Journal of the Royal Society Interface 14 (132), 20170262, 2017",
+            "cited_by": {
+                "value": 56,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17357225434174533575",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17357225434174533575&engine=google_scholar&hl=en",
+                "cites_id": "17357225434174533575"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Bat Detective: citizen science for ecoacoustic biodiversity monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "ERU8djAAAAAJ:2osOgNQ5qMEC",
+            "authors": "R Gibb, O Mac Aodha, KE Jones",
+            "publication": "Environmental SCIENTIST 25 (2), 12-18, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12920609764600429226",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12920609764600429226&engine=google_scholar&hl=en",
+                "cites_id": "12920609764600429226"
+            },
+            "year": "2016",
+            "author_position": "first"
+        },
+        {
+            "title": "\u00b520: 20 Years Of Planet \u00b5 (paperback)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:qjMakFHDy7sC",
+            "citation_id": "ERU8djAAAAAJ:qjMakFHDy7sC",
+            "authors": "R Gibb",
+            "publication": "UK: Planet Mu, published as part of \u00b520 boxset, 2015",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2015",
+            "author_position": "first"
+        },
+        {
+            "title": "Balai Taman Nasional Sebangau.(2014). Buku Statistik Balai TN Sebangau Tahun 2014. Bersacola, E., Smith, DAE, Sastramidjaja, WJ, Rayadin, Y., & Cheyne, SM (2014). Population \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:O3NaXMp0MMsC",
+            "citation_id": "ERU8djAAAAAJ:O3NaXMp0MMsC",
+            "authors": "RR Ramsier, AN Popper, E Browning, R Gibb, P Glover-Kapfer, KE Jones, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        },
+        {
+            "title": "Modelling the Impact of Climate and the Environment on the Spatiotemporal Dynamics of Lyme Borreliosis in Germany",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "ERU8djAAAAAJ:RHpTSmoSYBkC",
+            "authors": "M Lotto Batista, B Carvalho, RJ Gibb, SM Balakrishnan, S Flasche, ...",
+            "publication": "Bruno and Gibb, RJ and Balakrishnan, Solaraju-Murali and Flasche, Stefan and \u2026, 0",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        },
+        {
+            "title": "Understanding the Epidemiology and Ecology of CHCF in Uganda: Evidence from Cross-Sectional and Modelling Studies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ERU8djAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ERU8djAAAAAJ:dhFuZR0502QC",
+            "citation_id": "ERU8djAAAAAJ:dhFuZR0502QC",
+            "authors": "SA Lule, RJ Gibb, D Kizito, N Gladys, J Mutyaba, S Balinandi, L Owen, ...",
+            "publication": "Available at SSRN 4156697, 0",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 4908,
+                    "since_2021": 4492
+                }
+            },
+            {
+                "h_index": {
+                    "all": 27,
+                    "since_2021": 27
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 35,
+                    "since_2021": 35
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 27
+            },
+            {
+                "year": 2019,
+                "citations": 110
+            },
+            {
+                "year": 2020,
+                "citations": 224
+            },
+            {
+                "year": 2021,
+                "citations": 496
+            },
+            {
+                "year": 2022,
+                "citations": 580
+            },
+            {
+                "year": 2023,
+                "citations": 642
+            },
+            {
+                "year": 2024,
+                "citations": 678
+            },
+            {
+                "year": 2025,
+                "citations": 1129
+            },
+            {
+                "year": 2026,
+                "citations": 952
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ERU8djAAAAAJ",
+        "available": 51,
+        "not_available": 0
+    }
+}

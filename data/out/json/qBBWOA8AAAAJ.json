@@ -1,0 +1,1807 @@
+{
+    "search_metadata": {
+        "id": "6abd741cf5c2f8f9d2eee674",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/zo8tIYlqRbEi69uEp6M27Y5ByJXXc2Uj6Bxf6NV_OZU/6abd741cf5c2f8f9d2eee674.json",
+        "markdown_endpoint": "https://serpapi.com/searches/zo8tIYlqRbEi69uEp6M27Y5ByJXXc2Uj6Bxf6NV_OZU/6abd741cf5c2f8f9d2eee674.md",
+        "created_at": "2026-09-30 20:42:04 UTC",
+        "processed_at": "2026-09-30 20:42:04 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=qBBWOA8AAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/zo8tIYlqRbEi69uEp6M27Y5ByJXXc2Uj6Bxf6NV_OZU/6abd741cf5c2f8f9d2eee674.html",
+        "total_time_taken": 1.78
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "qBBWOA8AAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Gail Taylor",
+        "affiliations": "Dean of Life Sciences and Quain Professor of Botany, UCL, Distinguished Professor Emerita, UC Davis,",
+        "email": "Verified email at ucl.ac.uk",
+        "interests": [
+            {
+                "title": "Plants for food and energy",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:plants_for_food_and_energy",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aplants_for_food_and_energy"
+            },
+            {
+                "title": "Plant Breeding",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:plant_breeding",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aplant_breeding"
+            },
+            {
+                "title": "Genetics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:genetics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenetics"
+            },
+            {
+                "title": "Environmental Plant Sciences",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:environmental_plant_sciences",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_plant_sciences"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qBBWOA8AAAAJ&citpid=10"
+    },
+    "articles": [
+        {
+            "title": "Physiological and Genetic Determinants of Water-Use Efficiency In Lettuce",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:Ehil0879vHcC",
+            "citation_id": "qBBWOA8AAAAJ:Ehil0879vHcC",
+            "authors": "X Zhang, RW Michelmore, G Taylor",
+            "publication": "CANVAS 2026, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "From Plastic Mulch to Microplastics: Impact of Realistic Microplastics on Lettuce",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:nZcligLrVowC",
+            "citation_id": "qBBWOA8AAAAJ:nZcligLrVowC",
+            "authors": "AE Wong, RW Michelmore, G Taylor",
+            "publication": "CANVAS 2026, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "Gradual increases in light intensity and photoperiod",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:OP4eGU-M3BUC",
+            "citation_id": "qBBWOA8AAAAJ:OP4eGU-M3BUC",
+            "authors": "N Akter\u00b9, MS Ahamed, G Taylor",
+            "publication": "Controlled Environment Agriculture Goes Dynamic, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "Gradual increases in light intensity and photoperiod enhance light use efficiency and dry matter in indoor basil",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:OR75R8vi5nAC",
+            "citation_id": "qBBWOA8AAAAJ:OR75R8vi5nAC",
+            "authors": "N Akter, MS Ahamed, G Taylor, L Cammarisano",
+            "publication": "Frontiers in Plant Science 17, 1861031, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Unraveling plant phenotype to genotype associations with daily hyperspectral traits in Populus trichocarpa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:OcBU2YAGkTUC",
+            "citation_id": "qBBWOA8AAAAJ:OcBU2YAGkTUC",
+            "authors": "MC Klein, CYS Wong, JG Monroe, J Bailey-Bale, TN Buckley, JG Chen, ...",
+            "publication": "Plant Phenomics 8 (2), 100174, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Do stomatal traits modulate leaf microbiome assembly?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:HtS1dXgVpQUC",
+            "citation_id": "qBBWOA8AAAAJ:HtS1dXgVpQUC",
+            "authors": "PE Busby, A Apigo, D Sirova, E P\u00e9rez\u2010Pazos, KA Gervers, A Neat, ...",
+            "publication": "New Phytologist 250 (1), 41-50, 2026",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5230451100350198705",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5230451100350198705&engine=google_scholar&hl=en",
+                "cites_id": "5230451100350198705"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "yield, and quality of indoor-grown",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:yFnVuubrUp4C",
+            "citation_id": "qBBWOA8AAAAJ:yFnVuubrUp4C",
+            "authors": "N Akter, L Cammarisano, G Taylor",
+            "publication": "Vertical Farming: New Trends, Products, and Production Approaches, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "Protecting science in multilateral environmental assessments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:bKqednn6t2AC",
+            "citation_id": "qBBWOA8AAAAJ:bKqednn6t2AC",
+            "authors": "P Alexander, L Beevers, D Broadstock, V Daioglou, TJ Davies, ...",
+            "publication": "Nature Sustainability 9 (2), 178-179, 2026",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15243219192975225935",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15243219192975225935&engine=google_scholar&hl=en",
+                "cites_id": "15243219192975225935"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Hyperspectral traits (TSWIFT) UC Davis Populus trichocarpa Common Garden",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:8xutWZnSdmoC",
+            "citation_id": "qBBWOA8AAAAJ:8xutWZnSdmoC",
+            "authors": "MC Klein, C Monroe, WJ YS, J Bailey-Bale, TN Buckley, JG Chen, M Shu, ...",
+            "publication": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States), 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Impacts of salmonid fish production on river water quality: a critical appraisal of the evidence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:DJbcl8HfkQkC",
+            "citation_id": "qBBWOA8AAAAJ:DJbcl8HfkQkC",
+            "authors": "ANS Michalopoulou, NR Bury, RA Holland, I Speck, T Sykes, G Taylor, ...",
+            "publication": "Reviews in Aquaculture 18 (1), e70119, 2026",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8777533938193402913",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8777533938193402913&engine=google_scholar&hl=en",
+                "cites_id": "8777533938193402913"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Global Environment Outlook 7 (GEO-7): A future we choose\u2013Why investing in Earth now can lead to a trillion-dollar benefit for all-Executive Summary",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:fFSKOagxvKUC",
+            "citation_id": "qBBWOA8AAAAJ:fFSKOagxvKUC",
+            "authors": "EE Guti\u00e9rrez-Espeleta, N Madise, Y Wang, RT Watson, T Abiye, ...",
+            "publication": "United Nations Environment Programme, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Scaling plant functional traits with hyperspectral remote sensing: linking physiology, genotype, and environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:KbBQZpvPDL4C",
+            "citation_id": "qBBWOA8AAAAJ:KbBQZpvPDL4C",
+            "authors": "T Magney, C Wong, R Ray, J Lyons, M Klein, T Buckley, J Maloor, ...",
+            "publication": "AGU Fall Meeting Abstracts 2025, B51A-01, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Plastic Pollution in Soil Ecosystems: Quantifying and Characterizing Microplastics in California Agriculture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:4vMrXwiscB8C",
+            "citation_id": "qBBWOA8AAAAJ:4vMrXwiscB8C",
+            "authors": "AE Wong, G Taylor",
+            "publication": "CANVAS 2025, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Plants and microplastics: Growing impacts in the terrestrial environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:HIFyuExEbWQC",
+            "citation_id": "qBBWOA8AAAAJ:HIFyuExEbWQC",
+            "authors": "AE Wong, G Taylor",
+            "publication": "Frontiers in Plant Science 16, 1666047, 2025",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=635110100664243967",
+                "serpapi_link": "https://serpapi.com/search.json?cites=635110100664243967&engine=google_scholar&hl=en",
+                "cites_id": "635110100664243967"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Climate adaptation in Populus trichocarpa: key adaptive loci identified for stomata and leaf traits",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:tOudhMTPpwUC",
+            "citation_id": "qBBWOA8AAAAJ:tOudhMTPpwUC",
+            "authors": "MC Klein, Z Meng, J Bailey\u2010Bale, S Milner, P Shi, W Muchero, JG Chen, ...",
+            "publication": "New Phytologist 247 (6), 2647-2664, 2025",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6648186646271670786",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6648186646271670786&engine=google_scholar&hl=en",
+                "cites_id": "6648186646271670786"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Combining genome-wide association studies and expression quantitative trait nucleotide mapping with molecular and genetic validations to identify transcriptional networks \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:mNrWkgRL2YcC",
+            "citation_id": "qBBWOA8AAAAJ:mNrWkgRL2YcC",
+            "authors": "G Taylor, JG Chen, W Muchero",
+            "publication": "Univ. of California, Davis, CA (United States), 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5024982414200534838",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5024982414200534838&engine=google_scholar&hl=en",
+                "cites_id": "5024982414200534838"
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "Breeding indoor watercress for enhanced crop biofortification: harnessing natural variation of wild germplasm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:HtEfBTGE9r8C",
+            "citation_id": "qBBWOA8AAAAJ:HtEfBTGE9r8C",
+            "authors": "Y Qian, E Katz, DJ Kliebenstein, G Taylor",
+            "publication": "Frontiers in Plant Science 16, 1602171, 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7890014412685073594",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7890014412685073594&engine=google_scholar&hl=en",
+                "cites_id": "7890014412685073594"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Harnessing the Genetic and Chemical Diversity of Cannabis sativa L. in Iran: Unveiling the Potential for Breeding and Industrial Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:4hFrxpcac9AC",
+            "citation_id": "qBBWOA8AAAAJ:4hFrxpcac9AC",
+            "authors": "MM Dehnavi, G Taylor",
+            "publication": "The Cannabis Genome, 44-51, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "An orphan gene BOOSTER enhances photosynthetic efficiency and plant productivity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:_FM0Bhl9EiAC",
+            "citation_id": "qBBWOA8AAAAJ:_FM0Bhl9EiAC",
+            "authors": "BA Feyissa, EM de Becker, CE Salesse-Smith, M Shu, J Zhang, TB Yates, ...",
+            "publication": "Developmental cell 60 (5), 723-734. e7, 2025",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8995877386397382597",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8995877386397382597&engine=google_scholar&hl=en",
+                "cites_id": "8995877386397382597"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Population genomics of a natural Cannabis sativa L. collection from Iran identifies novel genetic loci for flowering time, morphology, sex and chemotyping",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:8k81kl-MbHgC",
+            "citation_id": "qBBWOA8AAAAJ:8k81kl-MbHgC",
+            "authors": "M Mostafaei Dehnavi, A Damerum, S Taheri, A Ebadi, S Panahi, ...",
+            "publication": "BMC Plant biology 25 (1), 80, 2025",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14314876738988062884",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14314876738988062884&engine=google_scholar&hl=en",
+                "cites_id": "14314876738988062884"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Impact of light spectral combinations on morphology, yield, and quality of indoor-grown cilantro",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:9pM33mqn1YgC",
+            "citation_id": "qBBWOA8AAAAJ:9pM33mqn1YgC",
+            "authors": "N Akter, L Cammarisano, G Taylor, MT Naznin, JC Verdonk, MS Ahamed",
+            "publication": "Frontiers in Sustainable Food Systems 8, 1499954, 2024",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14515765648234509376",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14515765648234509376&engine=google_scholar&hl=en",
+                "cites_id": "14515765648234509376"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Vertical farming goes dynamic: optimizing resource use efficiency, product quality, and energy costs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:kh2fBNsKQNwC",
+            "citation_id": "qBBWOA8AAAAJ:kh2fBNsKQNwC",
+            "authors": "E Kaiser, P Kusuma, S Vialet-Chabrand, K Folta, Y Liu, H Poorter, ...",
+            "publication": "Frontiers in Science 2, 1411259, 2024",
+            "cited_by": {
+                "value": 155,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734084122238265138",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4734084122238265138&engine=google_scholar&hl=en",
+                "cites_id": "4734084122238265138"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "His dark materials: Quantifying the problem of dust (particulate matter) in the agricultural landscape of California",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:OU6Ihb5iCvQC",
+            "citation_id": "qBBWOA8AAAAJ:OU6Ihb5iCvQC",
+            "authors": "N Zeeshan, P Freer-Smith, G Murtaza, AE Wong, G Taylor",
+            "publication": "Atmospheric Environment 330, 120562, 2024",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11264667259564964782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11264667259564964782&engine=google_scholar&hl=en",
+                "cites_id": "11264667259564964782"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Characterization of a new dwarf watercress (Nasturtium officinale R Br.) \u2018Boldrewood\u2019 in commercial trials reveals a consistent increase in chemopreventive \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:eQOLeE2rZwMC",
+            "citation_id": "qBBWOA8AAAAJ:eQOLeE2rZwMC",
+            "authors": "N Voutsina, RD Hancock, F Becerra-Sanchez, Y Qian, G Taylor",
+            "publication": "Euphytica 220 (7), 106, 2024",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1303695051021834421",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1303695051021834421&engine=google_scholar&hl=en",
+                "cites_id": "1303695051021834421"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "The ideotype for drought tolerance in bioenergy Populus nigra",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:_Re3VWB3Y0AC",
+            "citation_id": "qBBWOA8AAAAJ:_Re3VWB3Y0AC",
+            "authors": "HK Smith, J Pu\u00e9rtolas, C Douthe, G Emiliani, A Giovannelli, LS Rowland, ...",
+            "publication": "bioRxiv, 2024.02. 07.579233, 2024",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17538538873716429503",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17538538873716429503&engine=google_scholar&hl=en",
+                "cites_id": "17538538873716429503"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Harnessing the power of poplar tree natural genetic variation for the development of future sustainable biofuels and bioproducts: a droughted marginal-land experiment for multi \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:uLbwQdceFCQC",
+            "citation_id": "qBBWOA8AAAAJ:uLbwQdceFCQC",
+            "authors": "G Taylor, JH Bailey-Bale, MC Klein, S Milner, JG Chen, W Muchero, ...",
+            "publication": "BioRxiv, 2024.01. 11.575272, 2024",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16939246254077236270",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16939246254077236270&engine=google_scholar&hl=en",
+                "cites_id": "16939246254077236270"
+            },
+            "year": "2024",
+            "author_position": "first"
+        },
+        {
+            "title": "Genotyping-By-Sequencing on an Iranian Cannabis Collection to Identify Genetic Variants Associated with Unique Characteristics in Cannabis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:YohjEiUPhakC",
+            "citation_id": "qBBWOA8AAAAJ:YohjEiUPhakC",
+            "authors": "MM Dehnavi, A Damerum, SA Salami, G Taylor",
+            "publication": "Plant and Animal Genome Conference/PAG 31 (January 12-17, 2024), 2024",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Systems Biology Study of Leaf Morphology and Vein Architecture in Populus trichocarpa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:rmuvC79q63oC",
+            "citation_id": "qBBWOA8AAAAJ:rmuvC79q63oC",
+            "authors": "HB Chhetri, M Pavicic, L John, J Streich, M Shah, K Sullivan, G Taylor, ...",
+            "publication": "Plant and Animal Genome Conference/PAG 31 (January 12-17, 2024), 2024",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Characterizing morphological properties of select populations of Iranian fiber cannabis (Cannabis sativa L.)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:fPk4N6BV_jEC",
+            "citation_id": "qBBWOA8AAAAJ:fPk4N6BV_jEC",
+            "authors": "S Panahi, A Khandan-Mirkohi, G Taylor, SA Salami",
+            "publication": "International Journal of Horticultural Science and Technology 11 (1), 95-106, 2024",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9150622645258134721",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9150622645258134721&engine=google_scholar&hl=en",
+                "cites_id": "9150622645258134721"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Spatial context matters: Assessing how future renewable energy pathways will impact nature and society",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "qBBWOA8AAAAJ:ULOm3_A8WrAC",
+            "authors": "G Delafield, GS Smith, B Day, RA Holland, C Donnison, A Hastings, ...",
+            "publication": "Renewable Energy 220, 119385, 2024",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3474299532469026245",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3474299532469026245&engine=google_scholar&hl=en",
+                "cites_id": "3474299532469026245"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Making watercress (Nasturtium officinale) cropping sustainable: genomic insights into enhanced phosphorus use efficiency in an aquatic crop",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:AvfA0Oy_GE0C",
+            "citation_id": "qBBWOA8AAAAJ:AvfA0Oy_GE0C",
+            "authors": "LE Hibbert, Y Qian, HK Smith, S Milner, E Katz, DJ Kliebenstein, G Taylor",
+            "publication": "Frontiers in Plant Science 14, 1279823, 2023",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4176292842936078495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4176292842936078495&engine=google_scholar&hl=en",
+                "cites_id": "4176292842936078495"
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "The good, the bad, and the future: Systematic review identifies best use of biomass to meet air quality and climate policies in California",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:_kc_bZDykSQC",
+            "citation_id": "qBBWOA8AAAAJ:_kc_bZDykSQC",
+            "authors": "P Freer\u2010Smith, JH Bailey\u2010Bale, CL Donnison, G Taylor",
+            "publication": "GCB Bioenergy 15 (11), 1312-1328, 2023",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3547679235381230957",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3547679235381230957&engine=google_scholar&hl=en",
+                "cites_id": "3547679235381230957"
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "Characterization of a new dwarf watercress (Nasturtium officinale R Br.)\u2018Boldrewood\u2019in commercial trials reveals a consistent increase in chemopreventive properties in a longer \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:tKAzc9rXhukC",
+            "citation_id": "qBBWOA8AAAAJ:tKAzc9rXhukC",
+            "authors": "V Nikol, RD Hancock, F Becerra-Sanchez, Y Qian, G Taylor",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "Watercress yield and quality vary depending on both genotype and environment: Results from highly contrasting growing systems of California and UK",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:dTyEYWd-f8wC",
+            "citation_id": "qBBWOA8AAAAJ:dTyEYWd-f8wC",
+            "authors": "Y Qian, LE Hibbert, E Katz, HK Smith, DJ Kliebenstein, G Taylor",
+            "publication": "Scientia Horticulturae 319, 112154, 2023",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15678094320975617089",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15678094320975617089&engine=google_scholar&hl=en",
+                "cites_id": "15678094320975617089"
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:qUcmZB5y_30C",
+            "citation_id": "qBBWOA8AAAAJ:qUcmZB5y_30C",
+            "authors": "CL Donnison, K Trdlicova, A Mohr, G Taylor",
+            "publication": "Energy Research & Social Science 102, 103153, 2023",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4602255331112068809",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4602255331112068809&engine=google_scholar&hl=en",
+                "cites_id": "4602255331112068809"
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "Few-Shot Learning Enables Population-Scale Analysis of Leaf Traits in Populus trichocarpa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:CHSYGLWDkRkC",
+            "citation_id": "qBBWOA8AAAAJ:CHSYGLWDkRkC",
+            "authors": "J Lagergren, M Pavicic, HB Chhetri, LM York, D Hyatt, D Kainer, ...",
+            "publication": "Plant Phenomics 5, 0072, 2023",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10459577913868473429",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10459577913868473429&engine=google_scholar&hl=en",
+                "cites_id": "10459577913868473429"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "SALT2 versus SALT3: updated model surfaces and their impacts on type Ia supernova cosmology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:LhH-TYMQEocC",
+            "citation_id": "qBBWOA8AAAAJ:LhH-TYMQEocC",
+            "authors": "G Taylor, DO Jones, B Popovic, M Vincenzi, R Kessler, D Scolnic, M Dai, ...",
+            "publication": "Monthly Notices of the Royal Astronomical Society 520 (4), 5209-5224, 2023",
+            "cited_by": {
+                "value": 56,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8224705990755585922",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8224705990755585922&engine=google_scholar&hl=en",
+                "cites_id": "8224705990755585922"
+            },
+            "year": "2023",
+            "author_position": "first"
+        },
+        {
+            "title": "DEbass Transient Classification Report for 2023-03-12",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:yqoGN6RLRZoC",
+            "citation_id": "qBBWOA8AAAAJ:yqoGN6RLRZoC",
+            "authors": "C Lidman, B Martin, I Price, J Nielsen, HJ Abbot, P Armstrong, D Brout, ...",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7700499036361690553",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7700499036361690553&engine=google_scholar&hl=en",
+                "cites_id": "7700499036361690553"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Few-shot leaf segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:hFOr9nPyWt4C",
+            "citation_id": "qBBWOA8AAAAJ:hFOr9nPyWt4C",
+            "authors": "J Lagergren",
+            "publication": "US Department of Energy (DOE) Software, 40, 2023",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4947118359718550463",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4947118359718550463&engine=google_scholar&hl=en",
+                "cites_id": "4947118359718550463"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Landscape measurements of evapotranspiration and CO2 fluxes of bioenergy poplar under different irrigation treatments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:SP6oXDckpogC",
+            "citation_id": "qBBWOA8AAAAJ:SP6oXDckpogC",
+            "authors": "K Suvocarev, M Roby, P Freer-Smith, J Bailey-Bale, EC Ware, ...",
+            "publication": "AGU Fall Meeting Abstracts 2022, B12E-1124, 2022",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reply to Niebuhr et al.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:GtLg2Ama23sC",
+            "citation_id": "qBBWOA8AAAAJ:GtLg2Ama23sC",
+            "authors": "S Dunnett, RA Holland, G Taylor, F Eigenbrod",
+            "publication": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2022",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reply to Niebuhr et al.: Infrastructure impacts must always be assessed locally",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "qBBWOA8AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Dunnett, RA Holland, G Taylor, F Eigenbrod",
+            "publication": "Proceedings of the National Academy of Sciences 119 (48), e2214469119, 2022",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Improving governance outcomes for water quality: Insights from participatory social network analysis for chalk stream catchments in England",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:5ugPr518TE4C",
+            "citation_id": "qBBWOA8AAAAJ:5ugPr518TE4C",
+            "authors": "J Ball, J Hauck, RA Holland, A Lovegrove, J Snaddon, G Taylor, KSH Peh",
+            "publication": "People and Nature 4 (5), 1352-1368, 2022",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14112681475707620673",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14112681475707620673&engine=google_scholar&hl=en",
+                "cites_id": "14112681475707620673"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "DEbass Transient Classification Report for 2022-09-20",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:F9fV5C73w3QC",
+            "citation_id": "qBBWOA8AAAAJ:F9fV5C73w3QC",
+            "authors": "C Lidman, HJ Abbot, P Armstrong, D Brout, G Taylor, BE Tucker",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16657346975252988047",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16657346975252988047&engine=google_scholar&hl=en",
+                "cites_id": "16657346975252988047"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reply to P\u00e9rez-Garc\u00eda et al.: Perfect is the enemy of good",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:P5F9QuxV20EC",
+            "citation_id": "qBBWOA8AAAAJ:P5F9QuxV20EC",
+            "authors": "S Dunnett, RA Holland, G Taylor, F Eigenbrod",
+            "publication": "Proceedings of the National Academy of Sciences 119 (33), e2206500119, 2022",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10916347688854535556",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10916347688854535556&engine=google_scholar&hl=en",
+                "cites_id": "10916347688854535556"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Data from: Making the connections. Using the ecosystem services concept to guide the sustainable management of chalk streams",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:ODE9OILHJdcC",
+            "citation_id": "qBBWOA8AAAAJ:ODE9OILHJdcC",
+            "authors": "J Ball, K Peh, G Taylor, R Holland",
+            "publication": "University of Southampton, 2022",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Improved yield and health benefits of watercress grown in an indoor vertical farm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:-_dYPAW6P2MC",
+            "citation_id": "qBBWOA8AAAAJ:-_dYPAW6P2MC",
+            "authors": "Y Qian, LE Hibbert, S Milner, E Katz, DJ Kliebenstein, G Taylor",
+            "publication": "Scientia horticulturae 300, 111068, 2022",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17995699916572817429",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17995699916572817429&engine=google_scholar&hl=en",
+                "cites_id": "17995699916572817429"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Genotypic and tissue-specific variation of Populus nigra transcriptome profiles in response to drought",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:SpbeaW3--B0C",
+            "citation_id": "qBBWOA8AAAAJ:SpbeaW3--B0C",
+            "authors": "C Eckert, H Wildhagen, MJ Paulo, S Scalabrin, J Ballauff, SK Schnabel, ...",
+            "publication": "Scientific Data 9 (1), 297, 2022",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15203248445853447948",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15203248445853447948&engine=google_scholar&hl=en",
+                "cites_id": "15203248445853447948"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "An underground, wireless, open-source, low-cost system for monitoring oxygen, temperature, and soil moisture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:mvPsJ3kp5DgC",
+            "citation_id": "qBBWOA8AAAAJ:mvPsJ3kp5DgC",
+            "authors": "E Levintal, Y Ganot, G Taylor, P Freer-Smith, K Suvocarev, HE Dahlke",
+            "publication": "Soil 8 (1), 85-97, 2022",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=941413269242366596",
+                "serpapi_link": "https://serpapi.com/search.json?cites=941413269242366596&engine=google_scholar&hl=en",
+                "cites_id": "941413269242366596"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Predicted wind and solar energy expansion has minimal overlap with multiple conservation priorities across global regions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:O3NaXMp0MMsC",
+            "citation_id": "qBBWOA8AAAAJ:O3NaXMp0MMsC",
+            "authors": "S Dunnett, RA Holland, G Taylor, F Eigenbrod",
+            "publication": "Proceedings of the National Academy of Sciences 119 (6), e2104764119, 2022",
+            "cited_by": {
+                "value": 133,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6889746512121704064",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6889746512121704064&engine=google_scholar&hl=en",
+                "cites_id": "6889746512121704064"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Improving phosphate use efficiency in the aquatic crop watercress (Nasturtium",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:P7Ujq4OLJYoC",
+            "citation_id": "qBBWOA8AAAAJ:P7Ujq4OLJYoC",
+            "authors": "L Hibbert, G Taylor",
+            "publication": "Horticulture, 2022",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "THC and CBD fingerprinting of an elite cannabis collection from Iran: quantifying diversity to underpin future cannabis breeding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:eflP2zaiRacC",
+            "citation_id": "qBBWOA8AAAAJ:eflP2zaiRacC",
+            "authors": "M Mostafaei Dehnavi, A Ebadi, A Peirovi, G Taylor, SA Salami",
+            "publication": "Plants 11 (1), 129, 2022",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12815836436001982357",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12815836436001982357&engine=google_scholar&hl=en",
+                "cites_id": "12815836436001982357"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Improving phosphate use efficiency in the aquatic crop watercress (Nasturtium officinale)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:NMxIlDl6LWMC",
+            "citation_id": "qBBWOA8AAAAJ:NMxIlDl6LWMC",
+            "authors": "L Hibbert, G Taylor",
+            "publication": "Horticulture Research 9, uhac011, 2022",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6440379711618120246",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6440379711618120246&engine=google_scholar&hl=en",
+                "cites_id": "6440379711618120246"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Landscape measurements of evapotranspiration and CO2 fluxes during the first year of newly established bioenergy poplar plantation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:bEWYMUwI8FkC",
+            "citation_id": "qBBWOA8AAAAJ:bEWYMUwI8FkC",
+            "authors": "K Suvocarev, J Bailey-Bale, P Freer-Smith, S Milner, Z Nukshab, ...",
+            "publication": "AGU Fall Meeting Abstracts 2021, B15D-1466, 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and cultural ecosystem services",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:roLk4NBRz8UC",
+            "citation_id": "qBBWOA8AAAAJ:roLk4NBRz8UC",
+            "authors": "C Donnison, RA Holland, ZM Harris, F Eigenbrod, G Taylor",
+            "publication": "Environmental research letters 16 (11), 113005, 2021",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1853654454336569741",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1853654454336569741&engine=google_scholar&hl=en",
+                "cites_id": "1853654454336569741"
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "Without SLO BECCS, fast net-zero looks unlikely",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "qBBWOA8AAAAJ:1sJd4Hv_s6UC",
+            "authors": "C Donnison, K Trdlicova, A Mohr, G Taylor",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10582518933365227768",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10582518933365227768&engine=google_scholar&hl=en",
+                "cites_id": "10582518933365227768"
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "Good and bad lettuce leaf microbes? Unravelling the genetic architecture of the microbiome to inform plant breeding for enhanced food safety and reduced food waste",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:b1wdh0AR-JQC",
+            "citation_id": "qBBWOA8AAAAJ:b1wdh0AR-JQC",
+            "authors": "A Damerum, EC Arnold, V Bernard, HK Smith, G Taylor",
+            "publication": "bioRxiv, 2021.08. 06.455490, 2021",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9379216965810938478",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9379216965810938478&engine=google_scholar&hl=en",
+                "cites_id": "9379216965810938478"
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "Reducing post\u2010harvest losses and improving quality in sweet corn (Zea mays L.): challenges and solutions for less food waste and improved food security",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:blknAaTinKkC",
+            "citation_id": "qBBWOA8AAAAJ:blknAaTinKkC",
+            "authors": "F Becerra\u2010Sanchez, G Taylor",
+            "publication": "Food and Energy Security 10 (3), e277, 2021",
+            "cited_by": {
+                "value": 103,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6196024316980996298",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6196024316980996298&engine=google_scholar&hl=en",
+                "cites_id": "6196024316980996298"
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "The genetic basis of water\u2010use efficiency and yield in lettuce",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:35r97b3x0nAC",
+            "citation_id": "qBBWOA8AAAAJ:35r97b3x0nAC",
+            "authors": "A Damerum, HK Smith, GJJ Clarkson, MJ Truco, RW Michelmore, ...",
+            "publication": "BMC plant biology 21 (1), 237, 2021",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17954115147929514849",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17954115147929514849&engine=google_scholar&hl=en",
+                "cites_id": "17954115147929514849"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Predicting future energy and biodiversity trade-offs globally",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:mVmsd5A6BfQC",
+            "citation_id": "qBBWOA8AAAAJ:mVmsd5A6BfQC",
+            "authors": "S Dunnett, RA Holland, G Taylor, F Eigenbrod",
+            "publication": "EGU General Assembly Conference Abstracts, EGU21-16317, 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Land-use chang e from food to energy: meta-analysis unravels effects of bioenergy on biodiversit y and amenity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:LO7wyVUgiFcC",
+            "citation_id": "qBBWOA8AAAAJ:LO7wyVUgiFcC",
+            "authors": "C Donnison, RA Holland, ZM Harris, F Eigenbrod, G Taylor",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10790088345674819770",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10790088345674819770&engine=google_scholar&hl=en",
+                "cites_id": "10790088345674819770"
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "The methylome is altered for plants in a high CO2 world: insights into the response of a wild plant population to multigenerational exposure to elevated atmospheric [CO2]",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:FPJr55Dyh1AC",
+            "citation_id": "qBBWOA8AAAAJ:FPJr55Dyh1AC",
+            "authors": "JM Saban, A Watson\u2010Lazowski, MA Chapman, G Taylor",
+            "publication": "Global Change Biology 26 (11), 6474-6492, 2020",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17617095800186291582",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17617095800186291582&engine=google_scholar&hl=en",
+                "cites_id": "17617095800186291582"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Innovative breeding technologies in lettuce for improved post-harvest quality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:xtRiw3GOFMkC",
+            "citation_id": "qBBWOA8AAAAJ:xtRiw3GOFMkC",
+            "authors": "A Damerum, MA Chapman, G Taylor",
+            "publication": "Postharvest biology and technology 168, 111266, 2020",
+            "cited_by": {
+                "value": 86,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10311519448529249458",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10311519448529249458&engine=google_scholar&hl=en",
+                "cites_id": "10311519448529249458"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Bioenergy with Carbon Capture and Storage (BECCS): Finding the win\u2013wins for energy, negative emissions and ecosystem services\u2014size matters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "qBBWOA8AAAAJ:d1gkVwhDpl0C",
+            "authors": "C Donnison, RA Holland, A Hastings, LM Armstrong, F Eigenbrod, ...",
+            "publication": "GCB Bioenergy 12 (8), 586-604, 2020",
+            "cited_by": {
+                "value": 102,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=402444412798245494",
+                "serpapi_link": "https://serpapi.com/search.json?cites=402444412798245494&engine=google_scholar&hl=en",
+                "cites_id": "402444412798245494"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Incorporating the value of nature into assessments of future energy pathways",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:RYcK_YlVTxYC",
+            "citation_id": "qBBWOA8AAAAJ:RYcK_YlVTxYC",
+            "authors": "A Lovett, B Day, G Smith, G Delafield, N Owen, P Agnolucci, I Bateman, ...",
+            "publication": "EGU General Assembly Conference Abstracts, 4176, 2020",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Harmonised global datasets of wind and solar farm locations and power",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:JV2RwH3_ST0C",
+            "citation_id": "qBBWOA8AAAAJ:JV2RwH3_ST0C",
+            "authors": "S Dunnett, A Sorichetta, G Taylor, F Eigenbrod",
+            "publication": "Scientific data 7 (1), 130, 2020",
+            "cited_by": {
+                "value": 205,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6138822656071211525",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6138822656071211525&engine=google_scholar&hl=en",
+                "cites_id": "6138822656071211525"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "A place\u2010based participatory mapping approach for assessing cultural ecosystem services in urban green space",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:ZHo1McVdvXMC",
+            "citation_id": "qBBWOA8AAAAJ:ZHo1McVdvXMC",
+            "authors": "L Jones, RA Holland, J Ball, T Sykes, G Taylor, L Ingwall\u2010King, ...",
+            "publication": "People and Nature 2 (1), 123-137, 2020",
+            "cited_by": {
+                "value": 73,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8889348725823416180",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8889348725823416180&engine=google_scholar&hl=en",
+                "cites_id": "8889348725823416180"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Review of Energy Policy, 2019",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:edDO8Oi4QzsC",
+            "citation_id": "qBBWOA8AAAAJ:edDO8Oi4QzsC",
+            "authors": "J Watson, M Bradshaw, A Froggat, C Kuzemko, J Webb, N Beaumont, ...",
+            "publication": "UK Energy Research Centre (UKERC), 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17322161430338220449",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17322161430338220449&engine=google_scholar&hl=en",
+                "cites_id": "17322161430338220449"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "The influence of the global electric power system on terrestrial biodiversity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:PR6Y55bgFSsC",
+            "citation_id": "qBBWOA8AAAAJ:PR6Y55bgFSsC",
+            "authors": "RA Holland, K Scott, P Agnolucci, C Rapti, F Eigenbrod, G Taylor",
+            "publication": "Proceedings of the National Academy of Sciences 116 (51), 26078-26084, 2019",
+            "cited_by": {
+                "value": 53,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16429826759392745893",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16429826759392745893&engine=google_scholar&hl=en",
+                "cites_id": "16429826759392745893"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "Ensuring net-zero is a win-win for the climate and the environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:URolC5Kub84C",
+            "citation_id": "qBBWOA8AAAAJ:URolC5Kub84C",
+            "authors": "N Beaumont, A Armstrong, P Agnolucci, A Hastings, R Holland, B Day, ...",
+            "publication": "Review of Energy Policy 2019, 6-7, 2019",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Additive effects of high growth rate and low transpiration rate drive differences in whole plant transpiration efficiency among black poplar genotypes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:MLfJN-KU85MC",
+            "citation_id": "qBBWOA8AAAAJ:MLfJN-KU85MC",
+            "authors": "MB Bogeat-Triboulot, C Bur\u00e9, T Gerardin, PA Chuste, D Le Thiec, ...",
+            "publication": "Environmental and experimental botany 166, 103784, 2019",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10560319760140818849",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10560319760140818849&engine=google_scholar&hl=en",
+                "cites_id": "10560319760140818849"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Sustainable bioenergy for climate mitigation: developing drought-tolerant trees and grasses",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:q3CdL3IzO_QC",
+            "citation_id": "qBBWOA8AAAAJ:q3CdL3IzO_QC",
+            "authors": "G Taylor, IS Donnison, D Murphy-Bokern, M Morgante, ...",
+            "publication": "Annals of Botany 124 (4), 513-520, 2019",
+            "cited_by": {
+                "value": 55,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16362366189299531250",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16362366189299531250&engine=google_scholar&hl=en",
+                "cites_id": "16362366189299531250"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Single primer enrichment technology as a tool for massive genotyping: a benchmark on black poplar and maize",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:lSLTfruPkqcC",
+            "citation_id": "qBBWOA8AAAAJ:lSLTfruPkqcC",
+            "authors": "D Scaglione, S Pinosio, F Marroni, E Di Centa, A Fornasiero, G Magris, ...",
+            "publication": "Annals of botany 124 (4), 543-551, 2019",
+            "cited_by": {
+                "value": 91,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7460125980427086870",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7460125980427086870&engine=google_scholar&hl=en",
+                "cites_id": "7460125980427086870"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Dynamic changes in ABA content in water-stressed Populus nigra: effects on carbon fixation and soluble carbohydrates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:QIV2ME_5wuYC",
+            "citation_id": "qBBWOA8AAAAJ:QIV2ME_5wuYC",
+            "authors": "C Brunetti, A Gori, G Marino, P Latini, AP Sobolev, A Nardini, M Haworth, ...",
+            "publication": "Annals of Botany 124 (4), 627-643, 2019",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4170255037944459448",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4170255037944459448&engine=google_scholar&hl=en",
+                "cites_id": "4170255037944459448"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Characterization of phenology, physiology, morphology and biomass traits across a broad Euro\u2010Mediterranean ecotypic panel of the lignocellulosic feedstock Arundo donax",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:e_rmSamDkqQC",
+            "citation_id": "qBBWOA8AAAAJ:e_rmSamDkqQC",
+            "authors": "F Fabbrini, R Ludovisi, O Alasia, J Flexas, C Douthe, M Ribas Carb\u00f3, ...",
+            "publication": "Gcb Bioenergy 11 (1), 152-170, 2019",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14771929271244959076",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14771929271244959076&engine=google_scholar&hl=en",
+                "cites_id": "14771929271244959076"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Breeding progress and preparedness for mass\u2010scale deployment of perennial lignocellulosic biomass crops switchgrass, miscanthus, willow and poplar",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:j8SEvjWlNXcC",
+            "citation_id": "qBBWOA8AAAAJ:j8SEvjWlNXcC",
+            "authors": "J Clifton\u2010Brown, A Harfouche, MD Casler, H Dylan Jones, WJ Macalpine, ...",
+            "publication": "Gcb Bioenergy 11 (1), 118-151, 2019",
+            "cited_by": {
+                "value": 206,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18046296980292227807",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18046296980292227807&engine=google_scholar&hl=en",
+                "cites_id": "18046296980292227807"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "FACE facts hold for multiple generations; Evidence from natural CO2 springs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:kRWSkSYxWN8C",
+            "citation_id": "qBBWOA8AAAAJ:kRWSkSYxWN8C",
+            "authors": "JM Saban, MA Chapman, G Taylor",
+            "publication": "Global Change Biology 25 (1), 1-11, 2019",
+            "cited_by": {
+                "value": 49,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13371243615092801338",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13371243615092801338&engine=google_scholar&hl=en",
+                "cites_id": "13371243615092801338"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "The potential to improve culinary herb crop quality with deficit irrigation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:_Ybze24A_UAC",
+            "citation_id": "qBBWOA8AAAAJ:_Ybze24A_UAC",
+            "authors": "LS Rowland, HK Smith, G Taylor",
+            "publication": "Scientia Horticulturae 242, 44-50, 2018",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17105122271276832411",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17105122271276832411&engine=google_scholar&hl=en",
+                "cites_id": "17105122271276832411"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Grassland futures in Great Britain\u2013Productivity assessment and scenarios for land use change opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:1yQoGdGgb4wC",
+            "citation_id": "qBBWOA8AAAAJ:1yQoGdGgb4wC",
+            "authors": "A Qi, RA Holland, G Taylor, GM Richter",
+            "publication": "Science of the Total Environment 634, 1108-1118, 2018",
+            "cited_by": {
+                "value": 73,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16337921507547847176",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16337921507547847176&engine=google_scholar&hl=en",
+                "cites_id": "16337921507547847176"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Incorporating ecosystem services into the design of future energy systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "qBBWOA8AAAAJ:M3ejUd6NZC8C",
+            "authors": "RA Holland, N Beaumont, T Hooper, M Austen, RJK Gross, PJ Heptonstall, ...",
+            "publication": "Applied Energy 222, 812-822, 2018",
+            "cited_by": {
+                "value": 45,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3592083417474612049",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3592083417474612049&engine=google_scholar&hl=en",
+                "cites_id": "3592083417474612049"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "SkyMapper Transient Discovery Report for 2018-05-23",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:2VqYfGB8ITEC",
+            "citation_id": "qBBWOA8AAAAJ:2VqYfGB8ITEC",
+            "authors": "A Moller, B Tucker, P Armstrong, C Bray, S Chang, C Onken, ...",
+            "publication": "Transient Name Server Discovery Report 2018, 1, 2018",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Do energy scenarios pay sufficient attention to the environment? Lessons from the UK to support improved policy outcomes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:zA6iFVUQeVQC",
+            "citation_id": "qBBWOA8AAAAJ:zA6iFVUQeVQC",
+            "authors": "T Hooper, MC Austen, N Beaumont, P Heptonstall, RA Holland, ...",
+            "publication": "Energy Policy 115, 397-408, 2018",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8988138564247130383",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8988138564247130383&engine=google_scholar&hl=en",
+                "cites_id": "8988138564247130383"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Genes and gene clusters related to genotype and drought-induced variation in saccharification potential, lignin content and wood anatomical traits in Populus nigra",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:YFjsv_pBGBYC",
+            "citation_id": "qBBWOA8AAAAJ:YFjsv_pBGBYC",
+            "authors": "H Wildhagen, S Paul, M Allwright, HK Smith, M Malinowska, SK Schnabel, ...",
+            "publication": "Tree Physiology 38 (3), 320-339, 2018",
+            "cited_by": {
+                "value": 47,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6470175194307834597",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6470175194307834597&engine=google_scholar&hl=en",
+                "cites_id": "6470175194307834597"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Future biomass supply for low carbon European energy provision in a changing world",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:xtoqd-5pKcoC",
+            "citation_id": "qBBWOA8AAAAJ:xtoqd-5pKcoC",
+            "authors": "A Hastings, P Smith, J Clifton-Brown, G Taylor",
+            "publication": "TERRAenVISION Environmental Issues Today: Scientific Solutions for Societal \u2026, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15663410327327775581",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15663410327327775581&engine=google_scholar&hl=en",
+                "cites_id": "15663410327327775581"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Significant water savings can be made in commercial spinach cropping without adverse impacts on crop yield or shelf life",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:cWzG1nlazyYC",
+            "citation_id": "qBBWOA8AAAAJ:cWzG1nlazyYC",
+            "authors": "HK Smith, GJ Clarkson, G Taylor, K Irina",
+            "publication": "J Hortic 5 (03), 242, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13991260197301379588",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13991260197301379588&engine=google_scholar&hl=en",
+                "cites_id": "13991260197301379588"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Biogenic carbon\u2014capture and sequestration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:K3LRdlH-MEoC",
+            "citation_id": "qBBWOA8AAAAJ:K3LRdlH-MEoC",
+            "authors": "ZM Harris, S Milner, G Taylor",
+            "publication": "Greenhouse gas balances of bioenergy systems, 55-76, 2018",
+            "cited_by": {
+                "value": 57,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11899698102779418073",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11899698102779418073&engine=google_scholar&hl=en",
+                "cites_id": "11899698102779418073"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Bioenergy with Carbon Capture and Storage (BECCS) in the UK: Contrasting land-use scenarios and implications for natural capital",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:ldfaerwXgEUC",
+            "citation_id": "qBBWOA8AAAAJ:ldfaerwXgEUC",
+            "authors": "C Donnison, R Holland, A Hastings, LM Armstrong, F Eigenbrod, G Taylor",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Evaluation of the ECOSSE model to predict heterotrophic soil respiration by direct measurements",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:vDijr-p_gm4C",
+            "citation_id": "qBBWOA8AAAAJ:vDijr-p_gm4C",
+            "authors": "M Dondini, G Alberti, G Delle Vedove, M Ventura, G Tonon, M Viger, ...",
+            "publication": "European journal of soil science 68 (3), 384-393, 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2772628197900178132",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2772628197900178132&engine=google_scholar&hl=en",
+                "cites_id": "2772628197900178132"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "High\u2010resolution spatial modelling of greenhouse gas emissions from land\u2010use change to energy crops in the United Kingdom",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:9vf0nzSNQJEC",
+            "citation_id": "qBBWOA8AAAAJ:9vf0nzSNQJEC",
+            "authors": "M Richards, M Pogson, M Dondini, EO Jones, A Hastings, DN Henner, ...",
+            "publication": "Gcb Bioenergy 9 (3), 627-644, 2017",
+            "cited_by": {
+                "value": 84,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15717068957779665926",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15717068957779665926&engine=google_scholar&hl=en",
+                "cites_id": "15717068957779665926"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Biochar alters the soil microbiome and soil function: results of next\u2010generation amplicon sequencing across Europe",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:bFI3QPDXJZMC",
+            "citation_id": "qBBWOA8AAAAJ:bFI3QPDXJZMC",
+            "authors": "JR Jenkins, M Viger, EC Arnold, ZM Harris, M Ventura, F Miglietta, ...",
+            "publication": "Gcb Bioenergy 9 (3), 591-612, 2017",
+            "cited_by": {
+                "value": 195,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9416510842480175678",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9416510842480175678&engine=google_scholar&hl=en",
+                "cites_id": "9416510842480175678"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Land\u2010use change to bioenergy: Grassland to short rotation coppice willow has an improved carbon balance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:WF5omc3nYNoC",
+            "citation_id": "qBBWOA8AAAAJ:WF5omc3nYNoC",
+            "authors": "ZM Harris, G Alberti, M Viger, JR Jenkins, R Rowe, NP McNamara, ...",
+            "publication": "Gcb Bioenergy 9 (2), 469-484, 2017",
+            "cited_by": {
+                "value": 52,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1311983767682554525",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1311983767682554525&engine=google_scholar&hl=en",
+                "cites_id": "1311983767682554525"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Plastic or adaptive? Linking genotype to phenotype to define an ideotype for drought tolerance in Populus nigra",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:lmc2jWPfTJgC",
+            "citation_id": "qBBWOA8AAAAJ:lmc2jWPfTJgC",
+            "authors": "G Taylor, D Le Thiec",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Bioenergy trees: genetic and genomic strategies to improve yield",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:uJ-U7cs_P_0C",
+            "citation_id": "qBBWOA8AAAAJ:uJ-U7cs_P_0C",
+            "authors": "G Taylor, MR Allwright, HK Smith, A Polle, H Wildhagen, M Hertzberg, ...",
+            "publication": "Perennial biomass crops for a resource-constrained world, 167-190, 2016",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18062898568978947160",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18062898568978947160&engine=google_scholar&hl=en",
+                "cites_id": "18062898568978947160"
+            },
+            "year": "2016",
+            "author_position": "first"
+        },
+        {
+            "title": "Perennial biomass crops for a resource-constrained world",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:fQNAKQ3IYiAC",
+            "citation_id": "qBBWOA8AAAAJ:fQNAKQ3IYiAC",
+            "authors": "S Barth, D Murphy-Bokern, O Kalinina, G Taylor, M Jones",
+            "publication": "Springer, 2016",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12727192348653266903",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12727192348653266903&engine=google_scholar&hl=en",
+                "cites_id": "12727192348653266903"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Plant adaptation or acclimation to rising CO2? Insight from first multigenerational RNA\u2010Seq transcriptome",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "qBBWOA8AAAAJ:nb7KW1ujOQ8C",
+            "authors": "A Watson\u2010Lazowski, Y Lin, F Miglietta, RJ Edwards, MA Chapman, ...",
+            "publication": "Global Change Biology 22 (11), 3760-3773, 2016",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11014988805221439562",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11014988805221439562&engine=google_scholar&hl=en",
+                "cites_id": "11014988805221439562"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Biomass traits and candidate genes for bioenergy revealed through association genetics in coppiced European Populus nigra (L.)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:JQOojiI6XY0C",
+            "citation_id": "qBBWOA8AAAAJ:JQOojiI6XY0C",
+            "authors": "MR Allwright, A Payne, G Emiliani, S Milner, M Viger, F Rouse, ...",
+            "publication": "Biotechnology for biofuels 9 (1), 195, 2016",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16877808063286623844",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16877808063286623844&engine=google_scholar&hl=en",
+                "cites_id": "16877808063286623844"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Simulation of greenhouse gases following land\u2010use change to bioenergy crops using the ECOSSE model: A comparison between site measurements and model predictions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:kuK5TVdYjLIC",
+            "citation_id": "qBBWOA8AAAAJ:kuK5TVdYjLIC",
+            "authors": "M Dondini, MIA Richards, M Pogson, J McCalmont, J Drewer, R Marshall, ...",
+            "publication": "Gcb Bioenergy 8 (5), 925-940, 2016",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8959070285458651820",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8959070285458651820&engine=google_scholar&hl=en",
+                "cites_id": "8959070285458651820"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Implementing land-use and ecosystem service effects into an integrated bioenergy value chain optimisation framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:L8Ckcad2t8MC",
+            "citation_id": "qBBWOA8AAAAJ:L8Ckcad2t8MC",
+            "authors": "M Guo, GM Richter, RA Holland, F Eigenbrod, G Taylor, N Shah",
+            "publication": "Computers & Chemical Engineering 91, 392-406, 2016",
+            "cited_by": {
+                "value": 41,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4295729701055799923",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4295729701055799923&engine=google_scholar&hl=en",
+                "cites_id": "4295729701055799923"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "New resources for genetic studies in Populus nigra: genome\u2010wide SNP discovery and development of a 12k Infinium array",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "qBBWOA8AAAAJ:4OULZ7Gr8RgC",
+            "authors": "P Faivre\u2010Rampant, G Zaina, V Jorge, S Giacomello, V Segura, ...",
+            "publication": "Molecular ecology resources 16 (4), 1023-1036, 2016",
+            "cited_by": {
+                "value": 67,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9218980319745212441",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9218980319745212441&engine=google_scholar&hl=en",
+                "cites_id": "9218980319745212441"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Adaptive mechanisms and genomic plasticity for drought tolerance identified in European black poplar (Populus nigra L.)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qBBWOA8AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qBBWOA8AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "qBBWOA8AAAAJ:YOwf2qJgpHMC",
+            "authors": "M Viger, HK Smith, D Cohen, J Dewoody, H Trewin, M Steenackers, ...",
+            "publication": "Tree physiology 36 (7), 909-928, 2016",
+            "cited_by": {
+                "value": 97,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3484910016903598514",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3484910016903598514&engine=google_scholar&hl=en",
+                "cites_id": "3484910016903598514"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 19673,
+                    "since_2021": 6408
+                }
+            },
+            {
+                "h_index": {
+                    "all": 74,
+                    "since_2021": 43
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 178,
+                    "since_2021": 121
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 1995,
+                "citations": 66
+            },
+            {
+                "year": 1996,
+                "citations": 80
+            },
+            {
+                "year": 1997,
+                "citations": 51
+            },
+            {
+                "year": 1998,
+                "citations": 67
+            },
+            {
+                "year": 1999,
+                "citations": 94
+            },
+            {
+                "year": 2000,
+                "citations": 79
+            },
+            {
+                "year": 2001,
+                "citations": 155
+            },
+            {
+                "year": 2002,
+                "citations": 101
+            },
+            {
+                "year": 2003,
+                "citations": 126
+            },
+            {
+                "year": 2004,
+                "citations": 182
+            },
+            {
+                "year": 2005,
+                "citations": 229
+            },
+            {
+                "year": 2006,
+                "citations": 293
+            },
+            {
+                "year": 2007,
+                "citations": 328
+            },
+            {
+                "year": 2008,
+                "citations": 415
+            },
+            {
+                "year": 2009,
+                "citations": 565
+            },
+            {
+                "year": 2010,
+                "citations": 563
+            },
+            {
+                "year": 2011,
+                "citations": 624
+            },
+            {
+                "year": 2012,
+                "citations": 705
+            },
+            {
+                "year": 2013,
+                "citations": 836
+            },
+            {
+                "year": 2014,
+                "citations": 846
+            },
+            {
+                "year": 2015,
+                "citations": 1014
+            },
+            {
+                "year": 2016,
+                "citations": 1037
+            },
+            {
+                "year": 2017,
+                "citations": 972
+            },
+            {
+                "year": 2018,
+                "citations": 1035
+            },
+            {
+                "year": 2019,
+                "citations": 1225
+            },
+            {
+                "year": 2020,
+                "citations": 1092
+            },
+            {
+                "year": 2021,
+                "citations": 1078
+            },
+            {
+                "year": 2022,
+                "citations": 1074
+            },
+            {
+                "year": 2023,
+                "citations": 1127
+            },
+            {
+                "year": 2024,
+                "citations": 1170
+            },
+            {
+                "year": 2025,
+                "citations": 1144
+            },
+            {
+                "year": 2026,
+                "citations": 801
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=qBBWOA8AAAAJ",
+        "available": 73,
+        "not_available": 6
+    },
+    "co_authors": [
+        {
+            "name": "Pete Smith",
+            "link": "https://scholar.google.com/citations?user=7P9W6pYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7P9W6pYAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "7P9W6pYAAAAJ",
+            "affiliations": "Professor of Soils & Global Change, University of Aberdeen",
+            "email": "Verified email at abdn.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7P9W6pYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Robert Holland",
+            "link": "https://scholar.google.com/citations?user=QucMYusAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QucMYusAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "QucMYusAAAAJ",
+            "affiliations": "University of Southampton",
+            "email": "Verified email at soton.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QucMYusAAAAJ&citpid=2"
+        },
+        {
+            "name": "Franco Miglietta",
+            "link": "https://scholar.google.com/citations?user=9AhFfw0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9AhFfw0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "9AhFfw0AAAAJ",
+            "affiliations": "Institute of Bioeconomy, CNR, Florence - I",
+            "email": "Verified email at ibe.cnr.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9AhFfw0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Rebecca L Rowe",
+            "link": "https://scholar.google.com/citations?user=5_G-YlUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5_G-YlUAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "5_G-YlUAAAAJ",
+            "affiliations": "Ecologist Centre for Ecology and Hydrology",
+            "email": "Verified email at ceh.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Felix Eigenbrod",
+            "link": "https://scholar.google.com/citations?user=JVBDupYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JVBDupYAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "JVBDupYAAAAJ",
+            "affiliations": "Professor of Applied Spatial Ecology, Geography and Environment, University of Southampton",
+            "email": "Verified email at soton.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JVBDupYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Nathaniel Robert Street",
+            "link": "https://scholar.google.com/citations?user=v_MjimYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=v_MjimYAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "v_MjimYAAAAJ",
+            "affiliations": "Professor, Ume\u00e5 Plant Science Centre, Department of Plant Physiology, Ume\u00e5 University",
+            "email": "Verified email at umu.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v_MjimYAAAAJ&citpid=1"
+        },
+        {
+            "name": "Eric Casella",
+            "link": "https://scholar.google.com/citations?user=vy1Vk4gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vy1Vk4gAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "vy1Vk4gAAAAJ",
+            "affiliations": "Centre for Sustainable Forestry and Climate Change, Forest Research",
+            "email": "Verified email at forestresearch.gov.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vy1Vk4gAAAAJ&citpid=4"
+        },
+        {
+            "name": "Zoe M Harris",
+            "link": "https://scholar.google.com/citations?user=fqeeG8sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fqeeG8sAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "fqeeG8sAAAAJ",
+            "affiliations": "Research Fellow, Imperial College London",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fqeeG8sAAAAJ&citpid=3"
+        },
+        {
+            "name": "Maurizio SABATTI",
+            "link": "https://scholar.google.com/citations?user=bBAcOcIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bBAcOcIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "bBAcOcIAAAAJ",
+            "affiliations": "Universit\u00e0 della Tuscia",
+            "email": "Verified email at unitus.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bBAcOcIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Andrea Polle",
+            "link": "https://scholar.google.com/citations?user=dJLG1ZIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dJLG1ZIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "dJLG1ZIAAAAJ",
+            "affiliations": "Professor of Forest Botany and Tree Physiology, University of Goettingen",
+            "email": "Verified email at gwdg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dJLG1ZIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Suzanne Milner",
+            "link": "https://scholar.google.com/citations?user=N6tvkrcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=N6tvkrcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "N6tvkrcAAAAJ",
+            "affiliations": "Crop Science Centre, University of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Reinhart Ceulemans",
+            "link": "https://scholar.google.com/citations?user=AZ7Wy2QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AZ7Wy2QAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "AZ7Wy2QAAAAJ",
+            "affiliations": "Emeritus professor at Department of Biology, University of Antwerp",
+            "email": "Verified email at uantwerpen.be",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AZ7Wy2QAAAAJ&citpid=2"
+        },
+        {
+            "name": "Giorgio Alberti",
+            "link": "https://scholar.google.com/citations?user=_XFl4WkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_XFl4WkAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "_XFl4WkAAAAJ",
+            "affiliations": "University of Udine",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_XFl4WkAAAAJ&citpid=5"
+        },
+        {
+            "name": "Dr Matthew Aylott",
+            "link": "https://scholar.google.com/citations?user=xQAGemIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xQAGemIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "xQAGemIAAAAJ",
+            "affiliations": "UK Energy Research Centre",
+            "email": "Verified email at ukerc.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xQAGemIAAAAJ&citpid=2"
+        },
+        {
+            "name": "William John Davies",
+            "link": "https://scholar.google.com/citations?user=fOGjEHMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fOGjEHMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "fOGjEHMAAAAJ",
+            "affiliations": "Professor of Plant Science",
+            "email": "Verified email at lancaster.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Penny Tricker",
+            "link": "https://scholar.google.com/citations?user=REh-zt0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=REh-zt0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "REh-zt0AAAAJ",
+            "affiliations": "Science Group Leader, Plant and Food Research",
+            "email": "Verified email at plantandfood.co.nz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=REh-zt0AAAAJ&citpid=4"
+        },
+        {
+            "name": "Michele Morgante",
+            "link": "https://scholar.google.com/citations?user=-42meGUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-42meGUAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "-42meGUAAAAJ",
+            "affiliations": "Professore di Genetica, Universit\u00e0 di Udine, Istituto di Genomica Applicata",
+            "email": "Verified email at uniud.it",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Giuseppe Scarascia Mugnozza",
+            "link": "https://scholar.google.com/citations?user=rqiK-1UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rqiK-1UAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "rqiK-1UAAAAJ",
+            "email": "Verified email at unitus.it",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Carlo Calfapietra",
+            "link": "https://scholar.google.com/citations?user=lawYUQcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lawYUQcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "lawYUQcAAAAJ",
+            "affiliations": "CNR-IRET",
+            "email": "Verified email at cnr.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lawYUQcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Andrew Lovett",
+            "link": "https://scholar.google.com/citations?user=lWz6RO8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lWz6RO8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "lWz6RO8AAAAJ",
+            "affiliations": "University of East Anglia",
+            "email": "Verified email at uea.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lWz6RO8AAAAJ&citpid=2"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=qBBWOA8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=100"
+    }
+}

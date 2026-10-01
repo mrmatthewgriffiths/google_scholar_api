@@ -1,0 +1,1842 @@
+{
+    "search_metadata": {
+        "id": "6abd733cbf04d53b690d01d6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/tDs3ZVZ4pmPSKNNDgWLOSmSLh2Kf6owX8I7ZJK_-MIQ/6abd733cbf04d53b690d01d6.json",
+        "markdown_endpoint": "https://serpapi.com/searches/tDs3ZVZ4pmPSKNNDgWLOSmSLh2Kf6owX8I7ZJK_-MIQ/6abd733cbf04d53b690d01d6.md",
+        "created_at": "2026-09-30 20:38:20 UTC",
+        "processed_at": "2026-09-30 20:38:20 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Vd9jVC0AAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/tDs3ZVZ4pmPSKNNDgWLOSmSLh2Kf6owX8I7ZJK_-MIQ/6abd733cbf04d53b690d01d6.html",
+        "total_time_taken": 0.41
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Vd9jVC0AAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Kate Elizabeth Jones",
+        "affiliations": "Professor Ecology and Biodiversity, Director People & Nature Lab, University College London",
+        "email": "Verified email at ucl.ac.uk",
+        "website": "https://profiles.ucl.ac.uk/35481-kate-jones",
+        "interests": [
+            {
+                "title": "Biodiversity",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biodiversity",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiodiversity"
+            },
+            {
+                "title": "Disease Ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:disease_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adisease_ecology"
+            },
+            {
+                "title": "Bioacoustics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bioacoustics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioacoustics"
+            },
+            {
+                "title": "Artificial Intelligence",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence"
+            },
+            {
+                "title": "Bats",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bats",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abats"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Vd9jVC0AAAAJ&citpid=43"
+    },
+    "articles": [
+        {
+            "title": "Georgina Mary Mace",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:qwlfnX_dBN8C",
+            "citation_id": "Vd9jVC0AAAAJ:qwlfnX_dBN8C",
+            "authors": "KE Jones, A Purvis, S Stuart, IJ Bateman",
+            "publication": "Biographical Memoirs of Fellows of the Royal Society, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "first"
+        },
+        {
+            "title": "Widespread Bomb Fishing in Indo-Pacific Archipelago Revealed Through Machine Learning Accelerated Passive Acoustic Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:kVDlchZkYg4C",
+            "citation_id": "Vd9jVC0AAAAJ:kVDlchZkYg4C",
+            "authors": "B Williams, MCRPM Team, A du Luart, S Burniston, TB Razak, ...",
+            "publication": "Remote Sensing in Ecology and Conservation, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Transforming our understanding of biological diversity and its evolution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:HaiYZdWvYCYC",
+            "citation_id": "Vd9jVC0AAAAJ:HaiYZdWvYCYC",
+            "authors": "J Bridle, KE Jones",
+            "publication": "UCL at 200: Two Centuries of Insight and Impact 3, 122-123, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "Future of edge AI in biodiversity monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:htV_5D2kmyYC",
+            "citation_id": "Vd9jVC0AAAAJ:htV_5D2kmyYC",
+            "authors": "A Vuilliomenet, KE Jones, D Wilson",
+            "publication": "Methods in Ecology and Evolution, 2026",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12048053881178598007",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12048053881178598007&engine=google_scholar&hl=en",
+                "cites_id": "12048053881178598007"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Climate-driven host ecology as a framework for zoonotic disease risk: understanding transferability across arenavirus systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:SN5MtqHu-psC",
+            "citation_id": "Vd9jVC0AAAAJ:SN5MtqHu-psC",
+            "authors": "GC Milne, LA Attfield, J Mari\u00ebn, L Kirkpatrick, H Leirs, KE Jones, ...",
+            "publication": "Proceedings of the National Academy of Sciences 123 (38), 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Scaling Lassa Virus Dynamics within Anthropogenic Ecosystems (SCAPES) study: a mixed-methods observational cohort study of humans, rodents, and landscapes in Nigeria",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:SLTdnKVCdHAC",
+            "citation_id": "Vd9jVC0AAAAJ:SLTdnKVCdHAC",
+            "authors": "S Friant, D Simons, O Bjornstad, R Gibb, C Harden, N Imirzian, K Jones, ...",
+            "publication": "Wellcome Open Research 11, 125, 2026",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17795933687061293618",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17795933687061293618&engine=google_scholar&hl=en",
+                "cites_id": "17795933687061293618"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Contact networks of small mammals highlight potential transmission foci of Lassa mammarenavirus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:ntg98fmFLVcC",
+            "citation_id": "Vd9jVC0AAAAJ:ntg98fmFLVcC",
+            "authors": "D Simons, R Goyal, U Bangura, R Gibb, B Rushton, D Sondufu, J Lamin, ...",
+            "publication": "American Journal of Hygiene and Tropical Medicine, 2026",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2756200976929735411,13684605625945151161",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2756200976929735411%2C13684605625945151161&engine=google_scholar&hl=en",
+                "cites_id": "2756200976929735411,13684605625945151161"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Land use gradients drive spatial variation in Lassa fever host communities in the Eastern Province of Sierra Leone.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:pIp0rujYkN4C",
+            "citation_id": "Vd9jVC0AAAAJ:pIp0rujYkN4C",
+            "authors": "D Simons, R Gibb, U Bangura, D Sondufu, J Lamin, J Koninga, M Jimmy, ...",
+            "publication": "Journal of Animal Ecology 95 (2), 296-312, 2026",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14265080381628341640",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14265080381628341640&engine=google_scholar&hl=en",
+                "cites_id": "14265080381628341640"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "acoupi: An open-source python framework for deploying bioacoustic AI models on edge devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:8p-ueveQw4wC",
+            "citation_id": "Vd9jVC0AAAAJ:8p-ueveQw4wC",
+            "authors": "A Vuilliomenet, S Martinez Balvanera, O Mac Aodha, KE Jones, D Wilson",
+            "publication": "Methods in Ecology and Evolution 17, 67-76, 2026",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=195175863408514012",
+                "serpapi_link": "https://serpapi.com/search.json?cites=195175863408514012&engine=google_scholar&hl=en",
+                "cites_id": "195175863408514012"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:9fSugHr6AN8C",
+            "citation_id": "Vd9jVC0AAAAJ:9fSugHr6AN8C",
+            "authors": "P Bevan, O Pantazis, H Pringle, G Braga Ferreira, DJ Ingram, E Madsen, ...",
+            "publication": "Remote Sensing in Ecology and Conservation, https://zslpublications \u2026, 2026",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7723783206093786852,5505322017783873702",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7723783206093786852%2C5505322017783873702&engine=google_scholar&hl=en",
+                "cites_id": "7723783206093786852,5505322017783873702"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "The anthropogenic fingerprint on emerging infectious diseases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:RzXy5zvoWjEC",
+            "citation_id": "Vd9jVC0AAAAJ:RzXy5zvoWjEC",
+            "authors": "R Gibb, SJ Ryan, D Pigott, MP Fernandez, RL Muylaert, GF Albery, ...",
+            "publication": "Nature, https://www.nature.com/articles/s41586-0, 2026",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17244468479442360145",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17244468479442360145&engine=google_scholar&hl=en",
+                "cites_id": "17244468479442360145"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Sustainable cattle management by communities supports African wildlife",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:f36TrmluGJsC",
+            "citation_id": "Vd9jVC0AAAAJ:f36TrmluGJsC",
+            "authors": "E Connolly, HAI Pringle, O Pantazis, GB Ferreira, EK Madsen, DJ Ingram, ...",
+            "publication": "bioRxiv, 2025.10. 09.681397, 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15479254441176319020",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15479254441176319020&engine=google_scholar&hl=en",
+                "cites_id": "15479254441176319020"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Evidence of ecosystem process recovery across a large-scale coral reef restoration programme using AI accelerated soundscape analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:YP-lgzILWVMC",
+            "citation_id": "Vd9jVC0AAAAJ:YP-lgzILWVMC",
+            "authors": "B Williams, Mars Coral Restoration Project Monitoring Team, A Naseem, ...",
+            "publication": "bioRxiv, 2025.09. 24.678197, 2025",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14652664995009632188",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14652664995009632188&engine=google_scholar&hl=en",
+                "cites_id": "14652664995009632188"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Accessible AI enhances monitoring of coral seeding devices in reef restoration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:2MSJ22rj538C",
+            "citation_id": "Vd9jVC0AAAAJ:2MSJ22rj538C",
+            "authors": "JE Stratford, M Toor, R Forster, E Larkey, S Martinez Balvanera, ...",
+            "publication": "arXiv, doi: https://doi.org/10.1101/2025.11.27., 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16572997133597440322",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16572997133597440322&engine=google_scholar&hl=en",
+                "cites_id": "16572997133597440322"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "A scalable transfer learning workflow for extracting biological and behavioural insights from forest elephant vocalisations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:-jjRUaukNG4C",
+            "citation_id": "Vd9jVC0AAAAJ:-jjRUaukNG4C",
+            "authors": "A Pickering, S Martinez Balvanera, KE Jones, D Hedwig",
+            "publication": "Remote Sensing in Ecology and Conservation, 2025",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13805423381870936200,1069168283815202474",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13805423381870936200%2C1069168283815202474&engine=google_scholar&hl=en",
+                "cites_id": "13805423381870936200,1069168283815202474"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Towards a \u2018people and nature\u2019 paradigm for biodiversity and infectious disease",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:EkMFNTzSJA0C",
+            "citation_id": "Vd9jVC0AAAAJ:EkMFNTzSJA0C",
+            "authors": "R Gibb, DW Redding, S Friant, KE Jones",
+            "publication": "Phil. Trans. Royal. Soc. 380, https://doi.org/10.1098/rstb.2023.0259, 2025",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12770587421642729489",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12770587421642729489&engine=google_scholar&hl=en",
+                "cites_id": "12770587421642729489"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Unlocking the soundscape of coral reefs with artificial intelligence: pretrained networks and unsupervised learning win out",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:OxQqgzTNpSoC",
+            "citation_id": "Vd9jVC0AAAAJ:OxQqgzTNpSoC",
+            "authors": "B Williams, SM Balvanera, SS Sethi, TAC Lamont, J Jompa, M Prasetya, ...",
+            "publication": "PLoS Computational Biology, 2024.02. 02.578582, 2025",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16614284450268762158",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16614284450268762158&engine=google_scholar&hl=en",
+                "cites_id": "16614284450268762158"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "Leveraging tropical reef, bird and unrelated sounds for superior transfer learning in marine bioacoustics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:0x7hHEPTrR8C",
+            "citation_id": "Vd9jVC0AAAAJ:0x7hHEPTrR8C",
+            "authors": "B Williams, B van Merri\u00ebnboer, V Dumoulin, J Hamer, E Triantafillou, ...",
+            "publication": "Phil. Trans. Royal. Soc., 2025",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10261627127670379664,15376534767588809337",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10261627127670379664%2C15376534767588809337&engine=google_scholar&hl=en",
+                "cites_id": "10261627127670379664,15376534767588809337"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "whombat: An open-source audio annotation tool for machine learning assisted bioacoustics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:rPSSLjQITZsC",
+            "citation_id": "Vd9jVC0AAAAJ:rPSSLjQITZsC",
+            "authors": "S Martinez Balvanera, O Mac Aodha, MJ Weldy, H Pringle, E Browning, ...",
+            "publication": "Methods in Ecology and Evolution 16, 19-28, 2025",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17254067952585328412,5099793612094207569",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17254067952585328412%2C5099793612094207569&engine=google_scholar&hl=en",
+                "cites_id": "17254067952585328412,5099793612094207569"
+            },
+            "year": "2025",
+            "author_position": "middle"
+        },
+        {
+            "title": "INQUIRE: A Natural World Text-to-Image Retrieval Benchmark",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:kmGFBRAO0EoC",
+            "citation_id": "Vd9jVC0AAAAJ:kmGFBRAO0EoC",
+            "authors": "E Vendrow, O Pantazis, A Shepard, G Brostow, KE Jones, ...",
+            "publication": "NeurIPS, arXiv:2411.02537, 2024",
+            "cited_by": {
+                "value": 44,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10004314631731097625",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10004314631731097625&engine=google_scholar&hl=en",
+                "cites_id": "10004314631731097625"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Projecting health and economic impacts of Lassa vaccination campaigns in West Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:UlRcoTO8nVoC",
+            "citation_id": "Vd9jVC0AAAAJ:UlRcoTO8nVoC",
+            "authors": "DRM Smith, T J., F P., LA Attfield, PR Bessell, CA Donnelly, R Gibb, ...",
+            "publication": "Nature Medicine 30, 3568\u20133577, 2024",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6265197634544182103,8930081406773732015",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6265197634544182103%2C8930081406773732015&engine=google_scholar&hl=en",
+                "cites_id": "6265197634544182103,8930081406773732015"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Ecological impacts of climate change will transform public health priorities for zoonotic and vector-borne disease",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:HjGq7OYTVFUC",
+            "citation_id": "Vd9jVC0AAAAJ:HjGq7OYTVFUC",
+            "authors": "DW Redding, R Gibb, KE Jones",
+            "publication": "medRxiv, 2024.02.09.24302, 2024",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18219260450239394068",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18219260450239394068&engine=google_scholar&hl=en",
+                "cites_id": "18219260450239394068"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Valuing the economic benefits of species recovery programmes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:5kgRglCLipYC",
+            "citation_id": "Vd9jVC0AAAAJ:5kgRglCLipYC",
+            "authors": "E Browning, M Christie, M Czajkowski, A Chalak, R Drummond, N Hanley, ...",
+            "publication": "People and Nature 6, 894\u2013905, 2024",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7667945341920130878",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7667945341920130878&engine=google_scholar&hl=en",
+                "cites_id": "7667945341920130878"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Regional Biomes outperform broader spatial units in capturing biodiversity responses to land-use change",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:8cTaIddhMp4C",
+            "citation_id": "Vd9jVC0AAAAJ:8cTaIddhMp4C",
+            "authors": "P Bevan, GB Ferreira, DJ Ingram, M Rowcliffe, L Young, R Freeman, ...",
+            "publication": "Ecography, https://doi.org/10.1111/ecog.07318, 2024",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2886864504953644825,14212975859834187169",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2886864504953644825%2C14212975859834187169&engine=google_scholar&hl=en",
+                "cites_id": "2886864504953644825,14212975859834187169"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Wildlife response to management regime and habitat loss in the Terai Arc Landscape of Nepal",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:EF0m1YoOS5EC",
+            "citation_id": "Vd9jVC0AAAAJ:EF0m1YoOS5EC",
+            "authors": "G Braga Ferreira, L Thomas, DR Thanet, P Bevan, D Ingram, S Rayamajhi, ...",
+            "publication": "Biological Conservation 288, 110334, 2023",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5928245939901905081",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5928245939901905081&engine=google_scholar&hl=en",
+                "cites_id": "5928245939901905081"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Differing taxonomic responses of mosquito vectors to anthropogenic land-use change in Latin America and the Caribbean",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:EUsVPkoNztoC",
+            "citation_id": "Vd9jVC0AAAAJ:EUsVPkoNztoC",
+            "authors": "IK Fletcher, R Gibb, R Lowe, KE Jones",
+            "publication": "PLoS Neglected Tropical Diseases 17, e0011450, 2023",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3251116268599507431",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3251116268599507431&engine=google_scholar&hl=en",
+                "cites_id": "3251116268599507431"
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "Rodent trapping studies as an overlooked information source for understanding endemic and novel zoonotic spillover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:ypzvKOdbExQC",
+            "citation_id": "Vd9jVC0AAAAJ:ypzvKOdbExQC",
+            "authors": "D Simons, LA Attfield, KE Jones, D Watson-Jones, K Richard",
+            "publication": "PLoS Neglected Tropical Diseases 17, e0010772, 2023",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10839040162835087890",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10839040162835087890&engine=google_scholar&hl=en",
+                "cites_id": "10839040162835087890"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Integrated species distribution models fitted in INLA are sensitive to mesh parameterisation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:DRUjQUnLNDcC",
+            "citation_id": "Vd9jVC0AAAAJ:DRUjQUnLNDcC",
+            "authors": "LI Dambly, NJB Isaac, KE Jones, KL Boughey, B O'Hara",
+            "publication": "Ecography 2023, e06391, 2023",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17572059709125565937",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17572059709125565937&engine=google_scholar&hl=en",
+                "cites_id": "17572059709125565937"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Towards a general approach for bat echolocation detection and classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:U3HXUhiBGqIC",
+            "citation_id": "Vd9jVC0AAAAJ:U3HXUhiBGqIC",
+            "authors": "OM Aodha, SM Balvanera, E Damstra, M Cooke, P Eichinski, E Browning, ...",
+            "publication": "bioRxiv, 2022.12. 14.520490, 2022",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2608769353055571679",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2608769353055571679&engine=google_scholar&hl=en",
+                "cites_id": "2608769353055571679"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Svl-adapter: Self-supervised adapter for vision-language pretrained models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:ZWXmI6zqLYMC",
+            "citation_id": "Vd9jVC0AAAAJ:ZWXmI6zqLYMC",
+            "authors": "O Pantazis, G Brostow, K Jones, O Mac Aodha",
+            "publication": "Proceedings of 33rd British Machine Vision Conference, arXiv:2210.03794, 2022",
+            "cited_by": {
+                "value": 74,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15176802241519206077",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15176802241519206077&engine=google_scholar&hl=en",
+                "cites_id": "15176802241519206077"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "An evaluation of the OpenWeatherMap API versus INMET using weather data from two Brazilian cities: Recife and Campina Grande",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:vptNTMqK6uYC",
+            "citation_id": "Vd9jVC0AAAAJ:vptNTMqK6uYC",
+            "authors": "A Musah, LMM Dutra, A Aldosery, E Browning, T Ambrizzi, IVG Borges, ...",
+            "publication": "Data 7 (8), 106, 2022",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2426033323546015962",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2426033323546015962&engine=google_scholar&hl=en",
+                "cites_id": "2426033323546015962"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Global language diversification is linked to socio-ecology and threat status",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:KOc9rAu6-V4C",
+            "citation_id": "Vd9jVC0AAAAJ:KOc9rAu6-V4C",
+            "authors": "R Bouckaert, D Redding, O Sheehan, T Kyritsis, R Gray, KE Jones, ...",
+            "publication": "Preprint at https://doi. org/10.31235/osf. io/f8tr6, 2022",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4634639463535673891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4634639463535673891&engine=google_scholar&hl=en",
+                "cites_id": "4634639463535673891"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Temporal and spatiotemporal arboviruses forecasting by machine learning: a systematic review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:YClPFpxzHmwC",
+            "citation_id": "Vd9jVC0AAAAJ:YClPFpxzHmwC",
+            "authors": "CL Lima, ACG da Silva, GMM Moreno, C Cordeiro da Silva, A Musah, ...",
+            "publication": "Frontiers in Public Health 10, 900077, 2022",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12347343776624994181",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12347343776624994181&engine=google_scholar&hl=en",
+                "cites_id": "12347343776624994181"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mammals in Portugal: A data set of terrestrial, volant, and marine mammal occurrences in Portugal",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:S9ByAo1SvpUC",
+            "citation_id": "Vd9jVC0AAAAJ:S9ByAo1SvpUC",
+            "authors": "C Grilo, BC Afonso, F Afonso, M Alexandre, S Ali\u00e1car, A Almeida, ...",
+            "publication": "Ecology 103 (6), e3654, 2022",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14969073627082786585",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14969073627082786585&engine=google_scholar&hl=en",
+                "cites_id": "14969073627082786585"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Spatiotemporal forecasting for dengue, chikungunya fever and Zika using machine learning and artificial expert committees based on meta-heuristics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:iKmOvsfbmGkC",
+            "citation_id": "Vd9jVC0AAAAJ:iKmOvsfbmGkC",
+            "authors": "CC da Silva, CL de Lima, ACG da Silva, GMM Moreno, A Musah, ...",
+            "publication": "Research on Biomedical Engineering 38 (2), 499-537, 2022",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=93078088697073985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=93078088697073985&engine=google_scholar&hl=en",
+                "cites_id": "93078088697073985"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Prediction of Aedes aegypti breeding distribution through spatiotemporal analysis and machine learning: A case study in Recife, Pernambuco",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:mYLs_rVKHI4C",
+            "citation_id": "Vd9jVC0AAAAJ:mYLs_rVKHI4C",
+            "authors": "CL de Lima, CC da Silva, ACG da Silva, AA da Silva, FR de Almeida, ...",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=605482226870112925",
+                "serpapi_link": "https://serpapi.com/search.json?cites=605482226870112925&engine=google_scholar&hl=en",
+                "cites_id": "605482226870112925"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Widespread exposure to Crimean-Congo haemorrhagic fever in Uganda might be driven by transmission from Rhipicephalus ticks: evidence from cross-sectional and modelling studies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:FuNQ1RLggQIC",
+            "citation_id": "Vd9jVC0AAAAJ:FuNQ1RLggQIC",
+            "authors": "SA Lule, R Gibb, D Kizito, N Gladys, J Mutyaba, S Balinandi, L Owen, ...",
+            "publication": "Journal of Infection, 2022",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8225471713317872999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8225471713317872999&engine=google_scholar&hl=en",
+                "cites_id": "8225471713317872999"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Synergies between environmental degradation and climate variation on malaria re-emergence in southern Venezuela: a spatiotemporal modelling study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:pqgf-8x9CmQC",
+            "citation_id": "Vd9jVC0AAAAJ:pqgf-8x9CmQC",
+            "authors": "IK Fletcher, MG Grillet, JE Moreno, C Drakeley, J Hern\u00e1ndez-Villena, ...",
+            "publication": "Lancet Planetary Health, 2022",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2816162771374473267",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2816162771374473267&engine=google_scholar&hl=en",
+                "cites_id": "2816162771374473267"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Evidence of deterrence from patrol data: Trialling application of a differenced-CPUE metric",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:4b-LE5UluQcC",
+            "citation_id": "Vd9jVC0AAAAJ:4b-LE5UluQcC",
+            "authors": "A Dancer, A Keane, CM Beale, ADM Dobson, R Amin, R Freeman, ...",
+            "publication": "Conservation Science and Practice, 2022",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701713594533790976",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4701713594533790976&engine=google_scholar&hl=en",
+                "cites_id": "4701713594533790976"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Species-specific responses to land-use change in island insectivorous bats",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:bNEIKWRbVi8C",
+            "citation_id": "Vd9jVC0AAAAJ:bNEIKWRbVi8C",
+            "authors": "DF Ferreira, R Gibb, A Lopez-Baucells, NJ Nunes, KE Jones, R Rocha",
+            "publication": "Journal for Nature Conservation 67, 126177, 2022",
+            "cited_by": {
+                "value": 42,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7102278448555997469",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7102278448555997469&engine=google_scholar&hl=en",
+                "cites_id": "7102278448555997469"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Accounting for spatial autocorrelation and environment are important to derive robust bat population trends from citizen science data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:brChLMnLtjYC",
+            "citation_id": "Vd9jVC0AAAAJ:brChLMnLtjYC",
+            "authors": "E Browning, R Freeman, K Boughey, NJB Isaac, KE Jones",
+            "publication": "Ecological Indicators, 2022",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18283375689247597376",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18283375689247597376&engine=google_scholar&hl=en",
+                "cites_id": "18283375689247597376"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Joint spatiotemporal modelling reveals seasonally dynamic patterns of Japanese encephalitis vector abundance across India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:yFpZgd9WRDkC",
+            "citation_id": "Vd9jVC0AAAAJ:yFpZgd9WRDkC",
+            "authors": "LHV Franklinos, DW Redding, TCD Lucas, R Gibb, I Abubakar, KE Jones",
+            "publication": "PLOS Neglected Tropical Diseases, 2022",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6041426124255470421",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6041426124255470421&engine=google_scholar&hl=en",
+                "cites_id": "6041426124255470421"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Geographical drivers and climate-linked dynamics of Lassa fever in Nigeria",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:A_xf8jiGkywC",
+            "citation_id": "Vd9jVC0AAAAJ:A_xf8jiGkywC",
+            "authors": "DW Redding, R Gibb, CC Dan-Nwafor, EA Ilori, RU Yashe, SH Oladele, ...",
+            "publication": "Nature Communications 12 (1), 1-10, 2021",
+            "cited_by": {
+                "value": 102,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16375814900950724436,13168106585445931719",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16375814900950724436%2C13168106585445931719&engine=google_scholar&hl=en",
+                "cites_id": "16375814900950724436,13168106585445931719"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Reducing Manual Supervision Required for Biodiversity Monitoring with Self-Supervised Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:W6h41lW4BooC",
+            "citation_id": "Vd9jVC0AAAAJ:W6h41lW4BooC",
+            "authors": "O Pantazis, GJ Brostow, K Jones, O Mac Aodha",
+            "publication": "Biodiversity Information Science and Standards 5, e74047, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12820138906911797256",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12820138906911797256&engine=google_scholar&hl=en",
+                "cites_id": "12820138906911797256"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Shazam for bats: Internet of Things for continuous real\u2010time biodiversity monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:q3SxJD15z-gC",
+            "citation_id": "Vd9jVC0AAAAJ:q3SxJD15z-gC",
+            "authors": "S Gallacher, D Wilson, A Fairbrass, D Turmukhambetov, M Firman, ...",
+            "publication": "IET Smart Cities 3 (3), 171-183, 2021",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10577026246548077887",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10577026246548077887&engine=google_scholar&hl=en",
+                "cites_id": "10577026246548077887"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Post COVID-19: a solution scan of options for preventing future zoonotic epidemics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:L_at8tGC9oEC",
+            "citation_id": "Vd9jVC0AAAAJ:L_at8tGC9oEC",
+            "authors": "S Petrovan, D Aldridge, H Bartlett, A Bladon, H Booth, S Broad, D Broom, ...",
+            "publication": "Biological Reviews, 2021",
+            "cited_by": {
+                "value": 100,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=529154159464399913,11389428852784011699",
+                "serpapi_link": "https://serpapi.com/search.json?cites=529154159464399913%2C11389428852784011699&engine=google_scholar&hl=en",
+                "cites_id": "529154159464399913,11389428852784011699"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Intelligent systems for dengue, chikungunya, and zika temporal and spatio-temporal forecasting: a contribution and a brief review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Cv-mv52rCCkC",
+            "citation_id": "Vd9jVC0AAAAJ:Cv-mv52rCCkC",
+            "authors": "CL de Lima, ACG da Silva, CC da Silva, GMM Moreno, AG da Silva Filho, ...",
+            "publication": "Assessing COVID-19 and other pandemics and epidemics using computational \u2026, 2021",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14344805049890935545",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14344805049890935545&engine=google_scholar&hl=en",
+                "cites_id": "14344805049890935545"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "The effect of environmental degradation and land use change on malaria re-emergence in south Venezuela: A spatiotemporal modelling study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:nZtlP1Cc3DIC",
+            "citation_id": "Vd9jVC0AAAAJ:nZtlP1Cc3DIC",
+            "authors": "IK Fletcher, J Hern\u00e1ndez-Villena, JE Moreno, C Drakeley, K Jones, ...",
+            "publication": "The Lancet Planetary Health 5, S13, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10059641436576302646",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10059641436576302646&engine=google_scholar&hl=en",
+                "cites_id": "10059641436576302646"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "The species awareness index as a conservation culturomics metric for public biodiversity awareness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:6E5OHDUOeTQC",
+            "citation_id": "Vd9jVC0AAAAJ:6E5OHDUOeTQC",
+            "authors": "JW Millard, RD Gregory, KE Jones, R Freeman",
+            "publication": "Conservation Biology 35, 472-482, 2021",
+            "cited_by": {
+                "value": 52,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3041133144385977647,7486746905535453637",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3041133144385977647%2C7486746905535453637&engine=google_scholar&hl=en",
+                "cites_id": "3041133144385977647,7486746905535453637"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Forecasting Dengue, Chikungunya and Zika cases in Recife, Brazil: a spatio-temporal approach based on climate conditions, health notifications and machine learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Fx7lCCP36QIC",
+            "citation_id": "Vd9jVC0AAAAJ:Fx7lCCP36QIC",
+            "authors": "WP Santos",
+            "publication": "Research, Society and Development, 2021",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11614829562124432173",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11614829562124432173&engine=google_scholar&hl=en",
+                "cites_id": "11614829562124432173"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "A review exploring the overarching burden of Zika virus with emphasis on epidemiological case studies from Brazil",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:r90dRYkPj7EC",
+            "citation_id": "Vd9jVC0AAAAJ:r90dRYkPj7EC",
+            "authors": "M Tunali, A Andr\u00e9 Radin, S Ba\u015f\u0131bu\u0308yu\u0308k, A Musah, IV Graciano Borges, ...",
+            "publication": "Environmental Science and Pollution Research, 2021",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11902246182983035589",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11902246182983035589&engine=google_scholar&hl=en",
+                "cites_id": "11902246182983035589"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Focus on the positives: self-supervised learning for biodiversity monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:2168PZyDXAcC",
+            "citation_id": "Vd9jVC0AAAAJ:2168PZyDXAcC",
+            "authors": "O Pantazis, G Brostow, KE Jones, O MacAodha",
+            "publication": "International Conference on Computer Vision, 2021",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14952367595591658006,15935230368222300180",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14952367595591658006%2C15935230368222300180&engine=google_scholar&hl=en",
+                "cites_id": "14952367595591658006,15935230368222300180"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "COVID\u2010Clarity demands unification of health and environmental policy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:PNc4OtJD23oC",
+            "citation_id": "Vd9jVC0AAAAJ:PNc4OtJD23oC",
+            "authors": "TR Gillespie, KE Jones, AP Dobson, JA Clennon, M Pascual",
+            "publication": "Global Change Biology 27, 1319-1321, 2021",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10753130596193027999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10753130596193027999&engine=google_scholar&hl=en",
+                "cites_id": "10753130596193027999"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Benefit of woodland and other natural environments for adolescents\u2019 cognition and mental health",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:hegzVdMJwJYC",
+            "citation_id": "Vd9jVC0AAAAJ:hegzVdMJwJYC",
+            "authors": "MJA Maes, M Pirani, ER Booth, C Shen, B Milligan, KE Jones, ...",
+            "publication": "Nature Sustainability 4, 851-858, 2021",
+            "cited_by": {
+                "value": 164,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14811190130635047369,12788788078879436883,10226375975232228866",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14811190130635047369%2C12788788078879436883%2C10226375975232228866&engine=google_scholar&hl=en",
+                "cites_id": "14811190130635047369,12788788078879436883,10226375975232228866"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "80 Questions for UK Biological Security",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:9cqGXoYeWaMC",
+            "citation_id": "Vd9jVC0AAAAJ:9cqGXoYeWaMC",
+            "authors": "L Kemp, DC Aldridge, O Booy, H Bower, D Browne, M Burgmann, ...",
+            "publication": "PloS One 16 (1), e0241190, 2021",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14489255705738850164",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14489255705738850164&engine=google_scholar&hl=en",
+                "cites_id": "14489255705738850164"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Targeting conservation actions at species threat response thresholds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:9nEbuwLZtFEC",
+            "citation_id": "Vd9jVC0AAAAJ:9nEbuwLZtFEC",
+            "authors": "DJ Ingram, G Braga Ferreira, KE Jones, GM Mace",
+            "publication": "Trends in Ecology and Evolution 36 (3), 216-226, 2021",
+            "cited_by": {
+                "value": 31,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7340068537895603222",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7340068537895603222&engine=google_scholar&hl=en",
+                "cites_id": "7340068537895603222"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Observer retention, site selection and population dynamics interact to bias abundance trends in bats",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:HklM7qHXWrUC",
+            "citation_id": "Vd9jVC0AAAAJ:HklM7qHXWrUC",
+            "authors": "L Dambly, KE Jones, K Boughey, N Isaac",
+            "publication": "Journal of Applied Ecology 58, 236-247, 2021",
+            "cited_by": {
+                "value": 32,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1319880904966317079",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1319880904966317079&engine=google_scholar&hl=en",
+                "cites_id": "1319880904966317079"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "The relative role of climate variation and control interventions on malaria elimination efforts in El Oro, Ecuador: a modeling study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:S_0nULq340kC",
+            "citation_id": "Vd9jVC0AAAAJ:S_0nULq340kC",
+            "authors": "IK Fletcher, AM Stewart-Ibarra, R Sippy, G Carrasco-Escobar, M Silva, ...",
+            "publication": "Frontiers in Environmental Science 8, 135, 2020",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17634725596118718955",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17634725596118718955&engine=google_scholar&hl=en",
+                "cites_id": "17634725596118718955"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Zoonotic host diversity increases in human-dominated ecosystems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:CgSwehex2-EC",
+            "citation_id": "Vd9jVC0AAAAJ:CgSwehex2-EC",
+            "authors": "R Gibb, DW Redding, KQ Chin, CA Donnelly, TM Blackburn, T Newbold, ...",
+            "publication": "Nature 584, 398\u2013402, 2020",
+            "cited_by": {
+                "value": 1173,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11084297939775889551",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11084297939775889551&engine=google_scholar&hl=en",
+                "cites_id": "11084297939775889551"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Georgina Mace (1953-2020)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:8s_vhd3wPlUC",
+            "citation_id": "Vd9jVC0AAAAJ:8s_vhd3wPlUC",
+            "authors": "A Purvis, KE Jones",
+            "publication": "Science 370 (6519), 915, 2020",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Ecosystem perspectives are needed to manage zoonotic disease risks in a changing climate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Jxy3h8XkNu0C",
+            "citation_id": "Vd9jVC0AAAAJ:Jxy3h8XkNu0C",
+            "authors": "R Gibb, L Franklinos, D Redding, KE Jones",
+            "publication": "British Medical Journal 371, m3389, 2020",
+            "cited_by": {
+                "value": 156,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17298520433596391419",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17298520433596391419&engine=google_scholar&hl=en",
+                "cites_id": "17298520433596391419"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Accounting for natural capital has cross-cutting relevance to UK public sector decision-making",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:yHoQYHXJRqAC",
+            "citation_id": "Vd9jVC0AAAAJ:yHoQYHXJRqAC",
+            "authors": "MJA Maes, KE Jones, MB Toledano, B Milligan",
+            "publication": "Ecosystem Services 44, 101127, 2020",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11632233905296231039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11632233905296231039&engine=google_scholar&hl=en",
+                "cites_id": "11632233905296231039"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Interactions between a large marine protected area, pelagic tuna and associated fisheries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:nFloTcPoiwMC",
+            "citation_id": "Vd9jVC0AAAAJ:nFloTcPoiwMC",
+            "authors": "DJ Curnick, B Collen, HJ Koldeway, KE Jones, K Kirsty, F Ferretti",
+            "publication": "Frontiers in Marine Science, doi: 10.3389/fmars.2020.00318, 2020",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9809005826672687856",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9809005826672687856&engine=google_scholar&hl=en",
+                "cites_id": "9809005826672687856"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Human responses to nature and culture-based non-clinical interventions: A systematised review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:IEHkmGLyHGEC",
+            "citation_id": "Vd9jVC0AAAAJ:IEHkmGLyHGEC",
+            "authors": "A Fairbrass, H Chatterjee, KE Jones, D Osborn",
+            "publication": "Perspectives in Public Health, 2020",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16042911985666210679",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16042911985666210679&engine=google_scholar&hl=en",
+                "cites_id": "16042911985666210679"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Environmental change and malaria risk in El Oro Province, Ecuador",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:tzPJaSocouwC",
+            "citation_id": "Vd9jVC0AAAAJ:tzPJaSocouwC",
+            "authors": "IK Fletcher, A Stewart-Ibarra, M Silva, E Beltran-Ayala, T Ordo\u00f1ez, ...",
+            "publication": "International Journal of Infectious Diseases 79, 28-29, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3418944645127496300",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3418944645127496300&engine=google_scholar&hl=en",
+                "cites_id": "3418944645127496300"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Differential effects of emerging broad-spectrum streetlight technologies on landscape-scale bat activity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:c2351ekuFcIC",
+            "citation_id": "Vd9jVC0AAAAJ:c2351ekuFcIC",
+            "authors": "R Williams, C Walters, R Gibb, E Browning, D Tipping, KE Jones",
+            "publication": "BioRxiv 525568, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=497647654227372726",
+                "serpapi_link": "https://serpapi.com/search.json?cites=497647654227372726&engine=google_scholar&hl=en",
+                "cites_id": "497647654227372726"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:V6rzEKW62mYC",
+            "citation_id": "Vd9jVC0AAAAJ:V6rzEKW62mYC",
+            "authors": "S Sedai, B Antony, R Rai, K Jones, H Ishikawa, J Schuman, W Gadi, ...",
+            "publication": "Springer, 2019",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11771820508829771785",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11771820508829771785&engine=google_scholar&hl=en",
+                "cites_id": "11771820508829771785"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Spatial and taxonomic biases in bat records: drivers and conservation implications in a megadiverse country",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:iomT83CKXisC",
+            "citation_id": "Vd9jVC0AAAAJ:iomT83CKXisC",
+            "authors": "V Zamora-Gutierrez, T Amano, KE Jones",
+            "publication": "Ecology and Evolution 9, 14130-14141, 2019",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7146340844221915717",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7146340844221915717&engine=google_scholar&hl=en",
+                "cites_id": "7146340844221915717"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "Understanding the impact of environmental and socio-economic factors on emergence and epidemic potential of Ebola in Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:6G1OFF11MdUC",
+            "citation_id": "Vd9jVC0AAAAJ:6G1OFF11MdUC",
+            "authors": "D Redding, P Atkinson, A Cunningham, G Lo Iacono, L Moses, J Wood, ...",
+            "publication": "Nature Communications 10, 4531, 2019",
+            "cited_by": {
+                "value": 160,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17391006412325131766,14960264099707927967",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17391006412325131766%2C14960264099707927967&engine=google_scholar&hl=en",
+                "cites_id": "17391006412325131766,14960264099707927967"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Malaria eradication within a generation: ambitious, achievable, and necessary",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:h4edN3iSU_gC",
+            "citation_id": "Vd9jVC0AAAAJ:h4edN3iSU_gC",
+            "authors": "GA Feachem, I Chen, O Akbari, A Bertozzi-Villa, S Bhatt, F Binka, MF Boni, ...",
+            "publication": "The Lancet 394, 1056-1112, 2019",
+            "cited_by": {
+                "value": 463,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15667374738481177570",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15667374738481177570&engine=google_scholar&hl=en",
+                "cites_id": "15667374738481177570"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "The impact of global change on mosquito-borne diseases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:zMY8q35v6VMC",
+            "citation_id": "Vd9jVC0AAAAJ:zMY8q35v6VMC",
+            "authors": "L Franklinos, KE Jones, DW Redding, I Abubakar",
+            "publication": "The Lancet Infectious Diseases 19 (9), e302-e312, 2019",
+            "cited_by": {
+                "value": 813,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13135772298769737513",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13135772298769737513&engine=google_scholar&hl=en",
+                "cites_id": "13135772298769737513"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Mapping synergies and trade-offs between urban ecosystems and the Sustainable Development Goals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:6w2ZCmoKEM0C",
+            "citation_id": "Vd9jVC0AAAAJ:6w2ZCmoKEM0C",
+            "authors": "M Maes, KE Jones, M Toledano, B Milligan",
+            "publication": "Environmental Science & Policy 93, 181-188, 2019",
+            "cited_by": {
+                "value": 237,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9486991457010035895",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9486991457010035895&engine=google_scholar&hl=en",
+                "cites_id": "9486991457010035895"
+            },
+            "year": "2019",
+            "author_position": "middle"
+        },
+        {
+            "title": "Emerging opportunities and challenges for passive acoustics in ecological assessment and monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:NAGhd4NKCV8C",
+            "citation_id": "Vd9jVC0AAAAJ:NAGhd4NKCV8C",
+            "authors": "R Gibb, E Browning, P Glover-Kapfer, KE Jones",
+            "publication": "Methods in Ecology and Evolution 10 (2), 169-185, 2019",
+            "cited_by": {
+                "value": 1003,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8506399982631776828,10108116791981664412,6495903079490819121",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8506399982631776828%2C10108116791981664412%2C6495903079490819121&engine=google_scholar&hl=en",
+                "cites_id": "8506399982631776828,10108116791981664412,6495903079490819121"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "CityNet - Deep learning tools for urban ecoacoustic assessment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:pqoCwmxD9dQC",
+            "citation_id": "Vd9jVC0AAAAJ:pqoCwmxD9dQC",
+            "authors": "AJ Fairbrass, M Firman, C Williams, GJ Brostow, H Titheridge, KE Jones",
+            "publication": "Methods in Ecology and Evolution 10, 186-197, 2019",
+            "cited_by": {
+                "value": 131,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13300986854470552636",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13300986854470552636&engine=google_scholar&hl=en",
+                "cites_id": "13300986854470552636"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "Ben Collen (1978-2018).",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:oHSet2Z0r48C",
+            "citation_id": "Vd9jVC0AAAAJ:oHSet2Z0r48C",
+            "authors": "KE Jones, A Purvis",
+            "publication": "Nature Ecology & Evolution 2 (8), 1199-1200, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12106014675489831030",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12106014675489831030&engine=google_scholar&hl=en",
+                "cites_id": "12106014675489831030"
+            },
+            "year": "2018",
+            "author_position": "first"
+        },
+        {
+            "title": "Effects of land use on zoonotic host communities: a global correlative analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:r5Jnz2hFFzMC",
+            "citation_id": "Vd9jVC0AAAAJ:r5Jnz2hFFzMC",
+            "authors": "R Gibb, DW Redding, K Qing Chin, T Blackburn, T Newbold, K Jones",
+            "publication": "The Lancet Planetary Health 2 (Suppl 1), S2, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14867294357724975721",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14867294357724975721&engine=google_scholar&hl=en",
+                "cites_id": "14867294357724975721"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Bat detective - Deep learning tools for bat acoustic signal detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:83UE6yvegO4C",
+            "citation_id": "Vd9jVC0AAAAJ:83UE6yvegO4C",
+            "authors": "O Mac Aodha, R Gibb, K Barlow, E Browning, M Firman, R Freeman, ...",
+            "publication": "PLoS Computational Biology 14 (3), e1005995, 2018",
+            "cited_by": {
+                "value": 339,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1343254978967196988",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1343254978967196988&engine=google_scholar&hl=en",
+                "cites_id": "1343254978967196988"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Phylogenetic Gaussian processes for bat echolocation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Mb21Z44dZ7IC",
+            "citation_id": "Vd9jVC0AAAAJ:Mb21Z44dZ7IC",
+            "authors": "JP Meagher, T Damoulas, KE Jones, M Girolami",
+            "publication": "Statistical Data Science, 111, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12149718205181555737",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12149718205181555737&engine=google_scholar&hl=en",
+                "cites_id": "12149718205181555737"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Bat biology, genomes, and the Bat1K Project: To generate chromosome-level genomes for all living bat species",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:1fM7sLBYaPUC",
+            "citation_id": "Vd9jVC0AAAAJ:1fM7sLBYaPUC",
+            "authors": "BKC Emma Teeling, Sonja Vernes, Liliana M. Davalos, David A. Ray, M. Thomas ...",
+            "publication": "Annual Review of Animal Biosciences 6 (1), 2018",
+            "cited_by": {
+                "value": 327,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17222353868791198492",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17222353868791198492&engine=google_scholar&hl=en",
+                "cites_id": "17222353868791198492"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Green Infrastructure for London: A review of the evidence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:-1RNHcZo4Y8C",
+            "citation_id": "Vd9jVC0AAAAJ:-1RNHcZo4Y8C",
+            "authors": "AJ Fairbrass, KE Jones, A McIntosh, Z Yao, L Malki-Epshtein, S Bell",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004798691988193195,8263592823879443314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17004798691988193195%2C8263592823879443314&engine=google_scholar&hl=en",
+                "cites_id": "17004798691988193195,8263592823879443314"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Bat echolocation call identification for biodiversity monitoring: A probabilistic approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:CoqsOaBEKcQC",
+            "citation_id": "Vd9jVC0AAAAJ:CoqsOaBEKcQC",
+            "authors": "V Stathopoulos, V Zamora-Gutierrez, KE Jones, M Girolami",
+            "publication": "Journal of the Royal Statistical Society Series C: Applied Statistics 67 \u2026, 2018",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16163154020673310723",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16163154020673310723&engine=google_scholar&hl=en",
+                "cites_id": "16163154020673310723"
+            },
+            "year": "2018",
+            "author_position": "middle"
+        },
+        {
+            "title": "Biases of acoustic indices measuring biodiversity in urban areas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:i_QFVEgXGzMC",
+            "citation_id": "Vd9jVC0AAAAJ:i_QFVEgXGzMC",
+            "authors": "A Fairbrass, P Rennett, C Williams, H Titheridge, KE Jones",
+            "publication": "Ecological Indicators 83, 169-177, 2017",
+            "cited_by": {
+                "value": 282,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17600377289852822121",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17600377289852822121&engine=google_scholar&hl=en",
+                "cites_id": "17600377289852822121"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Evaluating Bayesian spatial methods for modelling species distributions with clumped and restricted occurrence data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:fhMX52Pd6iQC",
+            "citation_id": "Vd9jVC0AAAAJ:fhMX52Pd6iQC",
+            "authors": "DW Redding, T Lucas, T Blackburn, KE Jones",
+            "publication": "PLoS ONE 12 (11), e0187602, 2017",
+            "cited_by": {
+                "value": 66,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7309650416775064820",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7309650416775064820&engine=google_scholar&hl=en",
+                "cites_id": "7309650416775064820"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Temporal niche expansion in mammals from a nocturnal ancestor after dinosaur extinction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:zBYNw3HCx4kC",
+            "citation_id": "Vd9jVC0AAAAJ:zBYNw3HCx4kC",
+            "authors": "R Maor, T Dayan, H Ferguson-Gow, KE Jones",
+            "publication": "Nature Ecology and Evolution 1, 1889\u20131895, 2017",
+            "cited_by": {
+                "value": 168,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=957928499401472029",
+                "serpapi_link": "https://serpapi.com/search.json?cites=957928499401472029&engine=google_scholar&hl=en",
+                "cites_id": "957928499401472029"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Spatial, seasonal, and climatic predictive models of Rift Valley Fever disease across Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:jenZ_en7QtoC",
+            "citation_id": "Vd9jVC0AAAAJ:jenZ_en7QtoC",
+            "authors": "DW Redding, S Tiedt, G Lo Iacono, B Bett, KE Jones",
+            "publication": "Philosophical Transactions of the Royal Society, Biology 372, 20160165, 2017",
+            "cited_by": {
+                "value": 91,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7146305706405224827",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7146305706405224827&engine=google_scholar&hl=en",
+                "cites_id": "7146305706405224827"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "ROLE of inter-related population-level host traits in determining pathogen richness and zoonotic risk",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:SSsxPzPPytkC",
+            "citation_id": "Vd9jVC0AAAAJ:SSsxPzPPytkC",
+            "authors": "TCD Lucas, HM Wilkinson-Herbots, KE Jones",
+            "publication": "bioRxiv, 123067, 2017",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Forecasting the combined effects of climate and land-use change on Mexican bats",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Pptk7XUfJl0C",
+            "citation_id": "Vd9jVC0AAAAJ:Pptk7XUfJl0C",
+            "authors": "V Zamora-Gutierrez, RG Pearson, RE Green, KE Jones",
+            "publication": "Diversity and Distributions 24, 363-374, 2017",
+            "cited_by": {
+                "value": 67,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034201439685367829",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9034201439685367829&engine=google_scholar&hl=en",
+                "cites_id": "9034201439685367829"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Passive acoustic monitoring in ecology and conservation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:JQG40wivBEIC",
+            "citation_id": "Vd9jVC0AAAAJ:JQG40wivBEIC",
+            "authors": "E Browning, R Gibb, P Glover-Kapfer, KE Jones",
+            "publication": "WWF-UK, Woking, United Kingdom, 2017",
+            "cited_by": {
+                "value": 311,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15013090741157491462",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15013090741157491462&engine=google_scholar&hl=en",
+                "cites_id": "15013090741157491462"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Understanding the cryptic nature of Lassa fever in West Africa",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:RXC-vbXDMdwC",
+            "citation_id": "Vd9jVC0AAAAJ:RXC-vbXDMdwC",
+            "authors": "R Gibb, LM Moses, DW Redding, KE Jones",
+            "publication": "Pathogens and Global Health 111 (6), 276-288, 2017",
+            "cited_by": {
+                "value": 158,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5425424954487612559",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5425424954487612559&engine=google_scholar&hl=en",
+                "cites_id": "5425424954487612559"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "Engaging research with policy and action: what are the challenges of responding to zoonotic disease in Africa?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:seU1ZbiIO-YC",
+            "citation_id": "Vd9jVC0AAAAJ:seU1ZbiIO-YC",
+            "authors": "KL Bardosh, J Cornwall Scoones, D Grace, G Kalema-Zikusoka, ...",
+            "publication": "Philisophical Transactions of the Royal Society Biology 372, 20160172, 2017",
+            "cited_by": {
+                "value": 91,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16679922802061930006",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16679922802061930006&engine=google_scholar&hl=en",
+                "cites_id": "16679922802061930006"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "Integrative modelling for One Health: pattern, process and participation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Xt3t5HrhCpYC",
+            "citation_id": "Vd9jVC0AAAAJ:Xt3t5HrhCpYC",
+            "authors": "I Scoones, KE Jones, G Lo Iacono, DW Redding, A Wilkinson, JLN Wood",
+            "publication": "Philosophical Transactions of the Royal Society Biology 372, 20160164., 2017",
+            "cited_by": {
+                "value": 80,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3987739283687428039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3987739283687428039&engine=google_scholar&hl=en",
+                "cites_id": "3987739283687428039"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "The global distribution and drivers of alien bird species richness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:Lr5Uwm59ZTwC",
+            "citation_id": "Vd9jVC0AAAAJ:Lr5Uwm59ZTwC",
+            "authors": "E Dyer, P Cassey, DW Redding, B Collen, V Franks, KJ Gaston, ...",
+            "publication": "PLoS Biology 15 (1), e2000942, 2017",
+            "cited_by": {
+                "value": 212,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2940686339314012873",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2940686339314012873&engine=google_scholar&hl=en",
+                "cites_id": "2940686339314012873"
+            },
+            "year": "2017",
+            "author_position": "middle"
+        },
+        {
+            "title": "A global analysis of the determinants of alien geographical range size in birds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:DQQjGlBKAuwC",
+            "citation_id": "Vd9jVC0AAAAJ:DQQjGlBKAuwC",
+            "authors": "EE Dyer, V Franks, P Cassey, B Collen, RC Cope, KE Jones, ...",
+            "publication": "Global Ecology and Biogeography 25 (11), 1346-1355, 2016",
+            "cited_by": {
+                "value": 66,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17932186382126620296,6435461190023594815",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17932186382126620296%2C6435461190023594815&engine=google_scholar&hl=en",
+                "cites_id": "17932186382126620296,6435461190023594815"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Bat Detective: citizen science for eco-acoustic biodiversity monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:9sMhslCZ7ZMC",
+            "citation_id": "Vd9jVC0AAAAJ:9sMhslCZ7ZMC",
+            "authors": "R Gibb, O Mac Aodha, KE Jones",
+            "publication": "Journal of the Institution of Environmental Sciences 25, 12-17, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12920609764600429226",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12920609764600429226&engine=google_scholar&hl=en",
+                "cites_id": "12920609764600429226"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Environmental-mechanistic modelling of the impact of global change on human zoonotic disease emergence: A case study of Lassa fever",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:nYc7v9NCwtsC",
+            "citation_id": "Vd9jVC0AAAAJ:nYc7v9NCwtsC",
+            "authors": "DW Redding, LM Moses, AA Cunningham, J Wood, KE Jones",
+            "publication": "Methods in Ecology and Evolution 7, 646\u2013655, 2016",
+            "cited_by": {
+                "value": 117,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9969516876374157529",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9969516876374157529&engine=google_scholar&hl=en",
+                "cites_id": "9969516876374157529"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "iBats Jersey\u2013Review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:FcH-RsB9iB0C",
+            "citation_id": "Vd9jVC0AAAAJ:FcH-RsB9iB0C",
+            "authors": "C Hawkins, E Browning, K Jones",
+            "publication": "Technical Report to the States of Jersey Department of the Environment \u2026, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13290457072005101731",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13290457072005101731&engine=google_scholar&hl=en",
+                "cites_id": "13290457072005101731"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Recommendations for using automatic bat identification software with full spectrum recordings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:ObAD8Md4PD8C",
+            "citation_id": "Vd9jVC0AAAAJ:ObAD8Md4PD8C",
+            "authors": "PF Reason, SE Newson, KE Jones",
+            "publication": "https://discovery.ucl.ac.uk/id/eprint/1502087/, 2016",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14234596357063571177",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14234596357063571177&engine=google_scholar&hl=en",
+                "cites_id": "14234596357063571177"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Acoustic identification of Mexican bats based on taxonomic and ecological constraints on call design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:9KdEqzwCTsEC",
+            "citation_id": "Vd9jVC0AAAAJ:9KdEqzwCTsEC",
+            "authors": "V Zamora-Gutierrez, C Lopez-Gonzalez, MS Gonzalez, B Fenton, G Jones, ...",
+            "publication": "Methods in Ecology and Evolution 7, 1082\u20131091, 2016",
+            "cited_by": {
+                "value": 107,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14602163098668317201",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14602163098668317201&engine=google_scholar&hl=en",
+                "cites_id": "14602163098668317201"
+            },
+            "year": "2016",
+            "author_position": "middle"
+        },
+        {
+            "title": "Quantifying Global Drivers of Zoonotic Bat Viruses: A Process-based Perspective",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:QjNCP7ux8QYC",
+            "citation_id": "Vd9jVC0AAAAJ:QjNCP7ux8QYC",
+            "authors": "L Brierley, M Vonhof, KJ Olival, P Daszak, KE Jones",
+            "publication": "The American Naturalist 187, E53-E64, 2016",
+            "cited_by": {
+                "value": 117,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9219952819791836633",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9219952819791836633&engine=google_scholar&hl=en",
+                "cites_id": "9219952819791836633"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "A generalised random encounter model for estimating animal density with remote sensor data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vd9jVC0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=Vd9jVC0AAAAJ:HFi42EZPDb4C",
+            "citation_id": "Vd9jVC0AAAAJ:HFi42EZPDb4C",
+            "authors": "TCD Lucas, EA Moorcroft, R Freeman, JM Rowcliffe, KE Jones",
+            "publication": "Methods in Ecology and Evolution 6 (5), 500-509, 2015",
+            "cited_by": {
+                "value": 102,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16802749560951210701,12217585743071532660",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16802749560951210701%2C12217585743071532660&engine=google_scholar&hl=en",
+                "cites_id": "16802749560951210701,12217585743071532660"
+            },
+            "year": "2015",
+            "author_position": "last"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 41869,
+                    "since_2021": 19134
+                }
+            },
+            {
+                "h_index": {
+                    "all": 71,
+                    "since_2021": 52
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 144,
+                    "since_2021": 123
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2004,
+                "citations": 175
+            },
+            {
+                "year": 2005,
+                "citations": 194
+            },
+            {
+                "year": 2006,
+                "citations": 244
+            },
+            {
+                "year": 2007,
+                "citations": 404
+            },
+            {
+                "year": 2008,
+                "citations": 632
+            },
+            {
+                "year": 2009,
+                "citations": 942
+            },
+            {
+                "year": 2010,
+                "citations": 969
+            },
+            {
+                "year": 2011,
+                "citations": 1219
+            },
+            {
+                "year": 2012,
+                "citations": 1399
+            },
+            {
+                "year": 2013,
+                "citations": 1572
+            },
+            {
+                "year": 2014,
+                "citations": 1703
+            },
+            {
+                "year": 2015,
+                "citations": 1706
+            },
+            {
+                "year": 2016,
+                "citations": 1706
+            },
+            {
+                "year": 2017,
+                "citations": 1872
+            },
+            {
+                "year": 2018,
+                "citations": 1930
+            },
+            {
+                "year": 2019,
+                "citations": 2067
+            },
+            {
+                "year": 2020,
+                "citations": 3051
+            },
+            {
+                "year": 2021,
+                "citations": 3520
+            },
+            {
+                "year": 2022,
+                "citations": 3309
+            },
+            {
+                "year": 2023,
+                "citations": 3233
+            },
+            {
+                "year": 2024,
+                "citations": 3016
+            },
+            {
+                "year": 2025,
+                "citations": 3403
+            },
+            {
+                "year": 2026,
+                "citations": 2639
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Vd9jVC0AAAAJ",
+        "available": 79,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Andy Purvis",
+            "link": "https://scholar.google.com/citations?user=EpZVv-cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EpZVv-cAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "EpZVv-cAAAAJ",
+            "affiliations": "Research Leader & Merit Researcher, Natural History Museum; Professor of Biodiversity, Imperial",
+            "email": "Verified email at nhm.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EpZVv-cAAAAJ&citpid=5"
+        },
+        {
+            "name": "Rory Gibb",
+            "link": "https://scholar.google.com/citations?user=ERU8djAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ERU8djAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "ERU8djAAAAAJ",
+            "affiliations": "Department of Genetics, Evolution & Environment, University College London",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ERU8djAAAAAJ&citpid=3"
+        },
+        {
+            "name": "David W Redding",
+            "link": "https://scholar.google.com/citations?user=bzH6AJ4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bzH6AJ4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "bzH6AJ4AAAAJ",
+            "affiliations": "Natural History Museum",
+            "email": "Verified email at nhm.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bzH6AJ4AAAAJ&citpid=6"
+        },
+        {
+            "name": "Olaf R.P. Bininda-Emonds",
+            "link": "https://scholar.google.com/citations?user=nLVSFM4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nLVSFM4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "nLVSFM4AAAAJ",
+            "affiliations": "Professor of Molecular Systematics, University of Oldenburg",
+            "email": "Verified email at uni-oldenburg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nLVSFM4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Marcel Cardillo",
+            "link": "https://scholar.google.com/citations?user=6mBgzU8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6mBgzU8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "6mBgzU8AAAAJ",
+            "affiliations": "Professor, Australian National University",
+            "email": "Verified email at anu.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6mBgzU8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Tim Blackburn",
+            "link": "https://scholar.google.com/citations?user=zrKFq84AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zrKFq84AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "zrKFq84AAAAJ",
+            "affiliations": "Professor",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zrKFq84AAAAJ&citpid=3"
+        },
+        {
+            "name": "Richard Grenyer",
+            "link": "https://scholar.google.com/citations?user=z-Inb_IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=z-Inb_IAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "z-Inb_IAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ouce.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Georgina Mace",
+            "link": "https://scholar.google.com/citations?user=cYJbLR8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cYJbLR8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "cYJbLR8AAAAJ",
+            "affiliations": "University College London",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cYJbLR8AAAAJ&citpid=5"
+        },
+        {
+            "name": "Ella Browning",
+            "link": "https://scholar.google.com/citations?user=SogRFjkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SogRFjkAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "SogRFjkAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ouce.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SogRFjkAAAAJ&citpid=10"
+        },
+        {
+            "name": "Samantha A. Price",
+            "link": "https://scholar.google.com/citations?user=zxtEobsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zxtEobsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "zxtEobsAAAAJ",
+            "affiliations": "Biological Sciences, Clemson University",
+            "email": "Verified email at clemson.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Jon Bielby",
+            "link": "https://scholar.google.com/citations?user=n8ADn6MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=n8ADn6MAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "n8ADn6MAAAAJ",
+            "affiliations": "Liverpool John Moores University",
+            "email": "Verified email at ljmu.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=n8ADn6MAAAAJ&citpid=7"
+        },
+        {
+            "name": "Oisin Mac Aodha",
+            "link": "https://scholar.google.com/citations?user=IfZBjkUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IfZBjkUAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "IfZBjkUAAAAJ",
+            "affiliations": "Reader (Associate Professor), University of Edinburgh",
+            "email": "Verified email at ed.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IfZBjkUAAAAJ&citpid=7"
+        },
+        {
+            "name": "Andrew Cunningham",
+            "link": "https://scholar.google.com/citations?user=YKKudKsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YKKudKsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "YKKudKsAAAAJ",
+            "affiliations": "Institute of Zoology, Zoological Society of London",
+            "email": "Verified email at ioz.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YKKudKsAAAAJ&citpid=4"
+        },
+        {
+            "name": "Gabriel Brostow",
+            "link": "https://scholar.google.com/citations?user=CZiTv0gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CZiTv0gAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "CZiTv0gAAAAJ",
+            "affiliations": "Professor of Computer Science, University College London",
+            "email": "Verified email at cs.ucl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Charles Nunn",
+            "link": "https://scholar.google.com/citations?user=8BK4QZAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8BK4QZAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "8BK4QZAAAAAJ",
+            "affiliations": "Duke University, Evolutionary Anthropology and Global Health",
+            "email": "Verified email at duke.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8BK4QZAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Robin Freeman",
+            "link": "https://scholar.google.com/citations?user=Yqr44OcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Yqr44OcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "Yqr44OcAAAAJ",
+            "affiliations": "Professor, Institute of Zoology, Zoological Society of London",
+            "email": "Verified email at ioz.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Yqr44OcAAAAJ&citpid=2"
+        },
+        {
+            "name": "James Wood",
+            "link": "https://scholar.google.com/citations?user=2S7qMccAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2S7qMccAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "2S7qMccAAAAJ",
+            "affiliations": "University of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2S7qMccAAAAJ&citpid=4"
+        },
+        {
+            "name": "Sonia Altizer",
+            "link": "https://scholar.google.com/citations?user=S4tKxT4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=S4tKxT4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "S4tKxT4AAAAJ",
+            "affiliations": "Professor and Head, Department of Entomology, University of Georgia",
+            "email": "Verified email at uga.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=S4tKxT4AAAAJ&citpid=5"
+        },
+        {
+            "name": "Christl Donnelly",
+            "link": "https://scholar.google.com/citations?user=nW0imhcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nW0imhcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "nW0imhcAAAAJ",
+            "affiliations": "Professor of Applied Statistics, University of Oxford",
+            "email": "Verified email at stats.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nW0imhcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Andy Dobson",
+            "link": "https://scholar.google.com/citations?user=S6-gFiMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=S6-gFiMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "S6-gFiMAAAAJ",
+            "affiliations": "Professor Ecology, Wildlife Disease and Conservation",
+            "email": "Verified email at princeton.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=S6-gFiMAAAAJ&citpid=2"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=Vd9jVC0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=100"
+    }
+}

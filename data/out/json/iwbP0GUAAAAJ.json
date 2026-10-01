@@ -1,0 +1,356 @@
+{
+    "search_metadata": {
+        "id": "6abd74147dcfbe5171a363db",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/uZ2_zG3AFTLdTKKxnvWvWBQ1f0jkRy90wF0Ng_fAqLI/6abd74147dcfbe5171a363db.json",
+        "markdown_endpoint": "https://serpapi.com/searches/uZ2_zG3AFTLdTKKxnvWvWBQ1f0jkRy90wF0Ng_fAqLI/6abd74147dcfbe5171a363db.md",
+        "created_at": "2026-09-30 20:41:56 UTC",
+        "processed_at": "2026-09-30 20:41:56 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=iwbP0GUAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/uZ2_zG3AFTLdTKKxnvWvWBQ1f0jkRy90wF0Ng_fAqLI/6abd74147dcfbe5171a363db.html",
+        "total_time_taken": 2.47
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "iwbP0GUAAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Isabel Bishop",
+        "affiliations": "Lecturer of Ecology, UCL",
+        "email": "Verified email at ucl.ac.uk",
+        "interests": [
+            {
+                "title": "freshwater ecology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:freshwater_ecology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afreshwater_ecology"
+            },
+            {
+                "title": "citizen science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:citizen_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acitizen_science"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "What has happened to river macroinvertebrate biodiversity in England and Wales over the past 30 years?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:kUhpeDhEZMUC",
+            "citation_id": "iwbP0GUAAAAJ:kUhpeDhEZMUC",
+            "authors": "AC Johnson, CL Outhwaite, NJB Isaac, K Powell, I Bishop, DB Roy, ...",
+            "publication": "Journal of Environmental Management 401, 128954, 2026",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7397488048288734796",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7397488048288734796&engine=google_scholar&hl=en",
+                "cites_id": "7397488048288734796"
+            },
+            "year": "2026",
+            "author_position": "middle"
+        },
+        {
+            "title": "Citizen science in river monitoring: a systematic literature review of the whys and hows",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:U0iAMwwPxtsC",
+            "citation_id": "iwbP0GUAAAAJ:U0iAMwwPxtsC",
+            "authors": "GP Shao, IJ Bishop",
+            "publication": "Frontiers in Environmental Science 13, 1609084, 2025",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9646779873274311389",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9646779873274311389&engine=google_scholar&hl=en",
+                "cites_id": "9646779873274311389"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "FreshWater watch: investigating the health of freshwater ecosystems, from the bottom up",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:roLk4NBRz8UC",
+            "citation_id": "iwbP0GUAAAAJ:roLk4NBRz8UC",
+            "authors": "I Bishop, A Boldrini, W Clymans, C Hall, H Moorhouse, S Parkinson, ...",
+            "publication": "Citizen Science: Theory and Practice 10 (1), 2-2, 2025",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3390575740023361100",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3390575740023361100&engine=google_scholar&hl=en",
+                "cites_id": "3390575740023361100"
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "How can bottom-up citizen science restore public trust in environmental governance and sciences? Recommendations from three case studies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "iwbP0GUAAAAJ:LkGwnXOMwfcC",
+            "authors": "A Skarlatidou, M Haklay, S Hoyte, M Van Oudheusden, IJ Bishop",
+            "publication": "Environmental Science & Policy 160, 103854, 2024",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7586065039584406210",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7586065039584406210&engine=google_scholar&hl=en",
+                "cites_id": "7586065039584406210"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Citizen scientists filling knowledge gaps of phosphate pollution dynamics in rural areas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:ufrVoPGSRksC",
+            "citation_id": "iwbP0GUAAAAJ:ufrVoPGSRksC",
+            "authors": "S Loiselle, I Bishop, H Moorhouse, C Pilat, E Koelman, R Nelson, ...",
+            "publication": "Environmental Monitoring and Assessment 196 (2), 220, 2024",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7959954612665730632",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7959954612665730632&engine=google_scholar&hl=en",
+                "cites_id": "7959954612665730632"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Will they be back? A framework to guide rare macrophyte conservation decisions in lakes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:WF5omc3nYNoC",
+            "citation_id": "iwbP0GUAAAAJ:WF5omc3nYNoC",
+            "authors": "H Bennion, C Sayer, A Baker, I Bishop, A Glover, V Jones, A Law, ...",
+            "publication": "Restoration Ecology 32 (1), e14026, 2024",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5993634995036210673",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5993634995036210673&engine=google_scholar&hl=en",
+                "cites_id": "5993634995036210673"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Out in the field",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "iwbP0GUAAAAJ:eQOLeE2rZwMC",
+            "authors": "AW Mackay, IJ Bishop",
+            "publication": "Area 54 (4), 546-550, 2022",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11061845973228867989",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11061845973228867989&engine=google_scholar&hl=en",
+                "cites_id": "11061845973228867989"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Wastewater-based epidemiology in hazard forecasting and early-warning systems for global health risks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "iwbP0GUAAAAJ:zYLM7Y9cAGgC",
+            "authors": "B Kasprzyk-Hordern, B Adams, ID Adewale, FO Agunbiade, MI Akinyemi, ...",
+            "publication": "Environment international 161, 107143, 2022",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=225805254874711001",
+                "serpapi_link": "https://serpapi.com/search.json?cites=225805254874711001&engine=google_scholar&hl=en",
+                "cites_id": "225805254874711001"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Community monitoring of coliform pollution in Lake Tanganyika",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "iwbP0GUAAAAJ:IjCSPb-OGe4C",
+            "authors": "HA Moshi, DA Shilla, IA Kimirei, C O\u2019Reilly, W Clymans, I Bishop, ...",
+            "publication": "Plos one 17 (1), e0262881, 2022",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5849722490587397860",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5849722490587397860&engine=google_scholar&hl=en",
+                "cites_id": "5849722490587397860"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Freshwater biota as indicators of impact: case studies and examples of the major groups in surface water assessment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "iwbP0GUAAAAJ:_FxGoFyzp5QC",
+            "authors": "JP Simaika, I Bishop, M Kelly, R Casta\u00f1eda",
+            "publication": "Elsevier, 2022",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14269723021666533247",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14269723021666533247&engine=google_scholar&hl=en",
+                "cites_id": "14269723021666533247"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Using citizen science to understand river water quality while filling data gaps to meet United Nations Sustainable Development Goal 6 objectives",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "iwbP0GUAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Hegarty, A Hayes, F Regan, I Bishop, R Clinton",
+            "publication": "Science of the total Environment 783, 146953, 2021",
+            "cited_by": {
+                "value": 119,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13769863889577474665",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13769863889577474665&engine=google_scholar&hl=en",
+                "cites_id": "13769863889577474665"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Creating positive environmental impact through citizen science",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:qjMakFHDy7sC",
+            "citation_id": "iwbP0GUAAAAJ:qjMakFHDy7sC",
+            "authors": "T van Noordwijk, I Bishop, S Staunton-Lamb, A Oldfield, S Loiselle, ...",
+            "publication": "The science of citizen science, 373-395, 2021",
+            "cited_by": {
+                "value": 73,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12546404481390121347,15235340991349515148",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12546404481390121347%2C15235340991349515148&engine=google_scholar&hl=en",
+                "cites_id": "12546404481390121347,15235340991349515148"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Citizen science monitoring for sustainable development goal indicator 6.3. 2 in England and Zambia",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "iwbP0GUAAAAJ:u5HHmVD_uO8C",
+            "authors": "IJ Bishop, S Warner, TCGE Van Noordwijk, FC Nyoni, S Loiselle",
+            "publication": "Sustainability 12 (24), 10271, 2020",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2692887445111096400",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2692887445111096400&engine=google_scholar&hl=en",
+                "cites_id": "2692887445111096400"
+            },
+            "year": "2020",
+            "author_position": "first"
+        },
+        {
+            "title": "Anthropogenically forced change in aquatic ecosystems: reflections on the use of monitoring, archival and palaeolimnological data to inform conservation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "iwbP0GUAAAAJ:d1gkVwhDpl0C",
+            "authors": "LR Roberts, IJ Bishop, JK Adams",
+            "publication": "Geo: Geography and Environment 7 (1), e00089, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11355614011851402092",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11355614011851402092&engine=google_scholar&hl=en",
+                "cites_id": "11355614011851402092"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Filling the \u201cdata gap\u201d: Using paleoecology to investigate the decline of Najas flexilis (a rare aquatic plant)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "iwbP0GUAAAAJ:u-x6o8ySG0sC",
+            "authors": "IJ Bishop, H Bennion, CD Sayer, IR Patmore, H Yang",
+            "publication": "Geo: Geography and Environment 6 (2), e00081, 2019",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10617700405625010564",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10617700405625010564&engine=google_scholar&hl=en",
+                "cites_id": "10617700405625010564"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "How effective are plant macrofossils as a proxy for macrophyte presence? The case of Najas flexilis in Scotland",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "iwbP0GUAAAAJ:UeHWp8X0CEIC",
+            "authors": "IJ Bishop, H Bennion, IR Patmore, CD Sayer",
+            "publication": "Journal of Paleolimnology 60 (2), 153-165, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16224252415677244709",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16224252415677244709&engine=google_scholar&hl=en",
+                "cites_id": "16224252415677244709"
+            },
+            "year": "2018",
+            "author_position": "first"
+        },
+        {
+            "title": "Understanding the habitat and decline of Najas flexilis (Willd.) Rostk. & Schmidt in the UK using ecology and paleoecology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iwbP0GUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=iwbP0GUAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "iwbP0GUAAAAJ:9yKSN-GCB0IC",
+            "authors": "IJ Bishop",
+            "publication": "UCL (University College London), 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11536493053600912485",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11536493053600912485&engine=google_scholar&hl=en",
+                "cites_id": "11536493053600912485"
+            },
+            "year": "2018",
+            "author_position": "first"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 488,
+                    "since_2021": 478
+                }
+            },
+            {
+                "h_index": {
+                    "all": 12,
+                    "since_2021": 11
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 13,
+                    "since_2021": 12
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2019,
+                "citations": 2
+            },
+            {
+                "year": 2020,
+                "citations": 4
+            },
+            {
+                "year": 2021,
+                "citations": 17
+            },
+            {
+                "year": 2022,
+                "citations": 67
+            },
+            {
+                "year": 2023,
+                "citations": 61
+            },
+            {
+                "year": 2024,
+                "citations": 72
+            },
+            {
+                "year": 2025,
+                "citations": 144
+            },
+            {
+                "year": 2026,
+                "citations": 111
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=iwbP0GUAAAAJ",
+        "available": 5,
+        "not_available": 0
+    }
+}

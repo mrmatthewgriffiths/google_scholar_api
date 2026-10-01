@@ -1,0 +1,1536 @@
+{
+    "search_metadata": {
+        "id": "6abd6a6c69a322ad472dad09",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/CA96S4IIepN0ix4C9oPLeKU8Xlz0KhYFc9wgftio38A/6abd6a6c69a322ad472dad09.json",
+        "markdown_endpoint": "https://serpapi.com/searches/CA96S4IIepN0ix4C9oPLeKU8Xlz0KhYFc9wgftio38A/6abd6a6c69a322ad472dad09.md",
+        "created_at": "2026-09-30 20:00:44 UTC",
+        "processed_at": "2026-09-30 20:00:44 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=l3Wo0BgAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+        "raw_html_file": "https://serpapi.com/searches/CA96S4IIepN0ix4C9oPLeKU8Xlz0KhYFc9wgftio38A/6abd6a6c69a322ad472dad09.html",
+        "total_time_taken": 0.84
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "l3Wo0BgAAAAJ",
+        "hl": "en",
+        "num": "100",
+        "sort": "pubdate"
+    },
+    "author": {
+        "name": "Ellouise Leadbeater",
+        "affiliations": "Royal Holloway University of London",
+        "email": "Verified email at rhul.ac.uk",
+        "website": "http://ellileadbeater.weebly.com/",
+        "interests": [
+            {
+                "title": "Animal social learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:animal_social_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanimal_social_learning"
+            },
+            {
+                "title": "Insect cognition",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:insect_cognition",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainsect_cognition"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l3Wo0BgAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "No detectable evidence for metabolic costs of long-term memory formation in honeybees, despite increased energy intake",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:CHSYGLWDkRkC",
+            "citation_id": "l3Wo0BgAAAAJ:CHSYGLWDkRkC",
+            "authors": "CM Watrobska, J Codd, SJ Portugal, E Leadbeater",
+            "publication": "Journal of Experimental Biology 229 (8), jeb250403, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "Resource supplementation later in the colony cycle improves real\u2010world bumblebee colony survival",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:EUQCXRtRnyEC",
+            "citation_id": "l3Wo0BgAAAAJ:EUQCXRtRnyEC",
+            "authors": "L Fordham, E Leadbeater",
+            "publication": "Journal of Applied Ecology 63 (1), e70229, 2026",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6868098084969185722",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6868098084969185722&engine=google_scholar&hl=en",
+                "cites_id": "6868098084969185722"
+            },
+            "year": "2026",
+            "author_position": "last"
+        },
+        {
+            "title": "A second British record of Paragus quadrifasciatus Meigen (Diptera, Syrphidae)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:_xSYboBqXhAC",
+            "citation_id": "l3Wo0BgAAAAJ:_xSYboBqXhAC",
+            "authors": "L Fordham, A Maeda-Obregon, E LEADBEATER",
+            "publication": "Dipterists Digest 32, 240-242, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Selection shapes diverse animal minds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:bFI3QPDXJZMC",
+            "citation_id": "l3Wo0BgAAAAJ:bFI3QPDXJZMC",
+            "authors": "E Leadbeater, A Thornton",
+            "publication": "Philosophical Transactions of the Royal Society B: Biological Sciences 380 \u2026, 2025",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10590225824899081549",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10590225824899081549&engine=google_scholar&hl=en",
+                "cites_id": "10590225824899081549"
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "What could evolve in the evolution of memory?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:f2IySw72cVMC",
+            "citation_id": "l3Wo0BgAAAAJ:f2IySw72cVMC",
+            "authors": "E Leadbeater, C Watrobska",
+            "publication": "Philosophical Transactions of the Royal Society B: Biological Sciences 380 \u2026, 2025",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4693954139928649777",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4693954139928649777&engine=google_scholar&hl=en",
+                "cites_id": "4693954139928649777"
+            },
+            "year": "2025",
+            "author_position": "first"
+        },
+        {
+            "title": "Long-term memory formation impacts dietary energy intake but not metabolic rate in honeybees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:D03iK_w7-QYC",
+            "citation_id": "l3Wo0BgAAAAJ:D03iK_w7-QYC",
+            "authors": "CM Watrobska, J Codd, SJ Portugal, E Leadbeater",
+            "publication": "bioRxiv, 2025.02. 17.638520, 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9947125046512117385",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9947125046512117385&engine=google_scholar&hl=en",
+                "cites_id": "9947125046512117385"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "A neural correlate of learning fails to predict foraging efficiency in the bumble bee Bombus terrestris",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:yD5IFk8b50cC",
+            "citation_id": "l3Wo0BgAAAAJ:yD5IFk8b50cC",
+            "authors": "G Pasquier, CD Pull, SR Ott, E Leadbeater",
+            "publication": "Animal Behaviour 219, 123012, 2025",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13457629642435784921",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13457629642435784921&engine=google_scholar&hl=en",
+                "cites_id": "13457629642435784921"
+            },
+            "year": "2025",
+            "author_position": "last"
+        },
+        {
+            "title": "Foraging distance distributions reveal how honeybee waggle dance recruitment varies with landscape",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:cFHS6HbyZ2cC",
+            "citation_id": "l3Wo0BgAAAAJ:cFHS6HbyZ2cC",
+            "authors": "J Palmer, AE Samuelson, RJ Gill, E Leadbeater, VAA Jansen",
+            "publication": "Communications Biology 7 (1), 1306, 2024",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4795615030171444259",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4795615030171444259&engine=google_scholar&hl=en",
+                "cites_id": "4795615030171444259"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Potential costs of learning have no detectable impact on reproductive success for bumble bees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:dfsIfKJdRG4C",
+            "citation_id": "l3Wo0BgAAAAJ:dfsIfKJdRG4C",
+            "authors": "CM Watrobska, P \u0160ima, AR Rodrigues, E Leadbeater",
+            "publication": "Animal Behaviour 214, 173-185, 2024",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13815860971498037899",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13815860971498037899&engine=google_scholar&hl=en",
+                "cites_id": "13815860971498037899"
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "A neural correlate of learning fails to predict foraging efficiency in Bombus terrestris",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:zA6iFVUQeVQC",
+            "citation_id": "l3Wo0BgAAAAJ:zA6iFVUQeVQC",
+            "authors": "G Pasquier, CD Pull, SR Ott, E Leadbeater",
+            "publication": "bioRxiv, 2024.01. 23.576659, 2024",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2024",
+            "author_position": "last"
+        },
+        {
+            "title": "Coupled information networks drive honeybee (Apis mellifera) collective foraging",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:ZHo1McVdvXMC",
+            "citation_id": "l3Wo0BgAAAAJ:ZHo1McVdvXMC",
+            "authors": "MJ Hasenjager, W Hoppitt, I Cunningham\u2010Eurich, VR Franks, ...",
+            "publication": "Journal of Animal Ecology 93 (1), 71-82, 2024",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2952669847220132562",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2952669847220132562&engine=google_scholar&hl=en",
+                "cites_id": "2952669847220132562"
+            },
+            "year": "2024",
+            "author_position": "middle"
+        },
+        {
+            "title": "Transcriptomic responses to location learning by honeybee dancers are partly mirrored in the brains of dance-followers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:SeFeTyx0c_EC",
+            "citation_id": "l3Wo0BgAAAAJ:SeFeTyx0c_EC",
+            "authors": "F Manfredini, Y Wurm, S Sumner, E Leadbeater",
+            "publication": "Proceedings of the Royal Society B: Biological Sciences 290 (2013), 20232274, 2023",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5403845097405649232",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5403845097405649232&engine=google_scholar&hl=en",
+                "cites_id": "5403845097405649232"
+            },
+            "year": "2023",
+            "author_position": "last"
+        },
+        {
+            "title": "by Subject",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:pyW8ca7W8N0C",
+            "citation_id": "l3Wo0BgAAAAJ:pyW8ca7W8N0C",
+            "authors": "G Seimandi\u2010Corda, J Winkler, T Jenkins, S Kirchner, S Cook, ...",
+            "publication": "Development 4, 01-2023, 2023",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Metabolic rate does not explain performance on a short-term memory task or personality traits in juvenile chickens (Gallus gallus domesticus)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:HoB7MX3m0LUC",
+            "citation_id": "l3Wo0BgAAAAJ:HoB7MX3m0LUC",
+            "authors": "CM Watrobska, G Pasquier, E Leadbeater, SJ Portugal",
+            "publication": "Royal Society Open Science 10 (9), 221650, 2023",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14218578591354418431",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14218578591354418431&engine=google_scholar&hl=en",
+                "cites_id": "14218578591354418431"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Addendum: Agrochemicals interact synergistically to increase bee mortality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:M05iB0D1s5AC",
+            "citation_id": "l3Wo0BgAAAAJ:M05iB0D1s5AC",
+            "authors": "H Siviter, EJ Bailes, CD Martin, TR Oliver, J Koricheva, E Leadbeater, ...",
+            "publication": "Nature 617 (7960), E7-E9, 2023",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15627644938064213300",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15627644938064213300&engine=google_scholar&hl=en",
+                "cites_id": "15627644938064213300"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Agrochemicals interact synergistically to increase bee mortality (vol 596, pg 389, 2021)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:pqnbT2bcN3wC",
+            "citation_id": "l3Wo0BgAAAAJ:pqnbT2bcN3wC",
+            "authors": "H Siviter, EJ Bailes, CD Martin, TR Oliver, J Koricheva, E Leadbeater, ...",
+            "publication": "NATURE, 2023",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4593949914541778389",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4593949914541778389&engine=google_scholar&hl=en",
+                "cites_id": "4593949914541778389"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:ldfaerwXgEUC",
+            "citation_id": "l3Wo0BgAAAAJ:ldfaerwXgEUC",
+            "authors": "CDR Wyatt, MA Bentley, D Taylor, E Favreau, RE Brock, BA Taylor, E Bell, ...",
+            "publication": "Nature Communications 14 (1), 1046, 2023",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13728476507418375246",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13728476507418375246&engine=google_scholar&hl=en",
+                "cites_id": "13728476507418375246"
+            },
+            "year": "2023",
+            "author_position": "middle"
+        },
+        {
+            "title": "Ecology dictates the value of memory for foraging bees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "l3Wo0BgAAAAJ:4JMBOYKVnBMC",
+            "authors": "CD Pull, I Petkova, C Watrobska, G Pasquier, MP Fernandez, ...",
+            "publication": "Current Biology 32 (19), 4279-4285. e4, 2022",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7692517371494803866",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7692517371494803866&engine=google_scholar&hl=en",
+                "cites_id": "7692517371494803866"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "From dyads to collectives: a review of honeybee signalling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:BqipwSGYUEgC",
+            "citation_id": "l3Wo0BgAAAAJ:BqipwSGYUEgC",
+            "authors": "MJ Hasenjager, VR Franks, E Leadbeater",
+            "publication": "Behavioral Ecology and Sociobiology 76 (9), 124, 2022",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=773829280861234029",
+                "serpapi_link": "https://serpapi.com/search.json?cites=773829280861234029&engine=google_scholar&hl=en",
+                "cites_id": "773829280861234029"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Honeybees vary communication and collective decision making across landscapes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:GnPB-g6toBAC",
+            "citation_id": "l3Wo0BgAAAAJ:GnPB-g6toBAC",
+            "authors": "J Palmer, AE Samuelson, RJ Gill, E Leadbeater, VAA Jansen",
+            "publication": "bioRxiv, 2022.08. 30.505816, 2022",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Machine learning models identify gene predictors of waggle dance behaviour in honeybees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:maZDTaKrznsC",
+            "citation_id": "l3Wo0BgAAAAJ:maZDTaKrznsC",
+            "authors": "M Veiner, J Morimoto, E Leadbeater, F Manfredini",
+            "publication": "Molecular Ecology Resources 22 (6), 2248-2261, 2022",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5972101167350356365",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5972101167350356365&engine=google_scholar&hl=en",
+                "cites_id": "5972101167350356365"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Behavioural variation among workers promotes feed-forward loops in a simulated insect colony",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:k_IJM867U9cC",
+            "citation_id": "l3Wo0BgAAAAJ:k_IJM867U9cC",
+            "authors": "C Easter, E Leadbeater, MJ Hasenjager",
+            "publication": "Royal Society Open Science 9 (3), 220120, 2022",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16448800959813623350",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16448800959813623350&engine=google_scholar&hl=en",
+                "cites_id": "16448800959813623350"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "\u2018Inert\u2019ingredients are understudied, potentially dangerous to bees and deserve more research attention",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:isC4tDSrTZIC",
+            "citation_id": "l3Wo0BgAAAAJ:isC4tDSrTZIC",
+            "authors": "EA Straw, LJ Thompson, E Leadbeater, MJF Brown",
+            "publication": "Proceedings of the Royal Society B: Biological Sciences 289 (1970), 20212353, 2022",
+            "cited_by": {
+                "value": 96,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6147275009475263579",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6147275009475263579&engine=google_scholar&hl=en",
+                "cites_id": "6147275009475263579"
+            },
+            "year": "2022",
+            "author_position": "middle"
+        },
+        {
+            "title": "Do honey bees modulate dance following according to foraging distance?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "l3Wo0BgAAAAJ:iH-uZ7U-co4C",
+            "authors": "MJ Hasenjager, W Hoppitt, E Leadbeater",
+            "publication": "Animal Behaviour 184, 89-97, 2022",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17141217855724002393",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17141217855724002393&engine=google_scholar&hl=en",
+                "cites_id": "17141217855724002393"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Dancing bees evaluate central urban forage resources as superior to agricultural land",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "l3Wo0BgAAAAJ:j3f4tGmQtD8C",
+            "authors": "AE Samuelson, R Sch\u00fcrch, E Leadbeater",
+            "publication": "Journal of Applied Ecology 59 (1), 79-88, 2022",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4550747563013905352",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4550747563013905352&engine=google_scholar&hl=en",
+                "cites_id": "4550747563013905352"
+            },
+            "year": "2022",
+            "author_position": "last"
+        },
+        {
+            "title": "Improving pesticide-use data for the EU",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:r0BpntZqJG4C",
+            "citation_id": "l3Wo0BgAAAAJ:r0BpntZqJG4C",
+            "authors": "R Mesnage, EA Straw, MN Antoniou, C Benbrook, MJF Brown, ...",
+            "publication": "Nature ecology & evolution 5 (12), 1560-1560, 2021",
+            "cited_by": {
+                "value": 72,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14581101873831822658",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14581101873831822658&engine=google_scholar&hl=en",
+                "cites_id": "14581101873831822658"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Social complexity, life-history and lineage influence the molecular basis of caste in a major transition in evolution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "l3Wo0BgAAAAJ:RHpTSmoSYBkC",
+            "authors": "C Wyatt, M Bentley, D Taylor, E Favreau, R Brock, B Taylor, E Bell, ...",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14952264740317462884",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14952264740317462884&engine=google_scholar&hl=en",
+                "cites_id": "14952264740317462884"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Agrochemicals interact synergistically to increase bee mortality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "l3Wo0BgAAAAJ:_Qo2XoVZTnwC",
+            "authors": "H Siviter, EJ Bailes, CD Martin, TR Oliver, J Koricheva, E Leadbeater, ...",
+            "publication": "Nature 596 (7872), 389-392, 2021",
+            "cited_by": {
+                "value": 399,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17339766449513768601",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17339766449513768601&engine=google_scholar&hl=en",
+                "cites_id": "17339766449513768601"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Honeybee dance-followers respond similarly to dances regardless of their spatial information content",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "l3Wo0BgAAAAJ:e5wmG9Sq2KIC",
+            "authors": "MJ Hasenjager, W Hoppitt, E Leadbeater",
+            "publication": "bioRxiv, 2021.03. 24.436796, 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "Individual and combined impacts of sulfoxaflor and Nosema bombi on bumblebee (Bombus terrestris) larval growth (vol 287, 20200935, 2020)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "l3Wo0BgAAAAJ:bEWYMUwI8FkC",
+            "authors": "H Siviter, AJ Folly, MJF Brown, E Leadbeater",
+            "publication": "PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES 288 (1945), 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "Correction to \u2018Individual and combined impacts of sulfoxaflor and Nosema bombi on bumblebee (Bombus terrestris) larval growth\u2019",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "l3Wo0BgAAAAJ:R3hNpaxXUhUC",
+            "authors": "H Siviter, AJ Folly, MJF Brown, E Leadbeater",
+            "publication": "Proceedings of the Royal Society B: Biological Sciences 288 (1945), 20210297, 2021",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2021",
+            "author_position": "last"
+        },
+        {
+            "title": "Agrochemicals, but not other stressors, interact synergistically to increase bee mortality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "l3Wo0BgAAAAJ:JV2RwH3_ST0C",
+            "authors": "H Siviter, EJ Bailes, CD Martin, TR Oliver, J Koricheva, E Leadbeater, ...",
+            "publication": "S. l, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1198381284341284902",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1198381284341284902&engine=google_scholar&hl=en",
+                "cites_id": "1198381284341284902"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Detecting and quantifying social transmission using network\u2010based diffusion analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "l3Wo0BgAAAAJ:hFOr9nPyWt4C",
+            "authors": "MJ Hasenjager, E Leadbeater, W Hoppitt",
+            "publication": "Journal of Animal Ecology 90 (1), 8-26, 2021",
+            "cited_by": {
+                "value": 86,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12427960989343918200",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12427960989343918200&engine=google_scholar&hl=en",
+                "cites_id": "12427960989343918200"
+            },
+            "year": "2021",
+            "author_position": "middle"
+        },
+        {
+            "title": "Genetic toolkit for sociality predicts castes across the spectrum of social complexity in wasps",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:HDshCWvjkbEC",
+            "citation_id": "l3Wo0BgAAAAJ:HDshCWvjkbEC",
+            "authors": "CDR Wyatt, M Bentley, D Taylor, RE Brock, BA Taylor, E Bell, ...",
+            "publication": "bioRxiv, 2020.12. 08.407056, 2020",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=750220569933213006",
+                "serpapi_link": "https://serpapi.com/search.json?cites=750220569933213006&engine=google_scholar&hl=en",
+                "cites_id": "750220569933213006"
+            },
+            "year": "2020",
+            "author_position": "middle"
+        },
+        {
+            "title": "Urbanisation is associated with reduced Nosema sp. infection, higher colony strength and higher richness of foraged pollen in honeybees: A. E. Samuelson et al.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:-f6ydRqryjwC",
+            "citation_id": "l3Wo0BgAAAAJ:-f6ydRqryjwC",
+            "authors": "AE Samuelson, RJ Gill, E Leadbeater",
+            "publication": "Apidologie 51 (5), 746-762, 2020",
+            "cited_by": {
+                "value": 40,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9946968139056130210",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9946968139056130210&engine=google_scholar&hl=en",
+                "cites_id": "9946968139056130210"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Individual and combined impacts of sulfoxaflor and Nosema bombi on bumblebee (Bombus terrestris) larval growth",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:mB3voiENLucC",
+            "citation_id": "l3Wo0BgAAAAJ:mB3voiENLucC",
+            "authors": "H Siviter, AJ Folly, MJF Brown, E Leadbeater",
+            "publication": "Proceedings of the Royal Society B: Biological Sciences 287 (1932), 20200935, 2020",
+            "cited_by": {
+                "value": 57,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17994480261511669516",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17994480261511669516&engine=google_scholar&hl=en",
+                "cites_id": "17994480261511669516"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Odor Learning and Its Experience-Dependent Modulation in",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:a0OBvERweLwC",
+            "citation_id": "l3Wo0BgAAAAJ:a0OBvERweLwC",
+            "authors": "L Chittka, JM Devaud, J Spaethe, E Leadbeater",
+            "publication": "The Mechanisms of Insect Cognition, 1015040, 2020",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Network-based diffusion analysis reveals context-specific dominance of dance communication in foraging honeybees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:hC7cP41nSMkC",
+            "citation_id": "l3Wo0BgAAAAJ:hC7cP41nSMkC",
+            "authors": "MJ Hasenjager, W Hoppitt, E Leadbeater",
+            "publication": "Nature communications 11 (1), 625, 2020",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15278451784289817013",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15278451784289817013&engine=google_scholar&hl=en",
+                "cites_id": "15278451784289817013"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Sulfoxaflor exposure reduces egg laying in bumblebees Bombus terrestris",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "l3Wo0BgAAAAJ:L8Ckcad2t8MC",
+            "authors": "H Siviter, J Horner, MJF Brown, E Leadbeater",
+            "publication": "Journal of Applied Ecology 57 (1), 160-169, 2020",
+            "cited_by": {
+                "value": 97,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10764117783429610033",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10764117783429610033&engine=google_scholar&hl=en",
+                "cites_id": "10764117783429610033"
+            },
+            "year": "2020",
+            "author_position": "last"
+        },
+        {
+            "title": "Dancing bees evaluate agricultural forage resources as inferior to central urban land",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:qUcmZB5y_30C",
+            "citation_id": "l3Wo0BgAAAAJ:qUcmZB5y_30C",
+            "authors": "AE Samuelson, R Sch\u00fcrch, E Leadbeater",
+            "publication": "bioRxiv, 2019.12. 19.882076, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13019642056155074903",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13019642056155074903&engine=google_scholar&hl=en",
+                "cites_id": "13019642056155074903"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "No evidence for negative impacts of acute sulfoxaflor exposure on bee olfactory conditioning or working memory",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "l3Wo0BgAAAAJ:7PzlFSSx8tAC",
+            "authors": "H Siviter, A Scott, G Pasquier, CD Pull, MJF Brown, E Leadbeater",
+            "publication": "PeerJ 7, e7208, 2019",
+            "cited_by": {
+                "value": 77,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11031214848648256931",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11031214848648256931&engine=google_scholar&hl=en",
+                "cites_id": "11031214848648256931"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "Honeybee communication: There\u2019s more on the dancefloor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:dhFuZR0502QC",
+            "citation_id": "l3Wo0BgAAAAJ:dhFuZR0502QC",
+            "authors": "E Leadbeater, MJ Hasenjager",
+            "publication": "Current Biology 29 (8), R285-R287, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2900039659722337077",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2900039659722337077&engine=google_scholar&hl=en",
+                "cites_id": "2900039659722337077"
+            },
+            "year": "2019",
+            "author_position": "first"
+        },
+        {
+            "title": "Insect social learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:4DMP91E08xMC",
+            "citation_id": "l3Wo0BgAAAAJ:4DMP91E08xMC",
+            "authors": "MJ Hasenjager, E Leadbeater",
+            "publication": "Academic Press, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3699990419556643245",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3699990419556643245&engine=google_scholar&hl=en",
+                "cites_id": "3699990419556643245"
+            },
+            "year": "2019",
+            "author_position": "last"
+        },
+        {
+            "title": "Quantifying the impact of pesticides on learning and memory in bees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "l3Wo0BgAAAAJ:M3ejUd6NZC8C",
+            "authors": "H Siviter, J Koricheva, MJF Brown, E Leadbeater",
+            "publication": "Journal of Applied Ecology 55 (6), 2812-2821, 2018",
+            "cited_by": {
+                "value": 259,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17164202494322190161",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17164202494322190161&engine=google_scholar&hl=en",
+                "cites_id": "17164202494322190161"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Sulfoxaflor exposure reduces bumblebee reproductive success",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "l3Wo0BgAAAAJ:qxL8FJ1GzNcC",
+            "authors": "H Siviter, MJF Brown, E Leadbeater",
+            "publication": "Nature 561 (7721), 109-112, 2018",
+            "cited_by": {
+                "value": 309,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5766947889370046001",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5766947889370046001&engine=google_scholar&hl=en",
+                "cites_id": "5766947889370046001"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "Lower bumblebee colony reproductive success in agricultural compared with urban environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:4TOpqqG69KYC",
+            "citation_id": "l3Wo0BgAAAAJ:4TOpqqG69KYC",
+            "authors": "AE Samuelson, RJ Gill, MJF Brown, E Leadbeater",
+            "publication": "Proceedings of the Royal Society B: biological sciences 285 (1881), 20180807, 2018",
+            "cited_by": {
+                "value": 177,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3980538417374708783",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3980538417374708783&engine=google_scholar&hl=en",
+                "cites_id": "3980538417374708783"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "A land classification protocol for pollinator ecology research: An urbanization case study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "l3Wo0BgAAAAJ:YOwf2qJgpHMC",
+            "authors": "AE Samuelson, E Leadbeater",
+            "publication": "Ecology and Evolution 8 (11), 5598-5610, 2018",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16763414517379140762",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16763414517379140762&engine=google_scholar&hl=en",
+                "cites_id": "16763414517379140762"
+            },
+            "year": "2018",
+            "author_position": "last"
+        },
+        {
+            "title": "A social insect perspective on the evolution of social learning mechanisms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:Zph67rFs4hoC",
+            "citation_id": "l3Wo0BgAAAAJ:Zph67rFs4hoC",
+            "authors": "E Leadbeater, EH Dawson",
+            "publication": "Proceedings of the National Academy of Sciences 114 (30), 7838-7845, 2017",
+            "cited_by": {
+                "value": 94,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4173487542159434573",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4173487542159434573&engine=google_scholar&hl=en",
+                "cites_id": "4173487542159434573"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Foraging by honeybees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:aqlVkmm33-oC",
+            "citation_id": "l3Wo0BgAAAAJ:aqlVkmm33-oC",
+            "authors": "A Samuelson, E Leadbeater",
+            "publication": "Encyclopedia of Animal Cognition and Behaviour. Springer International \u2026, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701155272078874449",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9701155272078874449&engine=google_scholar&hl=en",
+                "cites_id": "9701155272078874449"
+            },
+            "year": "2017",
+            "author_position": "last"
+        },
+        {
+            "title": "The evolution of social learning mechanisms: A social insect perspective",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "l3Wo0BgAAAAJ:ULOm3_A8WrAC",
+            "authors": "E Leadbeater, EH Dawson",
+            "publication": "Proc Natl Acad Sci USA 10, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10381431506291792174",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10381431506291792174&engine=google_scholar&hl=en",
+                "cites_id": "10381431506291792174"
+            },
+            "year": "2017",
+            "author_position": "first"
+        },
+        {
+            "title": "Effect of acute pesticide exposure on bee spatial working memory using an analogue of the radial-arm maze",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "l3Wo0BgAAAAJ:KlAtU1dfN6UC",
+            "authors": "EEW Samuelson, ZP Chen-Wishart, RJ Gill, E Leadbeater",
+            "publication": "Scientific Reports 6 (1), 38957, 2016",
+            "cited_by": {
+                "value": 101,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14763100600866851397",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14763100600866851397&engine=google_scholar&hl=en",
+                "cites_id": "14763100600866851397"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Alarm substances induce associative social learning in honeybees, Apis mellifera",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "l3Wo0BgAAAAJ:kNdYIx-mwKoC",
+            "authors": "EH Dawson, L Chittka, E Leadbeater",
+            "publication": "Animal Behaviour 122, 17-22, 2016",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3230386389224699858",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3230386389224699858&engine=google_scholar&hl=en",
+                "cites_id": "3230386389224699858"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Reproductive environment affects learning performance in bumble bees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "l3Wo0BgAAAAJ:3fE2CSJIrl8C",
+            "authors": "LJ Evans, NE Raine, E Leadbeater",
+            "publication": "Behavioral ecology and sociobiology 70 (12), 2053-2060, 2016",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13092350234121056159",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13092350234121056159&engine=google_scholar&hl=en",
+                "cites_id": "13092350234121056159"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "Cooperation between non-relatives in a primitively eusocial paper wasp, Polistes dominula",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:5nxA0vEk-isC",
+            "citation_id": "l3Wo0BgAAAAJ:5nxA0vEk-isC",
+            "authors": "J Field, E Leadbeater",
+            "publication": "Philosophical Transactions of the Royal Society B: Biological Sciences 371 \u2026, 2016",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6657548281221560978",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6657548281221560978&engine=google_scholar&hl=en",
+                "cites_id": "6657548281221560978"
+            },
+            "year": "2016",
+            "author_position": "last"
+        },
+        {
+            "title": "What evolves in the evolution of social learning?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:0EnyYjriUFMC",
+            "citation_id": "l3Wo0BgAAAAJ:0EnyYjriUFMC",
+            "authors": "E Leadbeater",
+            "publication": "Journal of Zoology 295 (1), 4-11, 2015",
+            "cited_by": {
+                "value": 100,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12928294453483184725",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12928294453483184725&engine=google_scholar&hl=en",
+                "cites_id": "12928294453483184725"
+            },
+            "year": "2015",
+            "author_position": "first"
+        },
+        {
+            "title": "Foraging bumblebees do not rate social information above personal experience",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "l3Wo0BgAAAAJ:hqOjcs7Dif8C",
+            "authors": "E Leadbeater, C Florent",
+            "publication": "Behavioral ecology and sociobiology 68 (7), 1145-1150, 2014",
+            "cited_by": {
+                "value": 40,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12321795113026149957",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12321795113026149957&engine=google_scholar&hl=en",
+                "cites_id": "12321795113026149957"
+            },
+            "year": "2014",
+            "author_position": "first"
+        },
+        {
+            "title": "Insights from insects about adaptive social information use",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:UebtZRa9Y70C",
+            "citation_id": "l3Wo0BgAAAAJ:UebtZRa9Y70C",
+            "authors": "C Grueter, E Leadbeater",
+            "publication": "Trends in ecology & evolution 29 (3), 177-184, 2014",
+            "cited_by": {
+                "value": 208,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15557508575586204430",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15557508575586204430&engine=google_scholar&hl=en",
+                "cites_id": "15557508575586204430"
+            },
+            "year": "2014",
+            "author_position": "last"
+        },
+        {
+            "title": "Available kin recognition cues may explain why wasp behavior reflects relatedness to nest mates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "l3Wo0BgAAAAJ:LkGwnXOMwfcC",
+            "authors": "E Leadbeater, L Dapporto, S Turillazzi, J Field",
+            "publication": "Behavioral Ecology 25 (2), 344-351, 2014",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9148216871061907939",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9148216871061907939&engine=google_scholar&hl=en",
+                "cites_id": "9148216871061907939"
+            },
+            "year": "2014",
+            "author_position": "first"
+        },
+        {
+            "title": "Clypeal patterning in the paper wasp Polistes dominulus: no evidence of adaptive value in the wild",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "l3Wo0BgAAAAJ:_FxGoFyzp5QC",
+            "authors": "JP Green, E Leadbeater, JM Carruthers, NS Rosser, ER Lucas, J Field",
+            "publication": "Behavioral Ecology 24 (3), 623-633, 2013",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629753322760456714",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10629753322760456714&engine=google_scholar&hl=en",
+                "cites_id": "10629753322760456714"
+            },
+            "year": "2013",
+            "author_position": "middle"
+        },
+        {
+            "title": "Learning by observation emerges from simple associations in an insect model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "l3Wo0BgAAAAJ:eQOLeE2rZwMC",
+            "authors": "EH Dawson, A Avargu\u00e8s-Weber, L Chittka, E Leadbeater",
+            "publication": "Current Biology 23 (8), 727-730, 2013",
+            "cited_by": {
+                "value": 169,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2311550078637374110",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2311550078637374110&engine=google_scholar&hl=en",
+                "cites_id": "2311550078637374110"
+            },
+            "year": "2013",
+            "author_position": "last"
+        },
+        {
+            "title": "Little effect of seasonal constraints on population genetic structure in eusocial paper wasps",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:ufrVoPGSRksC",
+            "citation_id": "l3Wo0BgAAAAJ:ufrVoPGSRksC",
+            "authors": "T Lengronne, E Leadbeater, S Patalano, S Dreier, J Field, S Sumner, ...",
+            "publication": "Ecology and evolution 2 (10), 2615-2624, 2012",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10300070085236504327",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10300070085236504327&engine=google_scholar&hl=en",
+                "cites_id": "10300070085236504327"
+            },
+            "year": "2012",
+            "author_position": "middle"
+        },
+        {
+            "title": "Great tits in urban noise benefit from high frequencies in song detection and discrimination",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:8k81kl-MbHgC",
+            "citation_id": "l3Wo0BgAAAAJ:8k81kl-MbHgC",
+            "authors": "NU Pohl, E Leadbeater, H Slabbekoorn, GM Klump, U Langemann",
+            "publication": "Animal Behaviour 83 (3), 711-721, 2012",
+            "cited_by": {
+                "value": 104,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8562812638728519271",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8562812638728519271&engine=google_scholar&hl=en",
+                "cites_id": "8562812638728519271"
+            },
+            "year": "2012",
+            "author_position": "middle"
+        },
+        {
+            "title": "Do inexperienced bumblebee foragers use scent marks as social information?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "l3Wo0BgAAAAJ:YsMSGLbcyi4C",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Animal cognition 14 (6), 915-919, 2011",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11815730133706216031",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11815730133706216031&engine=google_scholar&hl=en",
+                "cites_id": "11815730133706216031"
+            },
+            "year": "2011",
+            "author_position": "first"
+        },
+        {
+            "title": "Nest inheritance is the missing source of direct fitness in a primitively eusocial insect",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "l3Wo0BgAAAAJ:9yKSN-GCB0IC",
+            "authors": "E Leadbeater, JM Carruthers, JP Green, NS Rosser, J Field",
+            "publication": "Science 333 (6044), 874-876, 2011",
+            "cited_by": {
+                "value": 203,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14041342732090224870",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14041342732090224870&engine=google_scholar&hl=en",
+                "cites_id": "14041342732090224870"
+            },
+            "year": "2011",
+            "author_position": "first"
+        },
+        {
+            "title": "Social learning: the importance of copying others",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "l3Wo0BgAAAAJ:Y0pCki6q_DkC",
+            "authors": "C Gr\u00fcter, E Leadbeater, FLW Ratnieks",
+            "publication": "Current Biology 20 (16), R683-R685, 2010",
+            "cited_by": {
+                "value": 62,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10779697729852201466",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10779697729852201466&engine=google_scholar&hl=en",
+                "cites_id": "10779697729852201466"
+            },
+            "year": "2010",
+            "author_position": "middle"
+        },
+        {
+            "title": "Unrelated helpers in a primitively eusocial wasp: is helping tailored towards direct fitness?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "l3Wo0BgAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "E Leadbeater, JM Carruthers, JP Green, J van Heusden, J Field",
+            "publication": "PLoS One 5 (8), e11997, 2010",
+            "cited_by": {
+                "value": 52,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5438196540004794751",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5438196540004794751&engine=google_scholar&hl=en",
+                "cites_id": "5438196540004794751"
+            },
+            "year": "2010",
+            "author_position": "first"
+        },
+        {
+            "title": "Unrelated Helpers in a Primitively Eusocial Wasp: Is Helping Tailored Towards Direct",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:TQgYirikUcIC",
+            "citation_id": "l3Wo0BgAAAAJ:TQgYirikUcIC",
+            "authors": "E Leadbeater, JM Carruthers, JP Green, J van Heusden, J Field",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2010",
+            "author_position": "first"
+        },
+        {
+            "title": "Social information use in foraging insects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "l3Wo0BgAAAAJ:W7OEmFMy1HYC",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Food exploitation by social insects: ecological, behavioral, and theoretical \u2026, 2009",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5488053611978649027",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5488053611978649027&engine=google_scholar&hl=en",
+                "cites_id": "5488053611978649027"
+            },
+            "year": "2009",
+            "author_position": "first"
+        },
+        {
+            "title": "Social learning: what do Drosophila have to offer?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:WF5omc3nYNoC",
+            "citation_id": "l3Wo0BgAAAAJ:WF5omc3nYNoC",
+            "authors": "E Leadbeater",
+            "publication": "Current Biology 19 (9), R378-R380, 2009",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13156377041485067877",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13156377041485067877&engine=google_scholar&hl=en",
+                "cites_id": "13156377041485067877"
+            },
+            "year": "2009",
+            "author_position": "first"
+        },
+        {
+            "title": "Bumble-bees learn the value of social cues through experience",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:qjMakFHDy7sC",
+            "citation_id": "l3Wo0BgAAAAJ:qjMakFHDy7sC",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Biology Letters 5 (3), 310, 2009",
+            "cited_by": {
+                "value": 112,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1922591812091693150",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1922591812091693150&engine=google_scholar&hl=en",
+                "cites_id": "1922591812091693150"
+            },
+            "year": "2009",
+            "author_position": "first"
+        },
+        {
+            "title": "Social transmission off nectar-robbing behaviour in bumble-bees.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:u_35RYKgDlwC",
+            "citation_id": "l3Wo0BgAAAAJ:u_35RYKgDlwC",
+            "authors": "E Leadbeater, L Chittka",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2008",
+            "author_position": "first"
+        },
+        {
+            "title": "Social transmission of nectar-robbing behaviour in bumble-bees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "l3Wo0BgAAAAJ:IjCSPb-OGe4C",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Proceedings of the Royal Society B: Biological Sciences 275 (1643), 1669, 2008",
+            "cited_by": {
+                "value": 127,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10995547491244022091",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10995547491244022091&engine=google_scholar&hl=en",
+                "cites_id": "10995547491244022091"
+            },
+            "year": "2008",
+            "author_position": "first"
+        },
+        {
+            "title": "Social Influences on Learning in an Insect Model, the Bumblebee",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "l3Wo0BgAAAAJ:MXK_kJrjxJIC",
+            "authors": "EA Leadbeater",
+            "publication": "University of London, 2008",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2008",
+            "author_position": "first"
+        },
+        {
+            "title": "Social information use and social learning in the Bumblebee (Bombus terrestris)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:roLk4NBRz8UC",
+            "citation_id": "l3Wo0BgAAAAJ:roLk4NBRz8UC",
+            "authors": "EA Leadbeater",
+            "publication": "Queen Mary, University of London, 2008",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2008",
+            "author_position": "first"
+        },
+        {
+            "title": "The dynamics of social learning in an insect model, the bumblebee (Bombus terrestris)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "l3Wo0BgAAAAJ:d1gkVwhDpl0C",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Behavioral Ecology and Sociobiology 61 (11), 1789-1796, 2007",
+            "cited_by": {
+                "value": 200,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14086578267249661095",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14086578267249661095&engine=google_scholar&hl=en",
+                "cites_id": "14086578267249661095"
+            },
+            "year": "2007",
+            "author_position": "first"
+        },
+        {
+            "title": "Social learning in insects\u2014from miniature brains to consensus building",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "l3Wo0BgAAAAJ:u5HHmVD_uO8C",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Current biology 17 (16), R703-R713, 2007",
+            "cited_by": {
+                "value": 451,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2227069386345531412",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2227069386345531412&engine=google_scholar&hl=en",
+                "cites_id": "2227069386345531412"
+            },
+            "year": "2007",
+            "author_position": "first"
+        },
+        {
+            "title": "Social learning: ants and the meaning of teaching",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "l3Wo0BgAAAAJ:2osOgNQ5qMEC",
+            "authors": "E Leadbeater, NE Raine, L Chittka",
+            "publication": "Current biology 16 (9), R323-R325, 2006",
+            "cited_by": {
+                "value": 85,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3220569370440448242",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3220569370440448242&engine=google_scholar&hl=en",
+                "cites_id": "3220569370440448242"
+            },
+            "year": "2006",
+            "author_position": "first"
+        },
+        {
+            "title": "Social learning: public information in insects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "l3Wo0BgAAAAJ:UeHWp8X0CEIC",
+            "authors": "L Chittka, E Leadbeater",
+            "publication": "Current Biology 15 (21), R869-R871, 2005",
+            "cited_by": {
+                "value": 72,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11188782577088252906",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11188782577088252906&engine=google_scholar&hl=en",
+                "cites_id": "11188782577088252906"
+            },
+            "year": "2005",
+            "author_position": "last"
+        },
+        {
+            "title": "Unusual phonation, covarying song characteristics and song preferences in female zebra finches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "l3Wo0BgAAAAJ:zYLM7Y9cAGgC",
+            "authors": "E Leadbeater, F Goller, K Riebel",
+            "publication": "Animal Behaviour 70 (4), 909-919, 2005",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15436614218733616179",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15436614218733616179&engine=google_scholar&hl=en",
+                "cites_id": "15436614218733616179"
+            },
+            "year": "2005",
+            "author_position": "first"
+        },
+        {
+            "title": "A new mode of information transfer in foraging bumblebees?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "l3Wo0BgAAAAJ:u-x6o8ySG0sC",
+            "authors": "E Leadbeater, L Chittka",
+            "publication": "Current Biology 15 (12), R447-R448, 2005",
+            "cited_by": {
+                "value": 134,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12373229349924022131",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12373229349924022131&engine=google_scholar&hl=en",
+                "cites_id": "12373229349924022131"
+            },
+            "year": "2005",
+            "author_position": "first"
+        },
+        {
+            "title": "by Subject",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:rO6llkc54NcC",
+            "citation_id": "l3Wo0BgAAAAJ:rO6llkc54NcC",
+            "authors": "D Patterson, CSRSCA Board, DM Patterson",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2001",
+            "author_position": "middle"
+        },
+        {
+            "title": "D1. 2 Field Site Monitoring Protocol",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:NhqRSupF_l8C",
+            "citation_id": "l3Wo0BgAAAAJ:NhqRSupF_l8C",
+            "authors": "E Leadbeater, M Brown",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "first"
+        },
+        {
+            "title": "D1. 1 A review of sampling protocols for nectar and pollen",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:b0M2c_1WBrUC",
+            "citation_id": "l3Wo0BgAAAAJ:b0M2c_1WBrUC",
+            "authors": "M Leponiemi, E Leadbeater, MJF Brown",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        },
+        {
+            "title": "Lower bumblebee colony reproductive success in agricultural compared to urban environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "l3Wo0BgAAAAJ:ZeXyd9-uunAC",
+            "authors": "E Leadbeater",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "first"
+        },
+        {
+            "title": "Orientierung und Kommunikation bei Hummeln",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l3Wo0BgAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=l3Wo0BgAAAAJ:Se3iqnhoufwC",
+            "citation_id": "l3Wo0BgAAAAJ:Se3iqnhoufwC",
+            "authors": "WH Kirchner, B Heinrich, SA Cameron, U Schmitt, G L\u00fcbke, W Francke, ...",
+            "cited_by": {
+                "value": null
+            },
+            "year": "",
+            "author_position": "middle"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 4588,
+                    "since_2021": 2626
+                }
+            },
+            {
+                "h_index": {
+                    "all": 34,
+                    "since_2021": 27
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 47,
+                    "since_2021": 38
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2007,
+                "citations": 18
+            },
+            {
+                "year": 2008,
+                "citations": 44
+            },
+            {
+                "year": 2009,
+                "citations": 52
+            },
+            {
+                "year": 2010,
+                "citations": 51
+            },
+            {
+                "year": 2011,
+                "citations": 81
+            },
+            {
+                "year": 2012,
+                "citations": 96
+            },
+            {
+                "year": 2013,
+                "citations": 146
+            },
+            {
+                "year": 2014,
+                "citations": 167
+            },
+            {
+                "year": 2015,
+                "citations": 170
+            },
+            {
+                "year": 2016,
+                "citations": 152
+            },
+            {
+                "year": 2017,
+                "citations": 143
+            },
+            {
+                "year": 2018,
+                "citations": 163
+            },
+            {
+                "year": 2019,
+                "citations": 316
+            },
+            {
+                "year": 2020,
+                "citations": 319
+            },
+            {
+                "year": 2021,
+                "citations": 403
+            },
+            {
+                "year": 2022,
+                "citations": 487
+            },
+            {
+                "year": 2023,
+                "citations": 492
+            },
+            {
+                "year": 2024,
+                "citations": 457
+            },
+            {
+                "year": 2025,
+                "citations": 458
+            },
+            {
+                "year": 2026,
+                "citations": 313
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=l3Wo0BgAAAAJ",
+        "available": 38,
+        "not_available": 2
+    },
+    "co_authors": [
+        {
+            "name": "Mark J F Brown",
+            "link": "https://scholar.google.com/citations?user=AS61FUkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AS61FUkAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "AS61FUkAAAAJ",
+            "affiliations": "Prof of Evolutionary Biology & Ecology, Director University Museum of Zoology, Cambridge University",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AS61FUkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lars Chittka",
+            "link": "https://scholar.google.com/citations?user=ux2CNs0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ux2CNs0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "ux2CNs0AAAAJ",
+            "affiliations": "Queen Mary, University of London",
+            "email": "Verified email at qmul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ux2CNs0AAAAJ&citpid=4"
+        },
+        {
+            "name": "Harry Siviter",
+            "link": "https://scholar.google.com/citations?user=e-2AP5wAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e-2AP5wAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "e-2AP5wAAAAJ",
+            "affiliations": "University of Bristol",
+            "email": "Verified email at bristol.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e-2AP5wAAAAJ&citpid=19"
+        },
+        {
+            "name": "Ash. E. Samuelson",
+            "link": "https://scholar.google.com/citations?user=Z9yw0woAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Z9yw0woAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "Z9yw0woAAAAJ",
+            "affiliations": "PhD Student, Royal Holloway University of London",
+            "email": "Verified email at live.rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Z9yw0woAAAAJ&citpid=2"
+        },
+        {
+            "name": "Julia Koricheva",
+            "link": "https://scholar.google.com/citations?user=4e9ZwOUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4e9ZwOUAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "4e9ZwOUAAAAJ",
+            "affiliations": "Professor of Ecology, Royal Holloway University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4e9ZwOUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Matthew J Hasenjager",
+            "link": "https://scholar.google.com/citations?user=HKKnxr8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HKKnxr8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "HKKnxr8AAAAJ",
+            "affiliations": "University of Tennessee, Knoxville",
+            "email": "Verified email at utk.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HKKnxr8AAAAJ&citpid=5"
+        },
+        {
+            "name": "Richard J. Gill",
+            "link": "https://scholar.google.com/citations?user=kGDFb7QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kGDFb7QAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "kGDFb7QAAAAJ",
+            "affiliations": "Imperial College London",
+            "email": "Verified email at imperial.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kGDFb7QAAAAJ&citpid=4"
+        },
+        {
+            "name": "Callum Martin",
+            "link": "https://scholar.google.com/citations?user=rO2t2vAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rO2t2vAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "rO2t2vAAAAAJ",
+            "affiliations": "Royal Holloway University of London",
+            "email": "Verified email at live.rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "William Hoppitt",
+            "link": "https://scholar.google.com/citations?user=0PPqm5UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0PPqm5UAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "0PPqm5UAAAAJ",
+            "affiliations": "Lecturer in Zoology, University of Cumbria",
+            "email": "Verified email at cumbria.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0PPqm5UAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jonathan P Green",
+            "link": "https://scholar.google.com/citations?user=ARNmthoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ARNmthoAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "ARNmthoAAAAJ",
+            "affiliations": "University of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ARNmthoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Erika Dawson",
+            "link": "https://scholar.google.com/citations?user=M2jTjK0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=M2jTjK0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "M2jTjK0AAAAJ",
+            "affiliations": "Sorbonne University",
+            "email": "Verified email at sorbonne-universite.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=M2jTjK0AAAAJ&citpid=31"
+        },
+        {
+            "name": "Christoph Gr\u00fcter",
+            "link": "https://scholar.google.com/citations?user=EKuaXwsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EKuaXwsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "EKuaXwsAAAAJ",
+            "affiliations": "Associate Professor in Animal Behaviour & Ecology, University of Bristol, UK",
+            "email": "Verified email at bristol.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EKuaXwsAAAAJ&citpid=17"
+        },
+        {
+            "name": "Seirian Sumner",
+            "link": "https://scholar.google.com/citations?user=OeD6rUEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OeD6rUEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "OeD6rUEAAAAJ",
+            "affiliations": "University College London, UK",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OeD6rUEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Neil Rosser",
+            "link": "https://scholar.google.com/citations?user=bKyzoi0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bKyzoi0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "bKyzoi0AAAAJ",
+            "affiliations": "University of Miami and Museum of Comparative Zoology, Harvard University",
+            "email": "Verified email at miami.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bKyzoi0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Nigel Raine",
+            "link": "https://scholar.google.com/citations?user=YJ9feCAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YJ9feCAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "YJ9feCAAAAAJ",
+            "affiliations": "Rebanks Family Chair in Pollinator Conservation, University of Guelph, Guelph, Canada",
+            "email": "Verified email at uoguelph.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YJ9feCAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Aurore Avargu\u00e8s-Weber",
+            "link": "https://scholar.google.com/citations?user=PlyFoMAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PlyFoMAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "PlyFoMAAAAAJ",
+            "affiliations": "CNRS Researcher (CR2), CRCA (CNRS-UT3), TMBI (Univ. Toulouse)",
+            "email": "Verified email at univ-tlse3.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PlyFoMAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Francis Ratnieks",
+            "link": "https://scholar.google.com/citations?user=mF4l2Z0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mF4l2Z0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "mF4l2Z0AAAAJ",
+            "affiliations": "University of Sussex",
+            "email": "Verified email at Sussex.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mF4l2Z0AAAAJ&citpid=10"
+        },
+        {
+            "name": "Katharina Riebel",
+            "link": "https://scholar.google.com/citations?user=mdP2FF0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mdP2FF0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "mdP2FF0AAAAJ",
+            "affiliations": "Institute of Biology (IBL), Leiden University",
+            "email": "Verified email at biology.leidenuniv.nl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "turillazzi stefano",
+            "link": "https://scholar.google.com/citations?user=KWjn4Q4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KWjn4Q4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+            "author_id": "KWjn4Q4AAAAJ",
+            "affiliations": "universit\u00e0 di Firenze",
+            "email": "Verified email at unifi.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KWjn4Q4AAAAJ&citpid=2"
+        }
+    ]
+}
