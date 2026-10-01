@@ -12,3 +12,5 @@ GOOGLE_SCHOLAR_AUTHOR_PAGE_URLS = [
     "https://scholar.google.co.uk/citations?user=N2E5tqIAAAAJ&hl=en", # Artemis Skarlatidou
     "https://scholar.google.com/citations?user=qBBWOA8AAAAJ&hl=en", # Gail Taylor
 ]
+
+from config_local import *
